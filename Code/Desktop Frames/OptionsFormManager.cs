@@ -595,7 +595,20 @@ namespace Desktop_Frames
 
             CreateCheckBox(c, Strings.OptAutomaticBackup, "EnableAutoBackup", SettingsManager.EnableAutoBackup);
 
-
+            CreateSectionHeader(c, Strings.LayoutSnapshots, ColorTools);
+            c.Children.Add(new TextBlock
+            {
+                Text = Strings.LayoutOptionsDescription,
+                TextWrapping = TextWrapping.Wrap,
+                Foreground = Brushes.DimGray,
+                Margin = new Thickness(0, 0, 0, 10)
+            });
+            Button snapshots = CreateStyledButton(Strings.LayoutSnapshotsButton, ColorTools);
+            snapshots.Width = 255;
+            snapshots.Height = 45;
+            snapshots.HorizontalAlignment = HorizontalAlignment.Left;
+            snapshots.Click += (s, e) => Layouts.SavedLayoutsWindow.ShowWindow(_optionsWindow);
+            c.Children.Add(snapshots);
 
             // --- Maintenance Section ---
             Color darkPink = Color.FromRgb(199, 21, 133); // MediumVioletRed
@@ -643,7 +656,7 @@ namespace Desktop_Frames
             rs.Children.Add(r1); rs.Children.Add(r2);
             c.Children.Add(rs);
 
-            t.Content = c;
+            t.Content = new ScrollViewer { Content = c, VerticalScrollBarVisibility = ScrollBarVisibility.Auto };
             _tabControl.Items.Add(t);
         }
 
@@ -1145,7 +1158,7 @@ namespace Desktop_Frames
                 }
 
                 // 3. Tools
-                var toolsContent = (StackPanel)((TabItem)_tabControl.Items[2]).Content;
+                var toolsContent = (StackPanel)((ScrollViewer)((TabItem)_tabControl.Items[2]).Content).Content;
                 foreach (var child in toolsContent.Children) if (child is CheckBox cb && cb.Name == "EnableAutoBackup") SettingsManager.EnableAutoBackup = cb.IsChecked == true;
 
                 // 4. Hotkeys (NEW)
