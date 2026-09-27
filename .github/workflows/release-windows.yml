@@ -5,6 +5,12 @@ on:
     tags:
       - 'v[0-9]*'
       - '[0-9]*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing version tag to build
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -14,6 +20,8 @@ jobs:
     runs-on: windows-2022
     steps:
       - uses: actions/checkout@v7
+        with:
+          ref: ${{ inputs.tag || github.ref }}
 
       - uses: actions/setup-dotnet@v6
         with:
@@ -24,26 +32,22 @@ jobs:
         with:
           msbuild-architecture: x64
 
-      - name: Check version tag
+      - name: Read version tag
         shell: pwsh
         env:
-          TAG_NAME: ${{ github.ref_name }}
+          TAG_NAME: ${{ inputs.tag || github.ref_name }}
         run: |
           if ($env:TAG_NAME -cnotmatch '^v?([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)$') {
-            throw "Expected a version tag such as v2.7.8.358."
+            throw "Expected a version tag such as v2.7.8.359."
           }
           $version = $Matches[1]
-          [xml]$project = Get-Content -Raw 'Code/Desktop Frames/Desktop Frames.csproj'
-          if ($version -ne [string]$project.Project.PropertyGroup.Version) {
-            throw "Tag version $version does not match the project version $($project.Project.PropertyGroup.Version)."
-          }
           "RELEASE_VERSION=$version" >> $env:GITHUB_ENV
 
       - name: Publish framework-dependent Windows build
         shell: pwsh
         run: |
           $publishDir = Join-Path $env:RUNNER_TEMP 'DesktopFramesPlusPublish'
-          msbuild 'Code/Desktop Frames/Desktop Frames.csproj' /restore /t:Publish /p:Configuration=Release /p:SelfContained=false /p:PublishReadyToRun=false /p:CopyOutputSymbolsToPublishDirectory=true "/p:PublishDir=$publishDir/"
+          msbuild 'Code/Desktop Frames/Desktop Frames.csproj' /restore /t:Publish /p:Configuration=Release /p:SelfContained=false /p:PublishReadyToRun=false /p:CopyOutputSymbolsToPublishDirectory=true "/p:PublishDir=$publishDir/" "/p:Version=$env:RELEASE_VERSION" "/p:AssemblyVersion=$env:RELEASE_VERSION" "/p:FileVersion=$env:RELEASE_VERSION"
           if ($LASTEXITCODE -ne 0) { throw "MSBuild publish failed." }
 
       - name: Package release ZIP
@@ -68,6 +72,10 @@ jobs:
               throw "Missing release file: $name"
             }
           }
+          $builtVersion = [System.Reflection.AssemblyName]::GetAssemblyName((Join-Path $publishDir 'Desktop Frames.dll')).Version.ToString()
+          if ($builtVersion -ne $env:RELEASE_VERSION) {
+            throw "Built assembly version $builtVersion does not match tag version $env:RELEASE_VERSION."
+          }
           $config = Get-Content -Raw (Join-Path $publishDir 'Desktop Frames.runtimeconfig.json') | ConvertFrom-Json
           if ($config.runtimeOptions.frameworks.name -notcontains 'Microsoft.WindowsDesktop.App') {
             throw 'The build is not framework-dependent on the .NET Desktop Runtime.'
@@ -80,7 +88,7 @@ jobs:
         shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
-          TAG_NAME: ${{ github.ref_name }}
+          TAG_NAME: ${{ inputs.tag || github.ref_name }}
         run: |
           $archive = Join-Path $env:RUNNER_TEMP "DesktopFrames+_v$env:RELEASE_VERSION.zip"
           gh release create $env:TAG_NAME $archive --verify-tag --title "Desktop Frames + $env:RELEASE_VERSION" --notes 'Requires the .NET 8 Desktop Runtime.' --generate-notes
