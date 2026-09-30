@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,1813 +118,1813 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutAnd" xml:space="preserve">
-    <value> und </value>
+    <value>と</value>
   </data>
   <data name="AboutBody" xml:space="preserve">
-    <value>Desktop Frames + legt virtuelle Rahmen auf dem Desktop an, in denen sich Symbole sauber und bequem gruppieren und ordnen lassen.</value>
+    <value>Desktop Frames + は、デスクトップ上に仮想的な Frame を作成し、アイコンをすっきりと使いやすい方法でグループ化・整理できるようにします。</value>
   </data>
   <data name="AboutCreditsBody" xml:space="preserve">
-    <value>Desktop Frames + ist ein quelloffenes Windows-Werkzeug, entstanden aus der Arbeit von HakanKokcu unter dem Namen BirdyFences.
+    <value>Desktop Frames + は Windows 向けのオープンソースユーティリティで、元々は HakanKokcu によって BirdyFences という名前で作成されました。
 
-Heute wird es von Nikos Georgousis gepflegt, der es erweitert und stabiler sowie angenehmer gemacht hat.</value>
+現在は Nikos Georgousis によってメンテナンスされており、安定性とユーザー体験の向上のために改良・最適化が行われています。</value>
   </data>
   <data name="AboutDonateBig" xml:space="preserve">
-    <value>999,00 € spenden</value>
+    <value>999,00 € を寄付する</value>
   </data>
   <data name="AboutDontFeedDragons" xml:space="preserve">
-    <value>Bitte die Drachen nicht füttern</value>
+    <value>ドラゴンに餌を与えないでください</value>
   </data>
   <data name="AboutGreatToHaveYou" xml:space="preserve">
-    <value>Schön, dass du da bist</value>
+    <value>ここに来ていただけて嬉しいです</value>
   </data>
   <data name="AboutLicense" xml:space="preserve">
-    <value>⚖ MIT-Lizenz</value>
+    <value>⚖ MIT ライセンス</value>
   </data>
   <data name="AboutPleaseDonate" xml:space="preserve">
-    <value>Bitte spenden</value>
+    <value>ご寄付をお願いします</value>
   </data>
   <data name="AboutSectionAbout" xml:space="preserve">
-    <value>Über</value>
+    <value>概要</value>
   </data>
   <data name="AboutSectionCredits" xml:space="preserve">
-    <value>Danksagungen</value>
+    <value>クレジット</value>
   </data>
   <data name="AboutSoundCredits" xml:space="preserve">
-    <value>Kostenlose Klänge von </value>
+    <value>使用している無料サウンドの提供元: </value>
   </data>
   <data name="AboutSupportDevelopment" xml:space="preserve">
-    <value>Entwicklung unterstützen</value>
+    <value>開発を支援する</value>
   </data>
   <data name="AboutTagline" xml:space="preserve">
-    <value>Räume deinen Desktop auf wie von Zauberhand.</value>
+    <value>デスクトップを魔法のように整理しよう！</value>
   </data>
   <data name="AboutThinkAgain" xml:space="preserve">
-    <value>Sicher? Denk noch mal nach!</value>
+    <value>本当によろしいですか？もう一度お考えください！</value>
   </data>
   <data name="AboutTitle" xml:space="preserve">
-    <value>Über Desktop Frames +</value>
+    <value>Desktop Frames + について</value>
   </data>
   <data name="AboutVersion" xml:space="preserve">
-    <value>Version {0}</value>
+    <value>バージョン {0}</value>
   </data>
   <data name="AboutVisitGitHub" xml:space="preserve">
-    <value>⚡ Zum GitHub-Repository</value>
+    <value>⚡ GitHub リポジトリを見る</value>
   </data>
   <data name="AboutWhat" xml:space="preserve">
-    <value>Wie bitte!?</value>
+    <value>え!?</value>
   </data>
   <data name="AutomationClickTarget" xml:space="preserve">
-    <value>KLICKE AUF DAS ZIELFENSTER</value>
+    <value>対象のウィンドウをクリックしてください</value>
   </data>
   <data name="AutomationDeleteSelected" xml:space="preserve">
-    <value>Ausgewählte löschen</value>
+    <value>選択項目を削除</value>
   </data>
   <data name="AutomationDoubleClickEdit" xml:space="preserve">
-    <value>Doppelklick zum Bearbeiten der Regel</value>
+    <value>ダブルクリックでルールを編集</value>
   </data>
   <data name="AutomationExisting" xml:space="preserve">
-    <value>Vorhandene Regeln</value>
+    <value>既存のルール</value>
   </data>
   <data name="AutomationManage" xml:space="preserve">
-    <value>Automatisierungsregeln verwalten</value>
+    <value>自動化ルールの管理</value>
   </data>
   <data name="AutomationPersistedMode" xml:space="preserve">
-    <value>Dauerhafter Modus (nach dem Schließen im Profil bleiben)</value>
+    <value>持続モード（閉じた後もプロファイルを維持）</value>
   </data>
   <data name="AutomationPickWindow" xml:space="preserve">
-    <value>🎯 Fenster wählen</value>
+    <value>🎯 ウィンドウを選択</value>
   </data>
   <data name="AutomationRuleDefinition" xml:space="preserve">
-    <value>Regeldefinition</value>
+    <value>ルール定義</value>
   </data>
   <data name="AutomationTitle" xml:space="preserve">
-    <value>Automatisierungsregeln</value>
+    <value>自動化ルール</value>
   </data>
   <data name="AutoOrgAddRule" xml:space="preserve">
-    <value>+ Regel hinzufügen</value>
+    <value>+ ルールを追加</value>
   </data>
   <data name="AutoOrgBrowseFolder" xml:space="preserve">
-    <value>Ordner wählen…</value>
+    <value>フォルダーを参照...</value>
   </data>
   <data name="AutoOrgCustomExtensions" xml:space="preserve">
-    <value>Eigene Endungen (z. B. *.zip; *.rar):</value>
+    <value>カスタム拡張子（例: *.zip; *.rar）:</value>
   </data>
   <data name="AutoOrgEnableRule" xml:space="preserve">
-    <value>Diese Regel aktivieren</value>
+    <value>このルールを有効にする</value>
   </data>
   <data name="AutoOrgFilenameContains" xml:space="preserve">
-    <value>Und der Name enthält (optional, leer = beliebig):</value>
+    <value>かつファイル名に次を含む（任意、空欄で全て対象）:</value>
   </data>
   <data name="AutoOrgGeneratePortal" xml:space="preserve">
-    <value>Portal-Rahmen für diesen Ordner anlegen</value>
+    <value>このフォルダー用に新しい Portal Frame を作成</value>
   </data>
   <data name="AutoOrgIfExists" xml:space="preserve">
-    <value>Wenn die Datei schon existiert:</value>
+    <value>ファイルが既に存在する場合:</value>
   </data>
   <data name="AutoOrgIfExtension" xml:space="preserve">
-    <value>Wenn die Dateiendung ist:</value>
+    <value>ファイルの拡張子が次の場合:</value>
   </data>
   <data name="AutoOrgMoveTo" xml:space="preserve">
-    <value>Verschieben nach:</value>
+    <value>移動先:</value>
   </data>
   <data name="AutoOrgRemove" xml:space="preserve">
-    <value>− Entfernen</value>
+    <value>− 削除</value>
   </data>
   <data name="AutoOrgRuleName" xml:space="preserve">
-    <value>Regelname:</value>
+    <value>ルール名:</value>
   </data>
   <data name="AutoOrgSaveRules" xml:space="preserve">
-    <value>Regeln speichern</value>
+    <value>ルールを保存</value>
   </data>
   <data name="AutoOrgTitle" xml:space="preserve">
-    <value>Intelligente Desktop-Regeln</value>
+    <value>Smart Desktop ルール</value>
   </data>
   <data name="BackupSelectExportFile" xml:space="preserve">
-    <value>Exportdatei des Rahmens wählen</value>
+    <value>Frame のエクスポートファイルを選択</value>
   </data>
   <data name="BtnApply" xml:space="preserve">
-    <value>Übernehmen</value>
+    <value>適用</value>
   </data>
   <data name="BtnApplyToAll" xml:space="preserve">
-    <value>Auf alle übernehmen</value>
+    <value>すべてに適用</value>
   </data>
   <data name="BtnBackup" xml:space="preserve">
-    <value>Sicherung</value>
+    <value>バックアップ</value>
   </data>
   <data name="BtnBrowse" xml:space="preserve">
-    <value>Durchsuchen…</value>
+    <value>参照...</value>
   </data>
   <data name="BtnCancel" xml:space="preserve">
-    <value>Abbrechen</value>
+    <value>キャンセル</value>
   </data>
   <data name="BtnClearAllData" xml:space="preserve">
-    <value>Alle Daten löschen</value>
+    <value>すべてのデータを消去</value>
   </data>
   <data name="BtnClose" xml:space="preserve">
-    <value>Schließen</value>
+    <value>閉じる</value>
   </data>
   <data name="BtnCreate" xml:space="preserve">
-    <value>Erstellen</value>
+    <value>作成</value>
   </data>
   <data name="BtnDefault" xml:space="preserve">
-    <value>Standard</value>
+    <value>既定</value>
   </data>
   <data name="BtnDonate" xml:space="preserve">
-    <value>♥ Per PayPal spenden</value>
+    <value>♥ PayPal で寄付</value>
   </data>
   <data name="BtnManageAutomation" xml:space="preserve">
-    <value>Automatisierung verwalten</value>
+    <value>自動化の管理</value>
   </data>
   <data name="BtnManageProfiles" xml:space="preserve">
-    <value>Profile verwalten</value>
+    <value>プロファイルの管理</value>
   </data>
   <data name="BtnMoveDown" xml:space="preserve">
-    <value>▼ Nach unten</value>
+    <value>▼ 下へ</value>
   </data>
   <data name="BtnMoveUp" xml:space="preserve">
-    <value>▲ Nach oben</value>
+    <value>▲ 上へ</value>
   </data>
   <data name="BtnOpenBackupsFolder" xml:space="preserve">
-    <value>Sicherungsordner öffnen</value>
+    <value>バックアップフォルダーを開く</value>
   </data>
   <data name="BtnOpenLog" xml:space="preserve">
-    <value>Protokoll öffnen</value>
+    <value>ログを開く</value>
   </data>
   <data name="BtnOrganizeNow" xml:space="preserve">
-    <value>Jetzt aufräumen</value>
+    <value>今すぐ整理（実行）</value>
   </data>
   <data name="BtnReset" xml:space="preserve">
-    <value>Zurücksetzen</value>
+    <value>リセット</value>
   </data>
   <data name="BtnResetStyles" xml:space="preserve">
-    <value>Stile zurücksetzen</value>
+    <value>スタイルをリセット</value>
   </data>
   <data name="BtnRestore" xml:space="preserve">
-    <value>Wiederherstellen…</value>
+    <value>復元...</value>
   </data>
   <data name="BtnSave" xml:space="preserve">
-    <value>Speichern</value>
+    <value>保存</value>
   </data>
   <data name="BtnSaveToAll" xml:space="preserve">
-    <value>Für alle speichern</value>
+    <value>すべてに保存</value>
   </data>
   <data name="BtnScreenBoundFrames" xml:space="preserve">
-    <value>Rahmen zurück auf den Bildschirm holen</value>
+    <value>Frame を画面内に収める</value>
   </data>
   <data name="BtnSmartDesktopRules" xml:space="preserve">
-    <value>Regeln für den intelligenten Desktop…</value>
+    <value>Smart Desktop ルール...</value>
   </data>
   <data name="ButtonNo" xml:space="preserve">
-    <value>Nein</value>
+    <value>いいえ</value>
   </data>
   <data name="ButtonOk" xml:space="preserve">
     <value>OK</value>
   </data>
   <data name="ButtonYes" xml:space="preserve">
-    <value>Ja</value>
+    <value>はい</value>
   </data>
   <data name="CalcBadgeFade" xml:space="preserve">
-    <value>Dauer des Ausblendens (ms):</value>
+    <value>バッジのフェード時間（ms）:</value>
   </data>
   <data name="CalcClear" xml:space="preserve">
-    <value>Löschen</value>
+    <value>クリア</value>
   </data>
   <data name="CalcCleared" xml:space="preserve">
-    <value>Gelöscht</value>
+    <value>クリアしました</value>
   </data>
   <data name="CalcClearedAll" xml:space="preserve">
-    <value>Alles gelöscht</value>
+    <value>すべてクリアしました</value>
   </data>
   <data name="CalcClearHistory" xml:space="preserve">
-    <value>Verlauf löschen</value>
+    <value>履歴をクリア</value>
   </data>
   <data name="CalcClearMemory" xml:space="preserve">
-    <value>Speicher und Verlauf löschen</value>
+    <value>メモリと履歴をクリア</value>
   </data>
   <data name="CalcClearOnNewInput" xml:space="preserve">
-    <value>Anzeige bei neuer Eingabe löschen (nach „=“)</value>
+    <value>新規入力時に表示をクリア（'=' の後）</value>
   </data>
   <data name="CalcCopy" xml:space="preserve">
-    <value>Kopieren</value>
+    <value>コピー</value>
   </data>
   <data name="CalcDisplayColor" xml:space="preserve">
-    <value>Farbe der Anzeige:</value>
+    <value>表示色:</value>
   </data>
   <data name="CalcEntryCleared" xml:space="preserve">
-    <value>Eingabe gelöscht</value>
+    <value>入力をクリアしました</value>
   </data>
   <data name="CalcErrorDisplay" xml:space="preserve">
-    <value>Fehler</value>
+    <value>エラー</value>
   </data>
   <data name="CalcHistoryColor" xml:space="preserve">
-    <value>Farbe des Verlaufs:</value>
+    <value>履歴の色:</value>
   </data>
   <data name="CalcPaste" xml:space="preserve">
-    <value>Einfügen</value>
+    <value>貼り付け</value>
   </data>
   <data name="CalcPercentage" xml:space="preserve">
-    <value>Prozent</value>
+    <value>パーセント</value>
   </data>
   <data name="CalcSettings" xml:space="preserve">
-    <value>Einstellungen des Taschenrechners</value>
+    <value>電卓の設定</value>
   </data>
   <data name="CalcShowKeypad" xml:space="preserve">
-    <value>Ziffernblock anzeigen</value>
+    <value>仮想キーパッドを表示</value>
   </data>
   <data name="CalcShowOperationNames" xml:space="preserve">
-    <value>Namen der Rechenarten anzeigen (z. B. Addition)</value>
+    <value>演算名を表示（例: 加算）</value>
   </data>
   <data name="CalcShowTape" xml:space="preserve">
-    <value>Rechenstreifen anzeigen</value>
+    <value>計算履歴テープを表示</value>
   </data>
   <data name="ColDateModified" xml:space="preserve">
-    <value>Änderungsdatum</value>
+    <value>更新日時</value>
   </data>
   <data name="ColName" xml:space="preserve">
-    <value>Name</value>
+    <value>名前</value>
   </data>
   <data name="ColorBeige" xml:space="preserve">
-    <value>Beige</value>
+    <value>ベージュ</value>
   </data>
   <data name="ColorBismark" xml:space="preserve">
-    <value>Bismark</value>
+    <value>ビスマルク</value>
   </data>
   <data name="ColorBlack" xml:space="preserve">
-    <value>Schwarz</value>
+    <value>黒</value>
   </data>
   <data name="ColorBlue" xml:space="preserve">
-    <value>Blau</value>
+    <value>青</value>
   </data>
   <data name="ColorFuchsia" xml:space="preserve">
-    <value>Fuchsia</value>
+    <value>フクシア</value>
   </data>
   <data name="ColorGray" xml:space="preserve">
-    <value>Grau</value>
+    <value>グレー</value>
   </data>
   <data name="ColorGreen" xml:space="preserve">
-    <value>Grün</value>
+    <value>緑</value>
   </data>
   <data name="ColorOrange" xml:space="preserve">
-    <value>Orange</value>
+    <value>オレンジ</value>
   </data>
   <data name="ColorPurple" xml:space="preserve">
-    <value>Violett</value>
+    <value>紫</value>
   </data>
   <data name="ColorRed" xml:space="preserve">
-    <value>Rot</value>
+    <value>赤</value>
   </data>
   <data name="ColorWhite" xml:space="preserve">
-    <value>Weiß</value>
+    <value>白</value>
   </data>
   <data name="ColorYellow" xml:space="preserve">
-    <value>Gelb</value>
+    <value>黄色</value>
   </data>
   <data name="ColSize" xml:space="preserve">
-    <value>Größe</value>
+    <value>サイズ</value>
   </data>
   <data name="ColType" xml:space="preserve">
-    <value>Typ</value>
+    <value>種類</value>
   </data>
   <data name="ConfirmDeleteTitle" xml:space="preserve">
-    <value>Löschen bestätigen</value>
+    <value>削除の確認</value>
   </data>
   <data name="CustomizeTitle" xml:space="preserve">
-    <value>Rahmen anpassen</value>
+    <value>Frame のカスタマイズ</value>
   </data>
   <data name="DeleteFrameHeading" xml:space="preserve">
-    <value>Rahmen löschen</value>
+    <value>Frame の削除</value>
   </data>
   <data name="DeleteFrameQuestion" xml:space="preserve">
-    <value>Diesen Rahmen wirklich löschen?</value>
+    <value>この Frame を削除してもよろしいですか？</value>
   </data>
   <data name="DeleteTabTitle" xml:space="preserve">
-    <value>Registerkarte löschen</value>
+    <value>タブの削除</value>
   </data>
   <data name="DiagCpuQueue" xml:space="preserve">
-    <value>CPU-WARTESCHLANGE</value>
+    <value>CPU QUEUE</value>
   </data>
   <data name="DiagCpuUtilization" xml:space="preserve">
-    <value>CPU-AUSLASTUNG</value>
+    <value>CPU UTILIZATION</value>
   </data>
   <data name="DiagDiskIo" xml:space="preserve">
-    <value>DATENTRÄGER-E/A</value>
+    <value>DISK I/O</value>
   </data>
   <data name="DiagRamUtilization" xml:space="preserve">
-    <value>RAM-AUSLASTUNG</value>
+    <value>RAM UTILIZATION</value>
   </data>
   <data name="DlgApplyError" xml:space="preserve">
-    <value>Fehler beim Anwenden</value>
+    <value>適用エラー</value>
   </data>
   <data name="DlgBackup" xml:space="preserve">
-    <value>Sicherung</value>
+    <value>バックアップ</value>
   </data>
   <data name="DlgBrowseError" xml:space="preserve">
-    <value>Fehler beim Durchsuchen</value>
+    <value>参照エラー</value>
   </data>
   <data name="DlgConfirmImport" xml:space="preserve">
-    <value>Import bestätigen</value>
+    <value>インポートの確認</value>
   </data>
   <data name="DlgCopyError" xml:space="preserve">
-    <value>Fehler beim Kopieren</value>
+    <value>コピーエラー</value>
   </data>
   <data name="DlgCopyItem" xml:space="preserve">
-    <value>Element kopieren</value>
+    <value>項目のコピー</value>
   </data>
   <data name="DlgCriticalError" xml:space="preserve">
-    <value>Schwerer Fehler</value>
+    <value>重大なエラー</value>
   </data>
   <data name="DlgDefaultError" xml:space="preserve">
-    <value>Fehler beim Zurücksetzen</value>
+    <value>既定エラー</value>
   </data>
   <data name="DlgDeleteProfile" xml:space="preserve">
-    <value>Profil löschen</value>
+    <value>プロファイルの削除</value>
   </data>
   <data name="DlgDeleteTab" xml:space="preserve">
-    <value>Registerkarte löschen</value>
+    <value>タブの削除</value>
   </data>
   <data name="DlgError" xml:space="preserve">
-    <value>Fehler</value>
+    <value>エラー</value>
   </data>
   <data name="DlgExportError" xml:space="preserve">
-    <value>Fehler beim Export</value>
+    <value>エクスポートエラー</value>
   </data>
   <data name="DlgExportSuccessful" xml:space="preserve">
-    <value>Export erfolgreich</value>
+    <value>エクスポート成功</value>
   </data>
   <data name="DlgFactoryReset" xml:space="preserve">
-    <value>Auf Werkseinstellungen zurücksetzen</value>
+    <value>出荷時リセット</value>
   </data>
   <data name="DlgFormError" xml:space="preserve">
-    <value>Fehler im Fenster</value>
+    <value>フォームエラー</value>
   </data>
   <data name="DlgImportComplete" xml:space="preserve">
-    <value>Import abgeschlossen</value>
+    <value>インポート完了</value>
   </data>
   <data name="DlgImportError" xml:space="preserve">
-    <value>Fehler beim Import</value>
+    <value>インポートエラー</value>
   </data>
   <data name="DlgInfo" xml:space="preserve">
-    <value>Hinweis</value>
+    <value>情報</value>
   </data>
   <data name="DlgInformation" xml:space="preserve">
-    <value>Information</value>
+    <value>情報</value>
   </data>
   <data name="DlgKeyboardCheck" xml:space="preserve">
-    <value>Optional: Tastaturprüfung</value>
+    <value>任意: キーボード互換性チェック</value>
   </data>
   <data name="DlgLaunchError" xml:space="preserve">
-    <value>Fehler beim Starten</value>
+    <value>起動エラー</value>
   </data>
   <data name="DlgLoadError" xml:space="preserve">
-    <value>Fehler beim Laden</value>
+    <value>読み込みエラー</value>
   </data>
   <data name="DlgPasteError" xml:space="preserve">
-    <value>Fehler beim Einfügen</value>
+    <value>貼り付けエラー</value>
   </data>
   <data name="DlgPasteItem" xml:space="preserve">
-    <value>Element einfügen</value>
+    <value>項目の貼り付け</value>
   </data>
   <data name="DlgRenameError" xml:space="preserve">
-    <value>Fehler beim Umbenennen</value>
+    <value>名前変更エラー</value>
   </data>
   <data name="DlgResetComplete" xml:space="preserve">
-    <value>Zurücksetzen abgeschlossen</value>
+    <value>リセット完了</value>
   </data>
   <data name="DlgResetSuccessful" xml:space="preserve">
-    <value>Zurücksetzen erfolgreich</value>
+    <value>リセット成功</value>
   </data>
   <data name="DlgRestartRequired" xml:space="preserve">
-    <value>Neustart erforderlich</value>
+    <value>再起動が必要です</value>
   </data>
   <data name="DlgRestore" xml:space="preserve">
-    <value>Wiederherstellen</value>
+    <value>復元</value>
   </data>
   <data name="DlgRestoreError" xml:space="preserve">
-    <value>Fehler beim Wiederherstellen</value>
+    <value>復元エラー</value>
   </data>
   <data name="DlgRestoreSettings" xml:space="preserve">
-    <value>Einstellungen wiederherstellen</value>
+    <value>設定の復元</value>
   </data>
   <data name="DlgSaveError" xml:space="preserve">
-    <value>Fehler beim Speichern</value>
+    <value>保存エラー</value>
   </data>
   <data name="DlgSaved" xml:space="preserve">
-    <value>Gespeichert</value>
+    <value>保存しました</value>
   </data>
   <data name="DlgSuccess" xml:space="preserve">
-    <value>Erfolgreich</value>
+    <value>成功</value>
   </data>
   <data name="DlgSweepDesktop" xml:space="preserve">
-    <value>Desktop aufräumen</value>
+    <value>デスクトップの一括整理</value>
   </data>
   <data name="DlgUpdatePortalFrame" xml:space="preserve">
-    <value>Portal-Rahmen aktualisieren</value>
+    <value>Portal Frame の更新</value>
   </data>
   <data name="DlgValidationError" xml:space="preserve">
-    <value>Ungültige Eingabe</value>
+    <value>検証エラー</value>
   </data>
   <data name="EditSelectIcon" xml:space="preserve">
-    <value>Symbol wählen</value>
+    <value>アイコンを選択</value>
   </data>
   <data name="EditSelectTarget" xml:space="preserve">
-    <value>Zieldatei wählen</value>
+    <value>対象ファイルを選択</value>
   </data>
   <data name="EditShortcutTitle" xml:space="preserve">
-    <value>Verknüpfung bearbeiten</value>
+    <value>ショートカットの編集</value>
   </data>
   <data name="FocusFrameTitle" xml:space="preserve">
-    <value>Zum Rahmen springen</value>
+    <value>フォーカス Frame</value>
   </data>
   <data name="FocusSearchActive" xml:space="preserve">
-    <value>Unter den aktiven Rahmen suchen:</value>
+    <value>アクティブな Frame を検索:</value>
   </data>
   <data name="FxAgitate" xml:space="preserve">
-    <value>Rütteln</value>
+    <value>振動</value>
   </data>
   <data name="FxBounce" xml:space="preserve">
-    <value>Sprung</value>
+    <value>バウンド</value>
   </data>
   <data name="FxElastic" xml:space="preserve">
-    <value>Elastisch</value>
+    <value>エラスティック</value>
   </data>
   <data name="FxFadeOut" xml:space="preserve">
-    <value>Ausblenden</value>
+    <value>フェードアウト</value>
   </data>
   <data name="FxFlip3D" xml:space="preserve">
-    <value>3D-Drehung</value>
+    <value>3D反転</value>
   </data>
   <data name="FxGrowAndFly" xml:space="preserve">
-    <value>Wachsen und fliegen</value>
+    <value>拡大して飛行</value>
   </data>
   <data name="FxMatrix" xml:space="preserve">
     <value>Matrix</value>
   </data>
   <data name="FxPulse" xml:space="preserve">
-    <value>Pulsieren</value>
+    <value>パルス</value>
   </data>
   <data name="FxRotate" xml:space="preserve">
-    <value>Drehung</value>
+    <value>回転</value>
   </data>
   <data name="FxShockwave" xml:space="preserve">
-    <value>Schockwelle</value>
+    <value>衝撃波</value>
   </data>
   <data name="FxSlideUp" xml:space="preserve">
-    <value>Nach oben gleiten</value>
+    <value>上にスライド</value>
   </data>
   <data name="FxSpiral" xml:space="preserve">
-    <value>Spirale</value>
+    <value>スパイラル</value>
   </data>
   <data name="FxSupernova" xml:space="preserve">
     <value>Supernova</value>
   </data>
   <data name="FxTeleport" xml:space="preserve">
-    <value>Teleport</value>
+    <value>テレポート</value>
   </data>
   <data name="FxZoom" xml:space="preserve">
-    <value>Zoom</value>
+    <value>ズーム</value>
   </data>
   <data name="GaugeCpu" xml:space="preserve">
     <value>CPU %</value>
   </data>
   <data name="GaugeLeftL" xml:space="preserve">
-    <value>LINKS (L)</value>
+    <value>左 (L)</value>
   </data>
   <data name="GaugeLeftVu" xml:space="preserve">
-    <value>VU LINKS</value>
+    <value>LEFT VU</value>
   </data>
   <data name="GaugeMasterVu" xml:space="preserve">
-    <value>HAUPT-VU</value>
+    <value>MASTER VU</value>
   </data>
   <data name="GaugeRam" xml:space="preserve">
     <value>RAM %</value>
   </data>
   <data name="GaugeRightR" xml:space="preserve">
-    <value>RECHTS (R)</value>
+    <value>右 (R)</value>
   </data>
   <data name="GaugeRightVu" xml:space="preserve">
-    <value>VU RECHTS</value>
+    <value>RIGHT VU</value>
   </data>
   <data name="HkDirectProfile" xml:space="preserve">
-    <value>Direktes Profil [0-9]</value>
+    <value>ダイレクトプロファイル [0-9]</value>
   </data>
   <data name="HkFocusFrame" xml:space="preserve">
-    <value>Zum Rahmen springen</value>
+    <value>フォーカス Frame</value>
   </data>
   <data name="HkNextProfile" xml:space="preserve">
-    <value>Nächstes Profil</value>
+    <value>次のプロファイル</value>
   </data>
   <data name="HkPreviousProfile" xml:space="preserve">
-    <value>Vorheriges Profil</value>
+    <value>前のプロファイル</value>
   </data>
   <data name="HkSpotSearch" xml:space="preserve">
-    <value>Schnellsuche</value>
+    <value>Spot Search</value>
   </data>
   <data name="IconPickerHint" xml:space="preserve">
-    <value>Wähle ein Symbol aus den verfügbaren und klicke auf OK</value>
+    <value>利用可能なアイコンから選択して OK をクリックしてください</value>
   </data>
   <data name="IconPickerTitle" xml:space="preserve">
-    <value>Symbol wählen</value>
+    <value>アイコンの選択</value>
   </data>
   <data name="ImportTabNoFrames" xml:space="preserve">
-    <value>Keine weiteren Daten-Rahmen zum Importieren gefunden.</value>
+    <value>インポートできる他のデータ Frame が見つかりません。</value>
   </data>
   <data name="ImportTabPrompt" xml:space="preserve">
-    <value>Wähle den Rahmen oder die Registerkarte zum Importieren:</value>
+    <value>インポート元の Frame またはタブを選択してください:</value>
   </data>
   <data name="ImportTabTitle" xml:space="preserve">
-    <value>Registerkarte importieren</value>
+    <value>タブのインポート</value>
   </data>
   <data name="ItemAgitate" xml:space="preserve">
-    <value>Rütteln</value>
+    <value>振動</value>
   </data>
   <data name="ItemBeige" xml:space="preserve">
-    <value>Beige</value>
+    <value>ベージュ</value>
   </data>
   <data name="ItemBismark" xml:space="preserve">
-    <value>Bismark</value>
+    <value>ビスマルク</value>
   </data>
   <data name="ItemBlack" xml:space="preserve">
-    <value>Schwarz</value>
+    <value>黒</value>
   </data>
   <data name="ItemBlue" xml:space="preserve">
-    <value>Blau</value>
+    <value>青</value>
   </data>
   <data name="ItemBounce" xml:space="preserve">
-    <value>Sprung</value>
+    <value>バウンド</value>
   </data>
   <data name="ItemDefault" xml:space="preserve">
-    <value>Standard</value>
+    <value>既定</value>
   </data>
   <data name="ItemDetails" xml:space="preserve">
-    <value>Liste</value>
+    <value>詳細</value>
   </data>
   <data name="ItemElastic" xml:space="preserve">
-    <value>Elastisch</value>
+    <value>エラスティック</value>
   </data>
   <data name="ItemFadeOut" xml:space="preserve">
-    <value>Ausblenden</value>
+    <value>フェードアウト</value>
   </data>
   <data name="ItemFlip3D" xml:space="preserve">
-    <value>3D-Drehung</value>
+    <value>3D反転</value>
   </data>
   <data name="ItemFuchsia" xml:space="preserve">
-    <value>Fuchsia</value>
+    <value>フクシア</value>
   </data>
   <data name="ItemGray" xml:space="preserve">
-    <value>Grau</value>
+    <value>グレー</value>
   </data>
   <data name="ItemGreen" xml:space="preserve">
-    <value>Grün</value>
+    <value>緑</value>
   </data>
   <data name="ItemGrowAndFly" xml:space="preserve">
-    <value>Wachsen und fliegen</value>
+    <value>拡大して飛行</value>
   </data>
   <data name="ItemHuge" xml:space="preserve">
-    <value>Riesig</value>
+    <value>特大</value>
   </data>
   <data name="ItemIcons" xml:space="preserve">
-    <value>Symbole</value>
+    <value>アイコン</value>
   </data>
   <data name="ItemLarge" xml:space="preserve">
-    <value>Groß</value>
+    <value>大</value>
   </data>
   <data name="ItemMatrix" xml:space="preserve">
     <value>Matrix</value>
   </data>
   <data name="ItemMedium" xml:space="preserve">
-    <value>Mittel</value>
+    <value>中</value>
   </data>
   <data name="ItemOrange" xml:space="preserve">
-    <value>Orange</value>
+    <value>オレンジ</value>
   </data>
   <data name="ItemPulse" xml:space="preserve">
-    <value>Pulsieren</value>
+    <value>パルス</value>
   </data>
   <data name="ItemPurple" xml:space="preserve">
-    <value>Violett</value>
+    <value>紫</value>
   </data>
   <data name="ItemRed" xml:space="preserve">
-    <value>Rot</value>
+    <value>赤</value>
   </data>
   <data name="ItemRotate" xml:space="preserve">
-    <value>Drehung</value>
+    <value>回転</value>
   </data>
   <data name="ItemShockwave" xml:space="preserve">
-    <value>Schockwelle</value>
+    <value>衝撃波</value>
   </data>
   <data name="ItemSlideUp" xml:space="preserve">
-    <value>Nach oben gleiten</value>
+    <value>上にスライド</value>
   </data>
   <data name="ItemSmall" xml:space="preserve">
-    <value>Klein</value>
+    <value>小</value>
   </data>
   <data name="ItemSpiral" xml:space="preserve">
-    <value>Spirale</value>
+    <value>スパイラル</value>
   </data>
   <data name="ItemSupernova" xml:space="preserve">
     <value>Supernova</value>
   </data>
   <data name="ItemTeal" xml:space="preserve">
-    <value>Blaugrün</value>
+    <value>ティール</value>
   </data>
   <data name="ItemTeleport" xml:space="preserve">
-    <value>Teleport</value>
+    <value>テレポート</value>
   </data>
   <data name="ItemTiny" xml:space="preserve">
-    <value>Winzig</value>
+    <value>極小</value>
   </data>
   <data name="ItemWhite" xml:space="preserve">
-    <value>Weiß</value>
+    <value>白</value>
   </data>
   <data name="ItemYellow" xml:space="preserve">
-    <value>Gelb</value>
+    <value>黄色</value>
   </data>
   <data name="ItemZoom" xml:space="preserve">
-    <value>Zoom</value>
+    <value>ズーム</value>
   </data>
   <data name="KeyComma" xml:space="preserve">
-    <value>Komma (,)</value>
+    <value>カンマ (,)</value>
   </data>
   <data name="KeyEnter" xml:space="preserve">
-    <value>Eingabe</value>
+    <value>Enter</value>
   </data>
   <data name="KeyEscape" xml:space="preserve">
-    <value>Esc</value>
+    <value>Escape</value>
   </data>
   <data name="KeyPeriod" xml:space="preserve">
-    <value>Punkt (.)</value>
+    <value>ピリオド (.)</value>
   </data>
   <data name="KeySpace" xml:space="preserve">
-    <value>Leertaste</value>
+    <value>スペース</value>
   </data>
   <data name="KeyTab" xml:space="preserve">
     <value>Tab</value>
   </data>
   <data name="KeyTilde" xml:space="preserve">
-    <value>Tilde (~)</value>
+    <value>チルダ (~)</value>
   </data>
   <data name="LblActivationDelay" xml:space="preserve">
-    <value>Verzögerung bis zur Aktivierung:</value>
+    <value>有効化までの遅延:</value>
   </data>
   <data name="LblArguments" xml:space="preserve">
-    <value>Argumente:</value>
+    <value>引数:</value>
   </data>
   <data name="LblBoldTitleText" xml:space="preserve">
-    <value>Titel fett</value>
+    <value>タイトルテキストを太字に</value>
   </data>
   <data name="LblColor" xml:space="preserve">
-    <value>Farbe</value>
+    <value>色</value>
   </data>
   <data name="LblCustomColor" xml:space="preserve">
-    <value>Eigene Farbe:</value>
+    <value>カスタムカラー:</value>
   </data>
   <data name="LblCustomLaunchEffect" xml:space="preserve">
-    <value>Eigener Starteffekt:</value>
+    <value>カスタム起動エフェクト:</value>
   </data>
   <data name="LblDefaultPortalView" xml:space="preserve">
-    <value>Standardansicht für Portale:</value>
+    <value>既定の Portal 表示:</value>
   </data>
   <data name="LblDisableTextShadow" xml:space="preserve">
-    <value>Textschatten abschalten</value>
+    <value>テキストの影を無効化</value>
   </data>
   <data name="LblDisplayName" xml:space="preserve">
-    <value>Anzeigename:</value>
+    <value>表示名:</value>
   </data>
   <data name="LblDonate" xml:space="preserve">
-    <value>Unterstütze die Pflege und Weiterentwicklung dieses Projekts mit einer Spende</value>
+    <value>寄付でこのプロジェクトの保守と改善を支援する</value>
   </data>
   <data name="LblEffect" xml:space="preserve">
-    <value>Effekt</value>
+    <value>エフェクト</value>
   </data>
   <data name="LblEnabledRules" xml:space="preserve">
-    <value>Aktiv: {0}</value>
+    <value>有効: {0}</value>
   </data>
   <data name="LblEnableProfileAutomation" xml:space="preserve">
-    <value>Profilautomatisierung aktivieren</value>
+    <value>プロファイル自動化を有効にする</value>
   </data>
   <data name="LblFontFamily" xml:space="preserve">
-    <value>Schriftart:</value>
+    <value>フォント:</value>
   </data>
   <data name="LblFontSize" xml:space="preserve">
-    <value>Schriftgröße:</value>
+    <value>フォントサイズ:</value>
   </data>
   <data name="LblFrameBorderColor" xml:space="preserve">
-    <value>Rahmenfarbe:</value>
+    <value>Frame の枠線の色:</value>
   </data>
   <data name="LblFrameBorderThickness" xml:space="preserve">
-    <value>Rahmenstärke:</value>
+    <value>Frame の枠線の太さ:</value>
   </data>
   <data name="LblGrayscaleIcons" xml:space="preserve">
-    <value>Symbole in Graustufen</value>
+    <value>アイコンをグレースケールに</value>
   </data>
   <data name="LblIcon" xml:space="preserve">
-    <value>Symbol:</value>
+    <value>アイコン:</value>
   </data>
   <data name="LblIconSize" xml:space="preserve">
-    <value>Symbolgröße:</value>
+    <value>アイコンサイズ:</value>
   </data>
   <data name="LblIconSpacing" xml:space="preserve">
-    <value>Symbolabstand:</value>
+    <value>アイコンの間隔:</value>
   </data>
   <data name="LblLockIcon" xml:space="preserve">
-    <value>Schlosssymbol</value>
+    <value>アイコンをロック</value>
   </data>
   <data name="LblMenuIcon" xml:space="preserve">
-    <value>Menüsymbol</value>
+    <value>メニューアイコン</value>
   </data>
   <data name="LblMinimumLogLevel" xml:space="preserve">
-    <value>Mindest-Protokollstufe</value>
+    <value>最小ログレベル</value>
   </data>
   <data name="LblNotificationSound" xml:space="preserve">
-    <value>Benachrichtigungston:</value>
+    <value>通知音:</value>
   </data>
   <data name="LblPortalView" xml:space="preserve">
-    <value>Portal-Ansicht:</value>
+    <value>Portal 表示:</value>
   </data>
   <data name="LblProcessName" xml:space="preserve">
-    <value>Prozessname (wählen oder eingeben):</value>
+    <value>プロセス名（選択または入力）:</value>
   </data>
   <data name="LblSpellCheck" xml:space="preserve">
-    <value>Rechtschreibprüfung</value>
+    <value>スペルチェック</value>
   </data>
   <data name="LblTargetPath" xml:space="preserve">
-    <value>Zielpfad:</value>
+    <value>対象パス:</value>
   </data>
   <data name="LblTargetProfile" xml:space="preserve">
-    <value>Zu aktivierendes Profil:</value>
+    <value>対象プロファイル:</value>
   </data>
   <data name="LblTextColor" xml:space="preserve">
-    <value>Textfarbe:</value>
+    <value>テキストの色:</value>
   </data>
   <data name="LblTitleTextColor" xml:space="preserve">
-    <value>Titelfarbe:</value>
+    <value>タイトルテキストの色:</value>
   </data>
   <data name="LblTitleTextSize" xml:space="preserve">
-    <value>Titelgröße:</value>
+    <value>タイトルテキストのサイズ:</value>
   </data>
   <data name="LblTotalRules" xml:space="preserve">
-    <value>Regeln insgesamt: {0}</value>
+    <value>ルールの総数: {0}</value>
   </data>
   <data name="LblWordWrap" xml:space="preserve">
-    <value>Zeilenumbruch</value>
+    <value>折り返し</value>
   </data>
   <data name="MenuAbout" xml:space="preserve">
-    <value>Über…</value>
+    <value>バージョン情報...</value>
   </data>
   <data name="MenuAddPlugin" xml:space="preserve">
-    <value>Widget | Plugin hinzufügen</value>
+    <value>ウィジェット | プラグインを追加</value>
   </data>
   <data name="MenuAddSpacer" xml:space="preserve">
-    <value>Abstandhalter hinzufügen</value>
+    <value>スペーサーを追加</value>
   </data>
   <data name="MenuAlwaysOnTop" xml:space="preserve">
-    <value>Immer im Vordergrund</value>
+    <value>常に最前面に表示</value>
   </data>
   <data name="MenuAlwaysRunAsAdmin" xml:space="preserve">
-    <value>Immer als Administrator ausführen</value>
+    <value>常に管理者として実行</value>
   </data>
   <data name="MenuAlwaysRunAsDifferentUser" xml:space="preserve">
-    <value>Immer als anderer Benutzer ausführen</value>
+    <value>常に別のユーザーとして実行</value>
   </data>
   <data name="MenuAutoRoll" xml:space="preserve">
-    <value>Automatisch einrollen</value>
+    <value>オートロール</value>
   </data>
   <data name="MenuClearDeadShortcuts" xml:space="preserve">
-    <value>Tote Verknüpfungen entfernen</value>
+    <value>無効なショートカットを削除</value>
   </data>
   <data name="MenuCopyFolderPath" xml:space="preserve">
-    <value>Ordnerpfad kopieren</value>
+    <value>フォルダーパスをコピー</value>
   </data>
   <data name="MenuCopyItem" xml:space="preserve">
-    <value>Element kopieren</value>
+    <value>項目をコピー</value>
   </data>
   <data name="MenuCopyItemPath" xml:space="preserve">
-    <value>Pfad des Elements kopieren</value>
+    <value>項目のパスをコピー</value>
   </data>
   <data name="MenuCopyPath" xml:space="preserve">
-    <value>Pfad kopieren</value>
+    <value>パスをコピー</value>
   </data>
   <data name="MenuCustomize" xml:space="preserve">
-    <value>Anpassen…</value>
+    <value>カスタマイズ...</value>
   </data>
   <data name="MenuCutItem" xml:space="preserve">
-    <value>Element ausschneiden</value>
+    <value>項目を切り取り</value>
   </data>
   <data name="MenuDeleteItem" xml:space="preserve">
-    <value>Element löschen</value>
+    <value>項目を削除</value>
   </data>
   <data name="MenuDeleteThisFrame" xml:space="preserve">
-    <value>Diesen Rahmen löschen</value>
+    <value>この Frame を削除</value>
   </data>
   <data name="MenuEdit" xml:space="preserve">
-    <value>Bearbeiten…</value>
+    <value>編集...</value>
   </data>
   <data name="MenuEnableTabs" xml:space="preserve">
-    <value>Registerkarten in diesem Rahmen aktivieren</value>
+    <value>この Frame でタブを有効にする</value>
   </data>
   <data name="MenuExit" xml:space="preserve">
-    <value>Beenden</value>
+    <value>終了</value>
   </data>
   <data name="MenuExportAllIcons" xml:space="preserve">
-    <value>Alle Symbole auf den Desktop exportieren</value>
+    <value>すべてのアイコンをデスクトップにエクスポート</value>
   </data>
   <data name="MenuExportThisFrame" xml:space="preserve">
-    <value>Diesen Rahmen exportieren</value>
+    <value>この Frame をエクスポート</value>
   </data>
   <data name="MenuFolderPath" xml:space="preserve">
-    <value>Ordnerpfad</value>
+    <value>フォルダーパス</value>
   </data>
   <data name="MenuFullPath" xml:space="preserve">
-    <value>Vollständiger Pfad</value>
+    <value>フルパス</value>
   </data>
   <data name="MenuHideFrame" xml:space="preserve">
-    <value>Rahmen ausblenden</value>
+    <value>Frame を非表示</value>
   </data>
   <data name="MenuImportFrame" xml:space="preserve">
-    <value>Rahmen importieren…</value>
+    <value>Frame をインポート...</value>
   </data>
   <data name="MenuMove" xml:space="preserve">
-    <value>Verschieben…</value>
+    <value>移動...</value>
   </data>
   <data name="MenuNameAfterPath" xml:space="preserve">
-    <value>Rahmen nach Zielpfad benennen</value>
+    <value>対象パスに基づいて Frame に名前を付ける</value>
   </data>
   <data name="MenuNewFrame" xml:space="preserve">
-    <value>Neuer Rahmen</value>
+    <value>新しい Frame</value>
   </data>
   <data name="MenuNewNoteFrame" xml:space="preserve">
-    <value>Neuer Notiz-Rahmen</value>
+    <value>新しい Note Frame</value>
   </data>
   <data name="MenuNewPortalFrame" xml:space="preserve">
-    <value>Neuer Portal-Rahmen</value>
+    <value>新しい Portal Frame</value>
   </data>
   <data name="MenuNoPluginsAvailable" xml:space="preserve">
-    <value>(Auf dieser Stufe sind keine Plugins verfügbar)</value>
+    <value>（現在のレベルで利用可能なプラグインはありません）</value>
   </data>
   <data name="MenuOpenFrameFolder" xml:space="preserve">
-    <value>Rahmenordner öffnen</value>
+    <value>Frame フォルダーを開く</value>
   </data>
   <data name="MenuOpenTargetFolder" xml:space="preserve">
-    <value>Zielordner öffnen…</value>
+    <value>対象フォルダーを開く...</value>
   </data>
   <data name="MenuOpenWith" xml:space="preserve">
-    <value>Öffnen mit…</value>
+    <value>プログラムから開く...</value>
   </data>
   <data name="MenuOptions" xml:space="preserve">
-    <value>Optionen…</value>
+    <value>オプション...</value>
   </data>
   <data name="MenuPasteItem" xml:space="preserve">
-    <value>Element einfügen</value>
+    <value>項目を貼り付け</value>
   </data>
   <data name="MenuPeekBehind" xml:space="preserve">
-    <value>Dahinter schauen</value>
+    <value>背後をのぞく</value>
   </data>
   <data name="MenuPluginSettings" xml:space="preserve">
-    <value>Plugin-Einstellungen…</value>
+    <value>プラグインの設定...</value>
   </data>
   <data name="MenuRemove" xml:space="preserve">
-    <value>Entfernen</value>
+    <value>削除</value>
   </data>
   <data name="MenuRenameItem" xml:space="preserve">
-    <value>Element umbenennen</value>
+    <value>項目の名前を変更</value>
   </data>
   <data name="MenuResetColumns" xml:space="preserve">
-    <value>Spalten zurücksetzen</value>
+    <value>列レイアウトをリセット</value>
   </data>
   <data name="MenuResetSorting" xml:space="preserve">
-    <value>Sortierung zurücksetzen</value>
+    <value>並べ替えをリセット</value>
   </data>
   <data name="MenuRestoreLastDeleted" xml:space="preserve">
-    <value>Zuletzt gelöschten Rahmen wiederherstellen</value>
+    <value>最後に削除した Frame を復元</value>
   </data>
   <data name="MenuRunAsAdmin" xml:space="preserve">
-    <value>Als Administrator ausführen</value>
+    <value>管理者として実行</value>
   </data>
   <data name="MenuRunAsDifferentUser" xml:space="preserve">
-    <value>Als anderer Benutzer ausführen…</value>
+    <value>別のユーザーとして実行...</value>
   </data>
   <data name="MenuSendToDesktop" xml:space="preserve">
-    <value>An Desktop senden</value>
+    <value>デスクトップに送る</value>
   </data>
   <data name="MenuSpacerBlank" xml:space="preserve">
-    <value>Leer</value>
+    <value>空白</value>
   </data>
   <data name="MenuSpacerDot" xml:space="preserve">
-    <value>Punkt</value>
+    <value>ドット</value>
   </data>
   <data name="MenuViewAsDetails" xml:space="preserve">
-    <value>Als Liste anzeigen</value>
+    <value>詳細表示</value>
   </data>
   <data name="MoveItemPrompt" xml:space="preserve">
-    <value>Wähle den Ziel-Rahmen oder die Ziel-Registerkarte:</value>
+    <value>移動先の Frame またはタブを選択してください:</value>
   </data>
   <data name="MoveItemTitle" xml:space="preserve">
-    <value>Element verschieben nach…</value>
+    <value>項目の移動先...</value>
   </data>
   <data name="MoveMainItems" xml:space="preserve">
-    <value>📋 Hauptelemente</value>
+    <value>📋 メイン項目</value>
   </data>
   <data name="MsgAddItemFailed" xml:space="preserve">
-    <value>{0} konnte nicht hinzugefügt werden: {1}</value>
+    <value>{0} の追加に失敗しました: {1}</value>
   </data>
   <data name="MsgApplyChangesFailed" xml:space="preserve">
-    <value>Fehler beim Anwenden der Änderungen: {0}</value>
+    <value>変更の適用中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgApplySettingsFailed" xml:space="preserve">
-    <value>Fehler beim Anwenden der Einstellungen: {0}</value>
+    <value>設定の適用中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgBackupDone" xml:space="preserve">
-    <value>Sicherung abgeschlossen.</value>
+    <value>バックアップが正常に完了しました。</value>
   </data>
   <data name="MsgBackupFailed" xml:space="preserve">
-    <value>Bei der Sicherung ist ein Fehler aufgetreten: {0}</value>
+    <value>バックアップ中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgCannotDeleteLastTab" xml:space="preserve">
-    <value>Die letzte verbleibende Registerkarte kann nicht gelöscht werden.</value>
+    <value>最後に残ったタブは削除できません。</value>
   </data>
   <data name="MsgConfirmDeleteProfile" xml:space="preserve">
-    <value>Soll das Profil '{0}' wirklich gelöscht werden?
-Das lässt sich nicht rückgängig machen.</value>
+    <value>プロファイル「{0}」を削除してもよろしいですか？
+この操作は元に戻せません。</value>
   </data>
   <data name="MsgConfirmDisableCtrlAltHotkeys" xml:space="preserve">
-    <value>Die Profil-Tastenkürzel stehen auf Strg+Alt.
+    <value>現在、プロファイルのホットキーは Ctrl+Alt に設定されています。
 
-Auf vielen internationalen Tastaturen belegt Windows damit auch die Taste 'AltGr'. Das kann dich daran hindern, Zeichen wie @, €, [ oder { zu tippen.
+多くの国際的なキーボードでは、この組み合わせは 'AltGr' キーと共有されています。そのため、@、€、[、{ などの特殊文字が入力できなくなることがあります。
 
-• 'Ja' deaktiviert sie (behebt Tippprobleme)
-• 'Nein' behält sie bei (wenn alles funktioniert)</value>
+- 「はい」をクリックすると無効化します（入力の問題を解決）
+- 「いいえ」をクリックすると維持します（問題なく動作している場合）</value>
   </data>
   <data name="MsgConfirmFactoryReset" xml:space="preserve">
-    <value>ACHTUNG: Alle Rahmen, Verknüpfungen und Einstellungen des AKTUELLEN PROFILS werden gelöscht!
+    <value>警告: これにより、現在のプロファイルの Frame、ショートカット、設定がすべて削除されます！
 
-Möchtest du fortfahren?</value>
+続行してもよろしいですか？</value>
   </data>
   <data name="MsgConfirmImportIntoTab" xml:space="preserve">
-    <value>Inhalt von '{0}' in eine neue Registerkarte importieren?</value>
+    <value>「{0}」の内容を新しいタブにインポートしますか？</value>
   </data>
   <data name="MsgConfirmResetCustomizations" xml:space="preserve">
-    <value>Alle optischen Anpassungen zurücksetzen?</value>
+    <value>すべての表示カスタマイズをリセットしますか？</value>
   </data>
   <data name="MsgConfirmRestoreSettings" xml:space="preserve">
-    <value>Diese Sicherung enthält auch die Einstellungen (options.json).
+    <value>このバックアップには設定情報（options.json）が含まれています。
 
-Sollen die globalen Einstellungen ebenfalls wiederhergestellt werden?</value>
+グローバル設定も復元しますか？</value>
   </data>
   <data name="MsgConfirmSetPortalHome" xml:space="preserve">
-    <value>Diesen Ordner als neue Quelle verwenden?
+    <value>このフォルダーを新しいホームとして設定しますか？
 
 {0}</value>
   </data>
   <data name="MsgConfirmSweepDesktop" xml:space="preserve">
-    <value>Die Dateien, die bereits auf dem Desktop liegen, werden nach deinen Regeln in die Zielordner verschoben.
+    <value>デスクトップ上の既存のファイルを、設定したルールに基づいて対象フォルダーに移動します。
 
-Fortfahren?</value>
+続行しますか？</value>
   </data>
   <data name="MsgCopyItemFailed" xml:space="preserve">
-    <value>Fehler beim Kopieren des Elements: {0}</value>
+    <value>項目のコピー中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgCopyPathFailed" xml:space="preserve">
-    <value>Der Pfad konnte nicht kopiert werden.</value>
+    <value>パスをコピーできませんでした。</value>
   </data>
   <data name="MsgCreateProfileFailed" xml:space="preserve">
-    <value>Das Profil konnte nicht angelegt werden. Der Name ist ungültig oder schon vergeben.</value>
+    <value>プロファイルの作成に失敗しました。名前が無効か、既に存在します。</value>
   </data>
   <data name="MsgCustomizationsReset" xml:space="preserve">
-    <value>Alle optischen Anpassungen wurden zurückgesetzt.
-Deine Symbole und die Position der Rahmen sind erhalten geblieben.</value>
+    <value>すべての表示カスタマイズがリセットされました。
+アイコンと Frame の位置は保持されています。</value>
   </data>
   <data name="MsgDeleteItemFailed" xml:space="preserve">
-    <value>Das Element konnte nicht gelöscht werden.</value>
+    <value>項目を削除できませんでした。</value>
   </data>
   <data name="MsgDesktopOrganized" xml:space="preserve">
-    <value>Desktop aufgeräumt.</value>
+    <value>デスクトップの整理が完了しました！</value>
   </data>
   <data name="MsgDestinationFolderGone" xml:space="preserve">
-    <value>Der Zielordner '{0}' ist nicht mehr vorhanden.</value>
+    <value>移動先フォルダー「{0}」は存在しません。</value>
   </data>
   <data name="MsgEditNotAvailable" xml:space="preserve">
-    <value>Dieser Elementtyp lässt sich nicht bearbeiten.</value>
+    <value>この種類の項目は編集できません。</value>
   </data>
   <data name="MsgExportFailed" xml:space="preserve">
-    <value>Export fehlgeschlagen: {0}</value>
+    <value>エクスポートに失敗しました: {0}</value>
   </data>
   <data name="MsgExportIconsFailed" xml:space="preserve">
-    <value>Fehler beim Export der Symbole: {0}</value>
+    <value>アイコンのエクスポート中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgFactoryResetDone" xml:space="preserve">
-    <value>Zurücksetzen abgeschlossen.
-Die Anwendung wird neu gestartet.</value>
+    <value>初期化が完了しました。
+アプリケーションを再起動します。</value>
   </data>
   <data name="MsgFileNotFoundInProfile" xml:space="preserve">
-    <value>Datei im aktiven Profil nicht gefunden:
+    <value>現在のプロファイルにファイルが見つかりません:
 {0}</value>
   </data>
   <data name="MsgFormInitFailed" xml:space="preserve">
-    <value>Fehler beim Öffnen des Fensters: {0}</value>
+    <value>フォームの初期化中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgFrameExportedTo" xml:space="preserve">
-    <value>Rahmen exportiert nach:
+    <value>Frame のエクスポート先:
 {0}</value>
   </data>
   <data name="MsgFrameImported" xml:space="preserve">
-    <value>Rahmen erfolgreich importiert.</value>
+    <value>Frame のインポートが完了しました！</value>
   </data>
   <data name="MsgFramesMovedIntoBounds" xml:space="preserve">
-    <value>Alle Rahmen wurden geprüft und in den sichtbaren Bildschirmbereich verschoben.</value>
+    <value>すべての Frame を確認し、有効な画面範囲内に移動しました。</value>
   </data>
   <data name="MsgGenericError" xml:space="preserve">
-    <value>Fehler: {0}</value>
+    <value>エラー: {0}</value>
   </data>
   <data name="MsgGlobalSettingsRestored" xml:space="preserve">
-    <value>Die globalen Einstellungen wurden wiederhergestellt.
-Die Anwendung startet neu, um sie anzuwenden.</value>
+    <value>グローバル設定を復元しました。
+変更を適用するためにアプリケーションを再起動します。</value>
   </data>
   <data name="MsgHotkeysSavedRestartNeeded" xml:space="preserve">
-    <value>Die globalen Tastenkürzel wurden gespeichert und auf alle Profile angewendet.
+    <value>グローバルホットキーの変更を保存し、すべてのプロファイルに適用しました。
 
-Starte Desktop Frames neu, um sie zu aktivieren.</value>
+新しいショートカットを有効にするには、Desktop Frames を再起動してください。</value>
   </data>
   <data name="MsgImportFailed" xml:space="preserve">
-    <value>Import fehlgeschlagen: {0}</value>
+    <value>インポートに失敗しました: {0}</value>
   </data>
   <data name="MsgImportFrameFailed" xml:space="preserve">
-    <value>Der Rahmen konnte nicht importiert werden: {0}</value>
+    <value>Frame のインポートに失敗しました: {0}</value>
   </data>
   <data name="MsgInitFailed" xml:space="preserve">
-    <value>Fehler bei der Initialisierung: {0}</value>
+    <value>初期化中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgInvalidFileOrFolder" xml:space="preserve">
-    <value>Ungültige Datei oder ungültiger Ordner: {0}</value>
+    <value>無効なファイルまたはフォルダーです: {0}</value>
   </data>
   <data name="MsgInvalidUrlFile" xml:space="preserve">
-    <value>Ungültige .url-Datei: {0}</value>
+    <value>無効な .url ファイルです: {0}</value>
   </data>
   <data name="MsgItemCopiedReady" xml:space="preserve">
-    <value>Element '{0}' kopiert und bereit zum Einfügen.</value>
+    <value>項目「{0}」をコピーしました。貼り付け可能です。</value>
   </data>
   <data name="MsgLaunchFailed" xml:space="preserve">
-    <value>Fehler beim Starten: {0}</value>
+    <value>起動中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgLoadFramePropertiesFailed" xml:space="preserve">
-    <value>Fehler beim Laden der Rahmeneigenschaften: {0}</value>
+    <value>Frame のプロパティの読み込み中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgLogFileNotFound" xml:space="preserve">
-    <value>Protokolldatei nicht gefunden.</value>
+    <value>ログファイルが見つかりません。</value>
   </data>
   <data name="MsgMoveFailed" xml:space="preserve">
-    <value>Verschieben fehlgeschlagen: {0}</value>
+    <value>移動に失敗しました: {0}</value>
   </data>
   <data name="MsgNameAlreadyExists" xml:space="preserve">
-    <value>Eine Datei oder ein Ordner mit diesem Namen ist bereits vorhanden.</value>
+    <value>その名前のファイルまたはフォルダーは既に存在します。</value>
   </data>
   <data name="MsgNameAndTargetRequired" xml:space="preserve">
-    <value>Anzeigename und Zielpfad dürfen nicht leer sein.</value>
+    <value>表示名と対象パスは空にできません。</value>
   </data>
   <data name="MsgNoFrameToRestore" xml:space="preserve">
-    <value>Kein Rahmen zum Wiederherstellen</value>
+    <value>復元できる Frame がありません</value>
   </data>
   <data name="MsgNoItemToPaste" xml:space="preserve">
-    <value>Kein Element zum Einfügen</value>
+    <value>貼り付ける項目がありません</value>
   </data>
   <data name="MsgNoPortalDestination" xml:space="preserve">
-    <value>Für diesen Portal-Rahmen ist kein Zielordner festgelegt.</value>
+    <value>この Portal Frame には移動先フォルダーが設定されていません。</value>
   </data>
   <data name="MsgOpenCustomizeFailed" xml:space="preserve">
-    <value>Fehler beim Öffnen des Anpassungsfensters: {0}</value>
+    <value>カスタマイズフォームを開く際にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgOpenFileBrowserFailed" xml:space="preserve">
-    <value>Fehler beim Öffnen der Dateiauswahl: {0}</value>
+    <value>ファイルブラウザーを開く際にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgOpenTextFormatFailed" xml:space="preserve">
-    <value>Fehler beim Öffnen des Textformat-Fensters: {0}</value>
+    <value>テキスト書式フォームを開く際にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgPasteItemFailed" xml:space="preserve">
-    <value>Fehler beim Einfügen des Elements: {0}</value>
+    <value>項目の貼り付け中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgPortalInitFailed" xml:space="preserve">
-    <value>Der Portal-Rahmen konnte nicht initialisiert werden: {0}</value>
+    <value>Portal Frame の初期化に失敗しました: {0}</value>
   </data>
   <data name="MsgProfileCreated" xml:space="preserve">
-    <value>Profil '{0}' wurde angelegt.</value>
+    <value>プロファイル「{0}」を作成しました。</value>
   </data>
   <data name="MsgProfileNameInvalid" xml:space="preserve">
-    <value>Ungültiger Name, oder das Profil ist bereits vorhanden.</value>
+    <value>名前が無効か、プロファイルが既に存在します。</value>
   </data>
   <data name="MsgProfileSystemError" xml:space="preserve">
-    <value>Fehler im Profilsystem: {0}</value>
+    <value>プロファイルシステムエラー: {0}</value>
   </data>
   <data name="MsgRecycleBinFailed" xml:space="preserve">
-    <value>Das Element konnte nicht in den Papierkorb verschoben werden.</value>
+    <value>項目をごみ箱に移動できませんでした。</value>
   </data>
   <data name="MsgReloadFramesFailed" xml:space="preserve">
-    <value>Beim Neuladen der Rahmen ist ein Fehler aufgetreten: {0}</value>
+    <value>Frame の再読み込み中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgReloadingFramesFailed" xml:space="preserve">
-    <value>Fehler beim Neuladen der Rahmen: {0}</value>
+    <value>Frame の再読み込みエラー: {0}</value>
   </data>
   <data name="MsgRenameItemFailed" xml:space="preserve">
-    <value>Das Element konnte nicht umbenannt werden: {0}</value>
+    <value>項目の名前変更に失敗しました: {0}</value>
   </data>
   <data name="MsgRenameProfileFailed" xml:space="preserve">
-    <value>Umbenennen fehlgeschlagen. Der Name ist möglicherweise vergeben oder ungültig.</value>
+    <value>名前の変更に失敗しました。名前が使用中か無効な可能性があります。</value>
   </data>
   <data name="MsgResetCustomizationsFailed" xml:space="preserve">
-    <value>Fehler beim Zurücksetzen der Anpassungen: {0}</value>
+    <value>カスタマイズのリセット中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgResetDefaultsFailed" xml:space="preserve">
-    <value>Fehler beim Zurücksetzen auf die Standardwerte: {0}</value>
+    <value>既定値へのリセット中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgResetFailed" xml:space="preserve">
-    <value>Zurücksetzen fehlgeschlagen: {0}</value>
+    <value>リセットに失敗しました: {0}</value>
   </data>
   <data name="MsgRestartForLanguage" xml:space="preserve">
-    <value>Die Sprache wurde gespeichert.
+    <value>言語を保存しました。
 
-Jedes Fenster liest seine Texte beim Aufbau, die Änderung erscheint also nach einem Neustart des Programms.
+各ウィンドウは作成時にテキストを読み込むため、変更はプログラムの再起動後に反映されます。
 
-Jetzt neu starten?</value>
+今すぐ再起動しますか？</value>
   </data>
   <data name="MsgRestoreDefaultsFailed" xml:space="preserve">
-    <value>Fehler beim Wiederherstellen der Standardwerte: {0}</value>
+    <value>既定値の復元中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgRestoreDone" xml:space="preserve">
-    <value>Wiederherstellung abgeschlossen.</value>
+    <value>復元が正常に完了しました。</value>
   </data>
   <data name="MsgRestoreFailed" xml:space="preserve">
-    <value>Wiederherstellung fehlgeschlagen: {0}</value>
+    <value>復元に失敗しました: {0}</value>
   </data>
   <data name="MsgRestoreFrameFailed" xml:space="preserve">
-    <value>Fehler beim Wiederherstellen des Rahmens: {0}</value>
+    <value>Frame の復元中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgRulesSaved" xml:space="preserve">
-    <value>Deine Regeln wurden gespeichert und angewendet.</value>
+    <value>ルールを保存し、正常に適用しました。</value>
   </data>
   <data name="MsgRunAsAdminFailed" xml:space="preserve">
-    <value>Fehler beim Ausführen als Administrator: {0}</value>
+    <value>管理者として実行中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgSaveChangesFailed" xml:space="preserve">
-    <value>Fehler beim Speichern der Änderungen: {0}</value>
+    <value>変更の保存中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgSaveSettingsFailed" xml:space="preserve">
-    <value>Fehler beim Speichern der Einstellungen: {0}</value>
+    <value>設定の保存中にエラーが発生しました: {0}</value>
   </data>
   <data name="MsgSaveShortcutFailed" xml:space="preserve">
-    <value>Die Verknüpfung konnte nicht gespeichert werden: {0}</value>
+    <value>ショートカットの保存に失敗しました: {0}</value>
   </data>
   <data name="MsgTargetNotFound" xml:space="preserve">
-    <value>Ziel nicht gefunden:
+    <value>対象が見つかりません:
 {0}</value>
   </data>
   <data name="NetChecking" xml:space="preserve">
-    <value>Prüfung…</value>
+    <value>確認中...</value>
   </data>
   <data name="NetExternal" xml:space="preserve">
-    <value>Externes Netzwerk</value>
+    <value>外部ネットワーク</value>
   </data>
   <data name="NetIpLabel" xml:space="preserve">
     <value>IP:</value>
   </data>
   <data name="NetLocalAdapters" xml:space="preserve">
-    <value>Lokale Adapter</value>
+    <value>ローカルアダプター</value>
   </data>
   <data name="NetNoInterfaces" xml:space="preserve">
-    <value>Keine aktiven Schnittstellen.</value>
+    <value>有効なインターフェースが見つかりません。</value>
   </data>
   <data name="NetOffline" xml:space="preserve">
-    <value>Offline</value>
+    <value>オフライン</value>
   </data>
   <data name="NetPublicWan" xml:space="preserve">
-    <value>Öffentliche WAN-Adresse</value>
+    <value>公開 WAN アドレス</value>
   </data>
   <data name="NetSelectInterfaces" xml:space="preserve">
-    <value>Anzuzeigende Schnittstellen wählen:</value>
+    <value>表示するインターフェースを選択:</value>
   </data>
   <data name="NetSettings" xml:space="preserve">
-    <value>Einstellungen der Netzwerkanzeige</value>
+    <value>ネットワーク IP モニターの設定</value>
   </data>
   <data name="NetShowDisconnected" xml:space="preserve">
-    <value>Getrennte Schnittstellen anzeigen</value>
+    <value>切断されたインターフェースを表示</value>
   </data>
   <data name="NetShowPublicWan" xml:space="preserve">
-    <value>Öffentliche WAN-IP anzeigen</value>
+    <value>公開 WAN IP を表示</value>
   </data>
   <data name="NetStatusDown" xml:space="preserve">
-    <value>inaktiv</value>
+    <value>ダウン</value>
   </data>
   <data name="NetStatusUp" xml:space="preserve">
-    <value>aktiv</value>
+    <value>アップ</value>
   </data>
   <data name="NetUnreachable" xml:space="preserve">
-    <value>Nicht erreichbar</value>
+    <value>到達不能</value>
   </data>
   <data name="NoteAutoOrganize" xml:space="preserve">
-    <value>Hinweis: Das automatische Aufräumen beobachtet den Desktop auf neue Dateien. Erfüllt eine Datei die Bedingungen einer aktiven Regel, wird sie tatsächlich in den angegebenen Portal-Rahmen oder Ordner verschoben. So bleibt der Desktop dauerhaft aufgeräumt und Downloads landen von selbst am richtigen Ort.</value>
+    <value>注: Auto-Organize は、新しいファイルがないか常にデスクトップを監視します。ファイルが有効なルールの条件に一致すると、指定した Portal Frame またはフォルダーに自動的に（実体として）移動されます。この機能により、デスクトップを常に整理された状態に保ち、ダウンロードしたファイルを適切な場所へ自動的に振り分けることができます。</value>
   </data>
   <data name="NoteAutoRoll" xml:space="preserve">
-    <value>Hinweis: Das automatische Einrollen wird je Rahmen über das Kontextmenü aktiviert.</value>
+    <value>注: オートロールは、各 Frame の右クリックメニューから個別に有効にしてください。</value>
   </data>
   <data name="NoteClearAll" xml:space="preserve">
-    <value>Gesamten Text löschen</value>
+    <value>すべてのテキストを消去</value>
   </data>
   <data name="NoteClickEdit" xml:space="preserve">
-    <value>Klicken, um die Notiz zu bearbeiten</value>
+    <value>クリックしてメモの内容を編集</value>
   </data>
   <data name="NoteClickFinish" xml:space="preserve">
-    <value>Klicken, um die Bearbeitung zu beenden</value>
+    <value>クリックして編集を終了</value>
   </data>
   <data name="NoteCopyAll" xml:space="preserve">
-    <value>Gesamten Text kopieren</value>
+    <value>すべてのテキストをコピー</value>
   </data>
   <data name="NoteHotkeysRestart" xml:space="preserve">
-    <value>Hinweis: Änderungen an globalen Tastenkürzeln wirken erst nach einem Neustart des Programms.</value>
+    <value>注: グローバルホットキーの変更を反映するには、アプリケーションの再起動が必要です。</value>
   </data>
   <data name="NoteTextFormat" xml:space="preserve">
-    <value>Textformat…</value>
+    <value>テキスト書式...</value>
   </data>
   <data name="NotificationDontShowAgain" xml:space="preserve">
-    <value>Diese Meldung nicht mehr anzeigen</value>
+    <value>今後表示しない</value>
   </data>
   <data name="NotificationTitle" xml:space="preserve">
-    <value>Desktop Frames + - Benachrichtigung</value>
+    <value>Desktop Frames + の通知</value>
   </data>
   <data name="OptAutoHideFrames" xml:space="preserve">
-    <value>Rahmen automatisch ausblenden</value>
+    <value>Frame を自動的に隠す</value>
   </data>
   <data name="OptAutomaticBackup" xml:space="preserve">
-    <value>Automatische Sicherung (täglich)</value>
+    <value>自動バックアップ（毎日）</value>
   </data>
   <data name="OptAutoOrganize" xml:space="preserve">
-    <value>Automatisches Aufräumen aktivieren</value>
+    <value>Auto-Organize を有効にする</value>
   </data>
   <data name="OptChameleon" xml:space="preserve">
-    <value>Chamäleon-Modus (übernimmt die Farbe des Hintergrunds)</value>
+    <value>Chameleon Mode を有効にする（壁紙の色に自動的に合わせる）</value>
   </data>
   <data name="OptDimensionSnap" xml:space="preserve">
-    <value>Auch Größen einrasten</value>
+    <value>Dimension Snap を有効にする</value>
   </data>
   <data name="OptDisableScrollbars" xml:space="preserve">
-    <value>Bildlaufleisten ausblenden</value>
+    <value>Frame のスクロールバーを無効にする</value>
   </data>
   <data name="OptEnableLogging" xml:space="preserve">
-    <value>Protokoll aufzeichnen</value>
+    <value>ログ記録を有効にする</value>
   </data>
   <data name="OptEnableSounds" xml:space="preserve">
-    <value>Töne aktivieren</value>
+    <value>サウンドを有効にする</value>
   </data>
   <data name="OptExecutionToasts" xml:space="preserve">
-    <value>Ausführungsbenachrichtigungen anzeigen</value>
+    <value>実行時にトースト通知を表示する</value>
   </data>
   <data name="OptFocusFrameHotkey" xml:space="preserve">
-    <value>Tastenkürzel zum Anspringen eines Rahmens</value>
+    <value>フォーカス Frame のホットキーを有効にする</value>
   </data>
   <data name="OptFrameTint" xml:space="preserve">
-    <value>Rahmenfärbung auch auf Symbole und Text anwenden</value>
+    <value>アイコンとテキストに Frame の色調（不透明度）を適用する</value>
   </data>
   <data name="OptHideIconsRunning" xml:space="preserve">
-    <value>Windows-Symbole ausblenden, solange das Programm läuft</value>
+    <value>プログラム実行中はデスクトップの標準アイコンを非表示にする</value>
   </data>
   <data name="OptHideIconsWhenHidden" xml:space="preserve">
-    <value>Windows-Symbole ausblenden, wenn die Rahmen ausgeblendet sind</value>
+    <value>Frame が非表示のときはデスクトップの標準アイコンを非表示にする</value>
   </data>
   <data name="OptIdleFadeOut" xml:space="preserve">
-    <value>Untätige Rahmen ausblenden</value>
+    <value>アイドル時のフェードアウトを有効にする</value>
   </data>
   <data name="OptionsHeading" xml:space="preserve">
-    <value>Optionen</value>
+    <value>オプション</value>
   </data>
   <data name="OptionsTitle" xml:space="preserve">
-    <value>Desktop Frames + - Optionen</value>
+    <value>Desktop Frames + のオプション</value>
   </data>
   <data name="OptNewFrameContextMenu" xml:space="preserve">
-    <value>„Neuer Rahmen“ im Desktop-Kontextmenü anzeigen</value>
+    <value>デスクトップの右クリックメニューに「新しい Frame」を表示する</value>
   </data>
   <data name="OptNoteWatermark" xml:space="preserve">
-    <value>Wasserzeichen auf Notiz-Rahmen (in Kürze)</value>
+    <value>Note Frame の透かしを有効にする（近日公開）</value>
   </data>
   <data name="OptPortalWatermark" xml:space="preserve">
-    <value>Wasserzeichen auf Portal-Rahmen</value>
+    <value>Portal Frame の透かしを有効にする</value>
   </data>
   <data name="OptProfileHotkeys" xml:space="preserve">
-    <value>Tastenkürzel zum Profilwechsel</value>
+    <value>プロファイル切り替えのホットキーを有効にする</value>
   </data>
   <data name="OptRecycleBin" xml:space="preserve">
-    <value>Papierkorb bei „Element löschen“ in Portal-Rahmen verwenden</value>
+    <value>Portal Frame の「項目を削除」コマンドでごみ箱を使用する</value>
   </data>
   <data name="OptSingleClick" xml:space="preserve">
-    <value>Mit einem Klick öffnen</value>
+    <value>シングルクリックで起動</value>
   </data>
   <data name="OptSnapNearFrames" xml:space="preserve">
-    <value>An benachbarten Rahmen einrasten</value>
+    <value>近くの Frame へのスナップを有効にする</value>
   </data>
   <data name="OptSpotSearchHotkey" xml:space="preserve">
-    <value>Tastenkürzel für die Schnellsuche</value>
+    <value>Spot Search のホットキーを有効にする</value>
   </data>
   <data name="OptStartWithWindows" xml:space="preserve">
-    <value>Mit Windows starten</value>
+    <value>Windows 起動時に開始する</value>
   </data>
   <data name="OptTrayIcon" xml:space="preserve">
-    <value>Symbol im Infobereich anzeigen</value>
+    <value>タスクトレイアイコンを有効にする</value>
   </data>
   <data name="PerfDynamicColors" xml:space="preserve">
-    <value>Balken nach Wert einfärben</value>
+    <value>バーに動的な色を使用する</value>
   </data>
   <data name="PerfRefreshRate" xml:space="preserve">
-    <value>Aktualisierungsrate (ms):</value>
+    <value>センサーの更新間隔（ms）:</value>
   </data>
   <data name="PerfSensors" xml:space="preserve">
-    <value>Anzuzeigende Sensoren:</value>
+    <value>表示するセンサー:</value>
   </data>
   <data name="PerfSettings" xml:space="preserve">
-    <value>Leistungseinstellungen</value>
+    <value>システムパフォーマンスの設定</value>
   </data>
   <data name="PerfStaticBarColor" xml:space="preserve">
-    <value>Feste Balkenfarbe:</value>
+    <value>固定バー色:</value>
   </data>
   <data name="PerfThemeLayout" xml:space="preserve">
-    <value>Thema und Anordnung</value>
+    <value>ビジュアルテーマとレイアウト</value>
   </data>
   <data name="PerfVisualStyle" xml:space="preserve">
-    <value>Darstellung:</value>
+    <value>ビジュアルスタイル:</value>
   </data>
   <data name="PhotoBlurCrossfade" xml:space="preserve">
-    <value>Weiche Überblendung</value>
+    <value>ぼかしクロスフェード</value>
   </data>
   <data name="PhotoCropToFill" xml:space="preserve">
-    <value>Zuschneiden und füllen</value>
+    <value>Frame に合わせて切り抜く</value>
   </data>
   <data name="PhotoCrossfade" xml:space="preserve">
-    <value>Klassische Überblendung</value>
+    <value>クラシッククロスフェード</value>
   </data>
   <data name="PhotoFitInside" xml:space="preserve">
-    <value>Einpassen (alles zeigen)</value>
+    <value>内側にフィット（全体表示）</value>
   </data>
   <data name="PhotoFitMode" xml:space="preserve">
-    <value>Bildanpassung:</value>
+    <value>画像のフィットモード:</value>
   </data>
   <data name="PhotoLiveRescan" xml:space="preserve">
-    <value>Ordner laufend neu einlesen (erkennt neue und gelöschte Bilder)</value>
+    <value>フォルダーのライブ再スキャン（新規/削除された画像を検出）</value>
   </data>
   <data name="PhotoNoTransition" xml:space="preserve">
-    <value>Keiner (sofortiger Wechsel)</value>
+    <value>なし（即時切り替え）</value>
   </data>
   <data name="PhotoOriginalSize" xml:space="preserve">
-    <value>Originalgröße (ohne Skalierung)</value>
+    <value>元のサイズ（拡大縮小なし）</value>
   </data>
   <data name="PhotoSettings" xml:space="preserve">
-    <value>Einstellungen des Bilderrahmens</value>
+    <value>Photo Frame の設定</value>
   </data>
   <data name="PhotoStretch" xml:space="preserve">
-    <value>Dehnen und füllen (verzerrt)</value>
+    <value>引き伸ばして表示（変形あり）</value>
   </data>
   <data name="PhotoSubtleTwist" xml:space="preserve">
-    <value>Leichte Drehung</value>
+    <value>控えめなひねり</value>
   </data>
   <data name="PhotoTransition" xml:space="preserve">
-    <value>Übergangseffekt:</value>
+    <value>切り替えエフェクト:</value>
   </data>
   <data name="PhotoVerticalWipe" xml:space="preserve">
-    <value>Sanfter vertikaler Wisch</value>
+    <value>ソフト縦ワイプ</value>
   </data>
   <data name="PluginCalculator" xml:space="preserve">
-    <value>Taschenrechner</value>
+    <value>電卓</value>
   </data>
   <data name="PluginIpInfo" xml:space="preserve">
-    <value>IP-Informationen</value>
+    <value>IP 情報</value>
   </data>
   <data name="PluginPerformance" xml:space="preserve">
-    <value>Leistungsanzeigen</value>
+    <value>システムパフォーマンスゲージ</value>
   </data>
   <data name="PluginPhotoFrame" xml:space="preserve">
-    <value>Bilderrahmen</value>
+    <value>Photo Frame</value>
   </data>
   <data name="PluginQueueSaturation" xml:space="preserve">
-    <value>Warteschlangen-Auslastung</value>
+    <value>システムキュー飽和度</value>
   </data>
   <data name="PluginTerminal" xml:space="preserve">
-    <value>Terminal</value>
+    <value>ターミナルエミュレーター</value>
   </data>
   <data name="PluginVuMeter" xml:space="preserve">
-    <value>VU-Meter</value>
+    <value>VU メーター</value>
   </data>
   <data name="ProfileActive" xml:space="preserve">
-    <value>Aktiv</value>
+    <value>アクティブ</value>
   </data>
   <data name="ProfileManagerTitle" xml:space="preserve">
-    <value>Profilverwaltung</value>
+    <value>プロファイルマネージャー</value>
   </data>
   <data name="QueueConfig" xml:space="preserve">
-    <value>Konfiguration der System-Warteschlangen</value>
+    <value>システムキューの構成</value>
   </data>
   <data name="QueueDiagnosticSettings" xml:space="preserve">
-    <value>Einstellungen des Diagnosefensters</value>
+    <value>診断パネルの設定</value>
   </data>
   <data name="QueueDynamicColors" xml:space="preserve">
-    <value>Dynamische Farben (grün/gelb/rot)</value>
+    <value>動的な色を使用する（緑/黄/赤）</value>
   </data>
   <data name="QueueInitializing" xml:space="preserve">
-    <value>[Wird gestartet…]</value>
+    <value>[初期化中...]</value>
   </data>
   <data name="QueueRefreshRate" xml:space="preserve">
-    <value>Aktualisierungsrate:</value>
+    <value>センサーの更新間隔:</value>
   </data>
   <data name="QueueShowCores" xml:space="preserve">
-    <value>Erkannte logische Kerne anzeigen</value>
+    <value>論理コア検出テキストを表示</value>
   </data>
   <data name="QueueShowTitle" xml:space="preserve">
-    <value>Titel anzeigen (AUSLASTUNG DER SYSTEM-WARTESCHLANGEN)</value>
+    <value>タイトルラベルを表示（SYSTEM QUEUE SATURATION）</value>
   </data>
   <data name="QueueShowValues" xml:space="preserve">
-    <value>Zahlenwerte anzeigen (Threads pro Kern und ausstehende E/A)</value>
+    <value>数値を表示（スレッド数/コア数と保留中の I/O）</value>
   </data>
   <data name="QueueTitle" xml:space="preserve">
-    <value>AUSLASTUNG DER SYSTEM-WARTESCHLANGEN</value>
+    <value>システムキュー飽和度</value>
   </data>
   <data name="QueueWmiError" xml:space="preserve">
-    <value>[WMI-Fehler]</value>
+    <value>[WMI エラー]</value>
   </data>
   <data name="RandomNameAdjectives" xml:space="preserve">
-    <value>Hoch,Tief,Klein,Weit,Breit,Schmal,Flach,Kühn,Kalt,Warm,Sanft,Hart,Dunkel,Blass,Schnell,Langsam,Tief,Schlank,Kurz,Krumm,Fein,Hell,Licht,Scharf,Stumpf,Laut,Stumm,Grimm,Mild,Nett,Rau,Glatt,Tapfer,Wild,Schlicht,Alt,Trocken,Feucht,Stark,Schwach</value>
+    <value>高い,低い,小さな,広大な,広い,細い,平らな,大胆な,冷たい,暖かい,柔らかい,硬い,暗い,淡い,速い,遅い,深い,そびえ立つ,短い,曲がった,薄い,明るい,軽い,鋭い,鈍い,騒々しい,静かな,陰鬱な,優しい,整った,荒い,滑らかな,勇敢な,猛々しい,素朴な,古びた,乾いた,湿った,強い,弱い</value>
   </data>
   <data name="RandomNameFormat" xml:space="preserve">
     <value>{0}{1}</value>
   </data>
   <data name="RandomNamePlaces" xml:space="preserve">
-    <value>bucht,hügel,see,bucht,gipfel,riff,düne,tal,moor,grund,fels,ufer,hang,furt,kap,klippe,marsch,teich,wand,wald,senke,pass,höhle,grat,fall,hain,bach,sporn,pfad,spitze</value>
+    <value>入江,丘,湖,浦,峰,岩礁,砂丘,渓谷,荒野,谷,岩,岸,土手,浅瀬,岬,岩山,沼地,池,崖,森,木立,峠,洞窟,尾根,滝,林,小川,断崖,小道,崎</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Tippen zum Suchen…</value>
+    <value>入力して検索...</value>
   </data>
   <data name="SearchTitle" xml:space="preserve">
-    <value>Desktop Frames Suche</value>
+    <value>Desktop Frames 検索</value>
   </data>
   <data name="SecAppearance" xml:space="preserve">
-    <value>Aussehen</value>
+    <value>外観</value>
   </data>
   <data name="SecAutoHideFrames" xml:space="preserve">
-    <value>Rahmen automatisch ausblenden</value>
+    <value>Frame の自動非表示</value>
   </data>
   <data name="SecDesktopIconVisibility" xml:space="preserve">
-    <value>Sichtbarkeit der Desktopsymbole</value>
+    <value>デスクトップアイコンの表示</value>
   </data>
   <data name="SecIcons" xml:space="preserve">
-    <value>Symbole</value>
+    <value>アイコン</value>
   </data>
   <data name="SecIdleAutoRoll" xml:space="preserve">
-    <value>Automatisches Einrollen bei Untätigkeit</value>
+    <value>アイドル時のオートロール</value>
   </data>
   <data name="SecIdleFadeOut" xml:space="preserve">
-    <value>Ausblenden bei Untätigkeit</value>
+    <value>アイドル時のフェードアウト</value>
   </data>
   <data name="SecLog" xml:space="preserve">
-    <value>Protokoll</value>
+    <value>ログ</value>
   </data>
   <data name="SecLogCategories" xml:space="preserve">
-    <value>Protokollkategorien</value>
+    <value>ログカテゴリ</value>
   </data>
   <data name="SecLogConfiguration" xml:space="preserve">
-    <value>Protokolleinstellungen</value>
+    <value>ログの構成</value>
   </data>
   <data name="SecMaintenance" xml:space="preserve">
-    <value>Wartung</value>
+    <value>メンテナンス</value>
   </data>
   <data name="SecProfileManagement" xml:space="preserve">
-    <value>Profilverwaltung</value>
+    <value>プロファイル管理</value>
   </data>
   <data name="SecProfileSwitching" xml:space="preserve">
-    <value>Profilwechsel</value>
+    <value>プロファイルの切り替え</value>
   </data>
   <data name="SecSelections" xml:space="preserve">
-    <value>Optionen</value>
+    <value>選択項目</value>
   </data>
   <data name="SecSmartDesktopAuto" xml:space="preserve">
-    <value>Intelligenter Desktop (automatisches Aufräumen)</value>
+    <value>Smart Desktop（Auto-Organize）</value>
   </data>
   <data name="SecStartup" xml:space="preserve">
-    <value>Start</value>
+    <value>スタートアップ</value>
   </data>
   <data name="SecUtilities" xml:space="preserve">
-    <value>Hilfsmittel</value>
+    <value>ユーティリティ</value>
   </data>
   <data name="SldAutoHideTime" xml:space="preserve">
-    <value>Zeit bis zum Ausblenden (s)</value>
+    <value>自動非表示までの時間（秒）</value>
   </data>
   <data name="SldFadeTargetOpacity" xml:space="preserve">
-    <value>Deckkraft beim Ausblenden (%)</value>
+    <value>フェード後の不透明度（%）</value>
   </data>
   <data name="SldFrameTint" xml:space="preserve">
-    <value>Rahmenfärbung</value>
+    <value>Frame の色調</value>
   </data>
   <data name="SldIdleTime" xml:space="preserve">
-    <value>Untätigkeitsdauer (s)</value>
+    <value>アイドル時間（秒）</value>
   </data>
   <data name="SldMenuTint" xml:space="preserve">
-    <value>Menüfärbung</value>
+    <value>メニューの色調</value>
   </data>
   <data name="SndDefault" xml:space="preserve">
-    <value>Standardton</value>
+    <value>既定のサウンド</value>
   </data>
   <data name="SndDoubleDing" xml:space="preserve">
-    <value>Doppel-Ding</value>
+    <value>ダブルディン</value>
   </data>
   <data name="SndGentleDing" xml:space="preserve">
-    <value>Zartes Ding</value>
+    <value>やさしいディン</value>
   </data>
   <data name="SndMessageDing" xml:space="preserve">
-    <value>Nachrichten-Ding</value>
+    <value>メッセージディン</value>
   </data>
   <data name="SndSmoothTickle" xml:space="preserve">
-    <value>Sanfter Anstoß</value>
+    <value>スムーズティックル</value>
   </data>
   <data name="SndSoftDing" xml:space="preserve">
-    <value>Weiches Ding</value>
+    <value>ソフトディン</value>
   </data>
   <data name="TabAddNew" xml:space="preserve">
-    <value>Registerkarte hinzufügen</value>
+    <value>新しいタブを追加</value>
   </data>
   <data name="TabAddNewHint" xml:space="preserve">
-    <value>Registerkarte hinzufügen (Strg+Klick zum Importieren)</value>
+    <value>新しいタブを追加（Ctrl+クリックでインポート）</value>
   </data>
   <data name="TabFrame" xml:space="preserve">
-    <value>Rahmen</value>
+    <value>Frame</value>
   </data>
   <data name="TabGeneral" xml:space="preserve">
-    <value>Allgemein</value>
+    <value>全般</value>
   </data>
   <data name="TabHotkeys" xml:space="preserve">
-    <value>Tastenkürzel</value>
+    <value>ホットキー</value>
   </data>
   <data name="TabIcons" xml:space="preserve">
-    <value>Symbole</value>
+    <value>アイコン</value>
   </data>
   <data name="TabLookDeeper" xml:space="preserve">
-    <value>Details</value>
+    <value>Look Deeper</value>
   </data>
   <data name="TabMoveLeft" xml:space="preserve">
-    <value>Nach links verschieben</value>
+    <value>左に移動</value>
   </data>
   <data name="TabMoveRight" xml:space="preserve">
-    <value>Nach rechts verschieben</value>
+    <value>右に移動</value>
   </data>
   <data name="TabProfiles" xml:space="preserve">
-    <value>Profile</value>
+    <value>プロファイル</value>
   </data>
   <data name="TabRename" xml:space="preserve">
-    <value>Registerkarte umbenennen</value>
+    <value>タブの名前を変更</value>
   </data>
   <data name="TabSmartDesktop" xml:space="preserve">
-    <value>Intelligenter Desktop</value>
+    <value>Smart Desktop</value>
   </data>
   <data name="TabStyleFx" xml:space="preserve">
-    <value>Stil und Effekte</value>
+    <value>スタイルと FX</value>
   </data>
   <data name="TabTitle" xml:space="preserve">
-    <value>Titel</value>
+    <value>タイトル</value>
   </data>
   <data name="TabTools" xml:space="preserve">
-    <value>Werkzeuge</value>
+    <value>ツール</value>
   </data>
   <data name="TermClearHistory" xml:space="preserve">
-    <value>Befehlsverlauf löschen</value>
+    <value>コマンド履歴をクリア</value>
   </data>
   <data name="TermConsoleOptions" xml:space="preserve">
-    <value>Konsolenoptionen</value>
+    <value>コンソールオプション</value>
   </data>
   <data name="TermHistoryCleared" xml:space="preserve">
-    <value>Verlauf gelöscht.</value>
+    <value>履歴をクリアしました！</value>
   </data>
   <data name="TermProcessExited" xml:space="preserve">
-    <value>[Prozess beendet. Neustart…]</value>
+    <value>[プロセスが終了しました。再起動を試みています...]</value>
   </data>
   <data name="TermRestarting" xml:space="preserve">
-    <value>[Sitzung wird neu gestartet…]</value>
+    <value>[シェルセッションを再起動中...]</value>
   </data>
   <data name="TermSelectStartupDir" xml:space="preserve">
-    <value>Startordner des Terminals wählen</value>
+    <value>ターミナルの起動ディレクトリを選択</value>
   </data>
   <data name="TermSettings" xml:space="preserve">
-    <value>Terminal-Einstellungen</value>
+    <value>ターミナルの設定</value>
   </data>
   <data name="TermStartupDirectory" xml:space="preserve">
-    <value>Startordner:</value>
+    <value>起動ディレクトリ:</value>
   </data>
   <data name="TermTargetShell" xml:space="preserve">
-    <value>Befehlsinterpreter:</value>
+    <value>対象シェル:</value>
   </data>
   <data name="TextAppearance" xml:space="preserve">
-    <value>Textaussehen</value>
+    <value>テキストの外観</value>
   </data>
   <data name="TextBehavior" xml:space="preserve">
-    <value>Textverhalten</value>
+    <value>テキストの動作</value>
   </data>
   <data name="TextFormatTitle" xml:space="preserve">
-    <value>Textformat</value>
+    <value>テキスト書式</value>
   </data>
   <data name="TooltipAutoReposition" xml:space="preserve">
-    <value>Automatische Neuanordnung ist aktiv (verborgene Einstellung): die Rahmen werden bereits selbst verwaltet.</value>
+    <value>自動再配置が有効です（隠し設定）。Frame は既に自動的に管理されています。</value>
   </data>
   <data name="TooltipBlankSpacer" xml:space="preserve">
-    <value>Leerer Abstandhalter (STRG halten zum Verschieben)</value>
+    <value>空白スペーサー（CTRL を押しながら移動）</value>
   </data>
   <data name="TooltipChameleon" xml:space="preserve">
-    <value>Die Rahmen passen ihre Farbe selbst an den Hintergrund an.</value>
+    <value>Frame はデスクトップの背景に完全に溶け込むよう、自動的に色を変更します。</value>
   </data>
   <data name="TooltipClearFilter" xml:space="preserve">
-    <value>Filter löschen und schließen</value>
+    <value>フィルターをクリアして閉じる</value>
   </data>
   <data name="TooltipFilterFiles" xml:space="preserve">
-    <value>Dateien filtern (z. B. „*.jpg“, oder „&gt;*.tmp“ zum Ausschließen)</value>
+    <value>ファイルをフィルター（例: '*.jpg'、除外する場合は '&gt;*.tmp'）</value>
   </data>
   <data name="TooltipGoUp" xml:space="preserve">
-    <value>Übergeordneter Ordner</value>
+    <value>上へ移動</value>
   </data>
   <data name="TooltipSetHome" xml:space="preserve">
-    <value>Aktuelle Ansicht als Startordner dieses Rahmens festlegen</value>
+    <value>現在の表示をこの Frame の新しいホームとして設定</value>
   </data>
   <data name="TrayCreateNewProfile" xml:space="preserve">
-    <value>Neues Profil erstellen…</value>
+    <value>新しいプロファイルを作成...</value>
   </data>
   <data name="TrayExportDoneText" xml:space="preserve">
-    <value>Registrierungswerte in den Programmordner exportiert.</value>
+    <value>レジストリの値をプログラムフォルダーに正常にエクスポートしました。</value>
   </data>
   <data name="TrayExportDoneTitle" xml:space="preserve">
     <value>Desktop Frames Plus</value>
   </data>
   <data name="TrayExportFailedText" xml:space="preserve">
-    <value>Export der Registrierungswerte fehlgeschlagen. Siehe Protokoll.</value>
+    <value>レジストリの値のエクスポートに失敗しました。詳細はログを確認してください。</value>
   </data>
   <data name="TrayExportFailedTitle" xml:space="preserve">
-    <value>Desktop Frames Plus - Fehler</value>
+    <value>Desktop Frames Plus - エラー</value>
   </data>
   <data name="TrayFocusFrame" xml:space="preserve">
-    <value>Zum Rahmen wechseln... ({0})</value>
+    <value>フォーカス Frame... ({0})</value>
   </data>
   <data name="TrayManageProfiles" xml:space="preserve">
-    <value>Profile verwalten…</value>
+    <value>プロファイルを管理...</value>
   </data>
   <data name="TrayProfiles" xml:space="preserve">
-    <value>Profile</value>
+    <value>プロファイル</value>
   </data>
   <data name="TrayReloadAllFrames" xml:space="preserve">
-    <value>Alle Rahmen neu laden</value>
+    <value>すべての Frame を再読み込み</value>
   </data>
   <data name="TrayReloadingFrames" xml:space="preserve">
-    <value>Rahmen werden neu geladen…</value>
+    <value>すべての Frame を再読み込みしています。しばらくお待ちください...</value>
   </data>
   <data name="TrayShowHiddenFrames" xml:space="preserve">
-    <value>Ausgeblendete Rahmen anzeigen</value>
+    <value>非表示の Frame を表示</value>
   </data>
   <data name="UpdateAvailable" xml:space="preserve">
-    <value>Aktualisierung verfügbar</value>
+    <value>アップデートがあります</value>
   </data>
   <data name="ViewDetails" xml:space="preserve">
-    <value>Liste</value>
+    <value>詳細</value>
   </data>
   <data name="ViewIcons" xml:space="preserve">
-    <value>Symbole</value>
+    <value>アイコン</value>
   </data>
   <data name="VuAttack" xml:space="preserve">
-    <value>Ansprechzeit (Attack in ms):</value>
+    <value>応答性（Attack ms）:</value>
   </data>
   <data name="VuAttackHint" xml:space="preserve">
-    <value>Standard: 25 | niedriger = schnellerer Ausschlag | Grenzen: 1 - 1000</value>
+    <value>既定値: 25 | 小さいほど反応が速い | 範囲: 1～1000</value>
   </data>
   <data name="VuBallistics" xml:space="preserve">
-    <value>Ansprechverhalten und Abstimmung</value>
+    <value>Meter Ballistics &amp; Tuning</value>
   </data>
   <data name="VuDecay" xml:space="preserve">
-    <value>Weichheit (Decay in ms):</value>
+    <value>滑らかさ（Decay ms）:</value>
   </data>
   <data name="VuDecayHint" xml:space="preserve">
-    <value>Standard: 200 | höher = sanfteres Abfallen | Grenzen: 10 - 3000</value>
+    <value>既定値: 200 | 大きいほど滑らかに下降 | 範囲: 10～3000</value>
   </data>
   <data name="VuDisplayOptions" xml:space="preserve">
-    <value>Anzeigeoptionen</value>
+    <value>表示オプション</value>
   </data>
   <data name="VuGainHint" xml:space="preserve">
-    <value>Standard: 1,2 | höher = empfindlicher | Grenzen: 0,1 - 10,0</value>
+    <value>既定値: 1.2 | 大きいほど高感度 | 範囲: 0.1～10.0</value>
   </data>
   <data name="VuLayoutMode" xml:space="preserve">
-    <value>Anordnung:</value>
+    <value>レイアウトモード:</value>
   </data>
   <data name="VuSettings" xml:space="preserve">
-    <value>VU-Meter-Einstellungen</value>
+    <value>VU メーターの設定</value>
   </data>
   <data name="VuSignalGain" xml:space="preserve">
-    <value>Signalverstärkung (Faktor):</value>
+    <value>信号ゲイン（倍率）:</value>
   </data>
   <data name="SecLanguage" xml:space="preserve">
-    <value>Sprache</value>
+    <value>言語</value>
   </data>
   <data name="LblLanguage" xml:space="preserve">
-    <value>Sprache der Oberfläche:</value>
+    <value>インターフェース言語:</value>
   </data>
   <data name="LangAutomatic" xml:space="preserve">
-    <value>Automatisch (Windows folgen)</value>
+    <value>自動（Windows に従う）</value>
   </data>
   <data name="BtnImportLanguagePack" xml:space="preserve">
-    <value>Sprachpaket importieren…</value>
+    <value>言語パックをインポート…</value>
   </data>
   <data name="BtnOpenLanguagesFolder" xml:space="preserve">
-    <value>Sprachordner öffnen</value>
+    <value>言語フォルダーを開く</value>
   </data>
   <data name="LanguagePackFilter" xml:space="preserve">
-    <value>Sprachpakete (*.resx)|*.resx</value>
+    <value>言語パック (*.resx)|*.resx</value>
   </data>
   <data name="LanguagePackImported" xml:space="preserve">
-    <value>Sprachpaket installiert: {0}. Nach einem Neustart erscheint es in der Liste.</value>
+    <value>言語パックをインストールしました: {0}。リストに表示するには再起動してください。</value>
   </data>
   <data name="LanguagePackBadName" xml:space="preserve">
-    <value>Der Dateiname muss ein Kulturcode sein, etwa de.resx oder pt-BR.resx.</value>
+    <value>ファイル名は ja.resx や ja-JP.resx のようなカルチャコードにする必要があります。</value>
   </data>
   <data name="NoteLanguageRestart" xml:space="preserve">
-    <value>Hinweis: Die Sprache wechselt nach dem Neustart des Programms. Pakete im Ordner Languages werden beim nächsten Start gelesen.</value>
+    <value>注: 言語の変更はプログラムの再起動後に反映されます。Languages フォルダーに配置したパックは、次回起動時に読み込まれます。</value>
   </data>
   <data name="CatImages" xml:space="preserve">
-    <value>Bilder</value>
+    <value>画像</value>
   </data>
   <data name="CatDocuments" xml:space="preserve">
-    <value>Dokumente</value>
+    <value>ドキュメント</value>
   </data>
   <data name="CatExecutables" xml:space="preserve">
-    <value>Programme</value>
+    <value>実行ファイル</value>
   </data>
   <data name="CatArchives" xml:space="preserve">
-    <value>Archive</value>
+    <value>アーカイブ</value>
   </data>
   <data name="CatCustomExtensions" xml:space="preserve">
-    <value>Eigene Erweiterungen...</value>
+    <value>カスタム拡張子...</value>
   </data>
   <data name="ConflictAutoRename" xml:space="preserve">
-    <value>Automatisch umbenennen (z. B. Datei (1).jpg)</value>
+    <value>自動リネーム（例: File (1).jpg）</value>
   </data>
   <data name="ConflictOverwrite" xml:space="preserve">
-    <value>Überschreiben (alte Datei in den Papierkorb)</value>
+    <value>上書き（古いファイルをごみ箱へ移動）</value>
   </data>
   <data name="ConflictSkip" xml:space="preserve">
-    <value>Überspringen (auf dem Desktop lassen)</value>
+    <value>スキップ（デスクトップに残す）</value>
   </data>
   <data name="TargetPortalFrame" xml:space="preserve">
-    <value>Portal-Rahmen: {0}</value>
+    <value>Portal Frame: {0}</value>
   </data>
   <data name="LastRunNever" xml:space="preserve">
-    <value>Letzte erfolgreiche Ausführung: nie</value>
+    <value>前回の成功した実行: なし</value>
   </data>
   <data name="LastRunAt" xml:space="preserve">
-    <value>Letzte erfolgreiche Ausführung: {0}</value>
+    <value>前回の成功した実行: {0}</value>
   </data>
   <data name="TabInterface" xml:space="preserve">
-    <value>Benutzeroberfläche</value>
+    <value>インターフェース</value>
   </data>
   <data name="TabAppearance" xml:space="preserve">
-    <value>Erscheinungsbild</value>
+    <value>外観</value>
   </data>
   <data name="TabIdleBehaviors" xml:space="preserve">
-    <value>Ruhezustände</value>
+    <value>アイドル動作</value>
   </data>
   <data name="BtnExportTemplate" xml:space="preserve">
-    <value>Sprachvorlage exportieren...</value>
+    <value>言語テンプレートをエクスポート...</value>
   </data>
   <data name="MsgTemplateExported" xml:space="preserve">
-    <value>Sprachvorlage erfolgreich exportiert!</value>
+    <value>言語テンプレートを正常にエクスポートしました！</value>
   </data>
 </root>

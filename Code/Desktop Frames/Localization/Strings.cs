@@ -752,6 +752,15 @@ namespace Desktop_Frames.Localization
         public static string VuSettings => Get("VuSettings");
         public static string VuSignalGain => Get("VuSignalGain");
 
+        public static string TabInterface => Get("TabInterface");
+
+        public static string TabAppearance => Get("TabAppearance");
+        public static string TabIdleBehaviors => Get("TabIdleBehaviors");
+
+        public static string BtnExportTemplate => Get("BtnExportTemplate");
+        public static string MsgTemplateExported => Get("MsgTemplateExported");
+
+
         // ── Generated frame names ──────────────────────────────────────────
         public static string RandomNameAdjectives => Get("RandomNameAdjectives");
         public static string RandomNamePlaces => Get("RandomNamePlaces");

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,204 +118,204 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutAnd" xml:space="preserve">
-    <value> und </value>
+    <value> en </value>
   </data>
   <data name="AboutBody" xml:space="preserve">
-    <value>Desktop Frames + legt virtuelle Rahmen auf dem Desktop an, in denen sich Symbole sauber und bequem gruppieren und ordnen lassen.</value>
+    <value>Desktop Frames + maakt virtuele frames op je bureaublad, waarmee je pictogrammen op een overzichtelijke en praktische manier kunt groeperen en ordenen.</value>
   </data>
   <data name="AboutCreditsBody" xml:space="preserve">
-    <value>Desktop Frames + ist ein quelloffenes Windows-Werkzeug, entstanden aus der Arbeit von HakanKokcu unter dem Namen BirdyFences.
+    <value>Desktop Frames + is een opensource-hulpprogramma voor Windows, oorspronkelijk gemaakt door HakanKokcu onder de naam BirdyFences.
 
-Heute wird es von Nikos Georgousis gepflegt, der es erweitert und stabiler sowie angenehmer gemacht hat.</value>
+Desktop Frames + wordt onderhouden door Nikos Georgousis en is verbeterd en geoptimaliseerd voor stabiliteit en een betere gebruikerservaring.</value>
   </data>
   <data name="AboutDonateBig" xml:space="preserve">
-    <value>999,00 € spenden</value>
+    <value>Doneer 999,00 €</value>
   </data>
   <data name="AboutDontFeedDragons" xml:space="preserve">
-    <value>Bitte die Drachen nicht füttern</value>
+    <value>Voer de draken niet</value>
   </data>
   <data name="AboutGreatToHaveYou" xml:space="preserve">
-    <value>Schön, dass du da bist</value>
+    <value>Fijn dat u er bent</value>
   </data>
   <data name="AboutLicense" xml:space="preserve">
-    <value>⚖ MIT-Lizenz</value>
+    <value>⚖ MIT-licentie</value>
   </data>
   <data name="AboutPleaseDonate" xml:space="preserve">
-    <value>Bitte spenden</value>
+    <value>Doneer alstublieft</value>
   </data>
   <data name="AboutSectionAbout" xml:space="preserve">
-    <value>Über</value>
+    <value>Over</value>
   </data>
   <data name="AboutSectionCredits" xml:space="preserve">
-    <value>Danksagungen</value>
+    <value>Credits</value>
   </data>
   <data name="AboutSoundCredits" xml:space="preserve">
-    <value>Kostenlose Klänge von </value>
+    <value>Gebruikt gratis geluidsbestanden van </value>
   </data>
   <data name="AboutSupportDevelopment" xml:space="preserve">
-    <value>Entwicklung unterstützen</value>
+    <value>Ondersteun de ontwikkeling</value>
   </data>
   <data name="AboutTagline" xml:space="preserve">
-    <value>Räume deinen Desktop auf wie von Zauberhand.</value>
+    <value>Organiseer uw bureaublad als bij toverslag!</value>
   </data>
   <data name="AboutThinkAgain" xml:space="preserve">
-    <value>Sicher? Denk noch mal nach!</value>
+    <value>Weet u het zeker? Denk nog eens na!</value>
   </data>
   <data name="AboutTitle" xml:space="preserve">
-    <value>Über Desktop Frames +</value>
+    <value>Over Desktop Frames +</value>
   </data>
   <data name="AboutVersion" xml:space="preserve">
-    <value>Version {0}</value>
+    <value>Versie {0}</value>
   </data>
   <data name="AboutVisitGitHub" xml:space="preserve">
-    <value>⚡ Zum GitHub-Repository</value>
+    <value>⚡ Bezoek GitHub-repository</value>
   </data>
   <data name="AboutWhat" xml:space="preserve">
-    <value>Wie bitte!?</value>
+    <value>Wat!?</value>
   </data>
   <data name="AutomationClickTarget" xml:space="preserve">
-    <value>KLICKE AUF DAS ZIELFENSTER</value>
+    <value>KLIK OP HET DOELVENSTER</value>
   </data>
   <data name="AutomationDeleteSelected" xml:space="preserve">
-    <value>Ausgewählte löschen</value>
+    <value>Geselecteerde verwijderen</value>
   </data>
   <data name="AutomationDoubleClickEdit" xml:space="preserve">
-    <value>Doppelklick zum Bearbeiten der Regel</value>
+    <value>Dubbelklik om de regel te bewerken</value>
   </data>
   <data name="AutomationExisting" xml:space="preserve">
-    <value>Vorhandene Regeln</value>
+    <value>Bestaande regels</value>
   </data>
   <data name="AutomationManage" xml:space="preserve">
-    <value>Automatisierungsregeln verwalten</value>
+    <value>Automatiseringsregels beheren</value>
   </data>
   <data name="AutomationPersistedMode" xml:space="preserve">
-    <value>Dauerhafter Modus (nach dem Schließen im Profil bleiben)</value>
+    <value>Aanhoudende modus (blijft op profiel na sluiten)</value>
   </data>
   <data name="AutomationPickWindow" xml:space="preserve">
-    <value>🎯 Fenster wählen</value>
+    <value>🎯 Venster kiezen</value>
   </data>
   <data name="AutomationRuleDefinition" xml:space="preserve">
-    <value>Regeldefinition</value>
+    <value>Regeldefinitie</value>
   </data>
   <data name="AutomationTitle" xml:space="preserve">
-    <value>Automatisierungsregeln</value>
+    <value>Automatiseringsregels</value>
   </data>
   <data name="AutoOrgAddRule" xml:space="preserve">
-    <value>+ Regel hinzufügen</value>
+    <value>+ Regel toevoegen</value>
   </data>
   <data name="AutoOrgBrowseFolder" xml:space="preserve">
-    <value>Ordner wählen…</value>
+    <value>Bladeren naar map...</value>
   </data>
   <data name="AutoOrgCustomExtensions" xml:space="preserve">
-    <value>Eigene Endungen (z. B. *.zip; *.rar):</value>
+    <value>Aangepaste extensies (bijv. *.zip; *.rar):</value>
   </data>
   <data name="AutoOrgEnableRule" xml:space="preserve">
-    <value>Diese Regel aktivieren</value>
+    <value>Deze regel inschakelen</value>
   </data>
   <data name="AutoOrgFilenameContains" xml:space="preserve">
-    <value>Und der Name enthält (optional, leer = beliebig):</value>
+    <value>En bestandsnaam bevat (optioneel, leeg laten voor alle):</value>
   </data>
   <data name="AutoOrgGeneratePortal" xml:space="preserve">
-    <value>Portal-Rahmen für diesen Ordner anlegen</value>
+    <value>Nieuw Portal Frame genereren voor deze map</value>
   </data>
   <data name="AutoOrgIfExists" xml:space="preserve">
-    <value>Wenn die Datei schon existiert:</value>
+    <value>Als het bestand al bestaat:</value>
   </data>
   <data name="AutoOrgIfExtension" xml:space="preserve">
-    <value>Wenn die Dateiendung ist:</value>
+    <value>Als de bestandsextensie is:</value>
   </data>
   <data name="AutoOrgMoveTo" xml:space="preserve">
-    <value>Verschieben nach:</value>
+    <value>Verplaatsen naar:</value>
   </data>
   <data name="AutoOrgRemove" xml:space="preserve">
-    <value>− Entfernen</value>
+    <value>− Verwijderen</value>
   </data>
   <data name="AutoOrgRuleName" xml:space="preserve">
-    <value>Regelname:</value>
+    <value>Regelnaam:</value>
   </data>
   <data name="AutoOrgSaveRules" xml:space="preserve">
-    <value>Regeln speichern</value>
+    <value>Regels opslaan</value>
   </data>
   <data name="AutoOrgTitle" xml:space="preserve">
-    <value>Intelligente Desktop-Regeln</value>
+    <value>Smart Desktop-regels</value>
   </data>
   <data name="BackupSelectExportFile" xml:space="preserve">
-    <value>Exportdatei des Rahmens wählen</value>
+    <value>Selecteer Frame-exportbestand</value>
   </data>
   <data name="BtnApply" xml:space="preserve">
-    <value>Übernehmen</value>
+    <value>Toepassen</value>
   </data>
   <data name="BtnApplyToAll" xml:space="preserve">
-    <value>Auf alle übernehmen</value>
+    <value>Toepassen op alle</value>
   </data>
   <data name="BtnBackup" xml:space="preserve">
-    <value>Sicherung</value>
+    <value>Back-up</value>
   </data>
   <data name="BtnBrowse" xml:space="preserve">
-    <value>Durchsuchen…</value>
+    <value>Bladeren...</value>
   </data>
   <data name="BtnCancel" xml:space="preserve">
-    <value>Abbrechen</value>
+    <value>Annuleren</value>
   </data>
   <data name="BtnClearAllData" xml:space="preserve">
-    <value>Alle Daten löschen</value>
+    <value>Alle gegevens wissen</value>
   </data>
   <data name="BtnClose" xml:space="preserve">
-    <value>Schließen</value>
+    <value>Sluiten</value>
   </data>
   <data name="BtnCreate" xml:space="preserve">
-    <value>Erstellen</value>
+    <value>Maken</value>
   </data>
   <data name="BtnDefault" xml:space="preserve">
-    <value>Standard</value>
+    <value>Standaard</value>
   </data>
   <data name="BtnDonate" xml:space="preserve">
-    <value>♥ Per PayPal spenden</value>
+    <value>♥ Doneer via PayPal</value>
   </data>
   <data name="BtnManageAutomation" xml:space="preserve">
-    <value>Automatisierung verwalten</value>
+    <value>Automatisering beheren</value>
   </data>
   <data name="BtnManageProfiles" xml:space="preserve">
-    <value>Profile verwalten</value>
+    <value>Profielen beheren</value>
   </data>
   <data name="BtnMoveDown" xml:space="preserve">
-    <value>▼ Nach unten</value>
+    <value>▼ Omlaag</value>
   </data>
   <data name="BtnMoveUp" xml:space="preserve">
-    <value>▲ Nach oben</value>
+    <value>▲ Omhoog</value>
   </data>
   <data name="BtnOpenBackupsFolder" xml:space="preserve">
-    <value>Sicherungsordner öffnen</value>
+    <value>Back-upmap openen</value>
   </data>
   <data name="BtnOpenLog" xml:space="preserve">
-    <value>Protokoll öffnen</value>
+    <value>Log openen</value>
   </data>
   <data name="BtnOrganizeNow" xml:space="preserve">
-    <value>Jetzt aufräumen</value>
+    <value>Nu organiseren (uitvoeren)</value>
   </data>
   <data name="BtnReset" xml:space="preserve">
-    <value>Zurücksetzen</value>
+    <value>Resetten</value>
   </data>
   <data name="BtnResetStyles" xml:space="preserve">
-    <value>Stile zurücksetzen</value>
+    <value>Stijlen resetten</value>
   </data>
   <data name="BtnRestore" xml:space="preserve">
-    <value>Wiederherstellen…</value>
+    <value>Herstellen...</value>
   </data>
   <data name="BtnSave" xml:space="preserve">
-    <value>Speichern</value>
+    <value>Opslaan</value>
   </data>
   <data name="BtnSaveToAll" xml:space="preserve">
-    <value>Für alle speichern</value>
+    <value>Opslaan voor alle</value>
   </data>
   <data name="BtnScreenBoundFrames" xml:space="preserve">
-    <value>Rahmen zurück auf den Bildschirm holen</value>
+    <value>Frames binnen schermgrenzen</value>
   </data>
   <data name="BtnSmartDesktopRules" xml:space="preserve">
-    <value>Regeln für den intelligenten Desktop…</value>
+    <value>Smart Desktop-regels...</value>
   </data>
   <data name="ButtonNo" xml:space="preserve">
-    <value>Nein</value>
+    <value>Nee</value>
   </data>
   <data name="ButtonOk" xml:space="preserve">
     <value>OK</value>
@@ -324,64 +324,64 @@ Heute wird es von Nikos Georgousis gepflegt, der es erweitert und stabiler sowie
     <value>Ja</value>
   </data>
   <data name="CalcBadgeFade" xml:space="preserve">
-    <value>Dauer des Ausblendens (ms):</value>
+    <value>Badge-vervagingstijd (ms):</value>
   </data>
   <data name="CalcClear" xml:space="preserve">
-    <value>Löschen</value>
+    <value>Wissen</value>
   </data>
   <data name="CalcCleared" xml:space="preserve">
-    <value>Gelöscht</value>
+    <value>Gewist</value>
   </data>
   <data name="CalcClearedAll" xml:space="preserve">
-    <value>Alles gelöscht</value>
+    <value>Alles gewist</value>
   </data>
   <data name="CalcClearHistory" xml:space="preserve">
-    <value>Verlauf löschen</value>
+    <value>Geschiedenis wissen</value>
   </data>
   <data name="CalcClearMemory" xml:space="preserve">
-    <value>Speicher und Verlauf löschen</value>
+    <value>Geheugen &amp; geschiedenis wissen</value>
   </data>
   <data name="CalcClearOnNewInput" xml:space="preserve">
-    <value>Anzeige bei neuer Eingabe löschen (nach „=“)</value>
+    <value>Scherm wissen bij nieuwe invoer (na '=')</value>
   </data>
   <data name="CalcCopy" xml:space="preserve">
-    <value>Kopieren</value>
+    <value>Kopiëren</value>
   </data>
   <data name="CalcDisplayColor" xml:space="preserve">
-    <value>Farbe der Anzeige:</value>
+    <value>Schermkleur:</value>
   </data>
   <data name="CalcEntryCleared" xml:space="preserve">
-    <value>Eingabe gelöscht</value>
+    <value>Invoer gewist</value>
   </data>
   <data name="CalcErrorDisplay" xml:space="preserve">
-    <value>Fehler</value>
+    <value>Fout</value>
   </data>
   <data name="CalcHistoryColor" xml:space="preserve">
-    <value>Farbe des Verlaufs:</value>
+    <value>Kleur geschiedenis:</value>
   </data>
   <data name="CalcPaste" xml:space="preserve">
-    <value>Einfügen</value>
+    <value>Plakken</value>
   </data>
   <data name="CalcPercentage" xml:space="preserve">
-    <value>Prozent</value>
+    <value>Percentage</value>
   </data>
   <data name="CalcSettings" xml:space="preserve">
-    <value>Einstellungen des Taschenrechners</value>
+    <value>Rekenmachine-instellingen</value>
   </data>
   <data name="CalcShowKeypad" xml:space="preserve">
-    <value>Ziffernblock anzeigen</value>
+    <value>Virtueel toetsenblok tonen</value>
   </data>
   <data name="CalcShowOperationNames" xml:space="preserve">
-    <value>Namen der Rechenarten anzeigen (z. B. Addition)</value>
+    <value>Namen van bewerkingen tonen (bijv. Optellen)</value>
   </data>
   <data name="CalcShowTape" xml:space="preserve">
-    <value>Rechenstreifen anzeigen</value>
+    <value>Rekenstrook geschiedenis tonen</value>
   </data>
   <data name="ColDateModified" xml:space="preserve">
-    <value>Änderungsdatum</value>
+    <value>Wijzigingsdatum</value>
   </data>
   <data name="ColName" xml:space="preserve">
-    <value>Name</value>
+    <value>Naam</value>
   </data>
   <data name="ColorBeige" xml:space="preserve">
     <value>Beige</value>
@@ -390,238 +390,238 @@ Heute wird es von Nikos Georgousis gepflegt, der es erweitert und stabiler sowie
     <value>Bismark</value>
   </data>
   <data name="ColorBlack" xml:space="preserve">
-    <value>Schwarz</value>
+    <value>Zwart</value>
   </data>
   <data name="ColorBlue" xml:space="preserve">
-    <value>Blau</value>
+    <value>Blauw</value>
   </data>
   <data name="ColorFuchsia" xml:space="preserve">
     <value>Fuchsia</value>
   </data>
   <data name="ColorGray" xml:space="preserve">
-    <value>Grau</value>
+    <value>Grijs</value>
   </data>
   <data name="ColorGreen" xml:space="preserve">
-    <value>Grün</value>
+    <value>Groen</value>
   </data>
   <data name="ColorOrange" xml:space="preserve">
-    <value>Orange</value>
+    <value>Oranje</value>
   </data>
   <data name="ColorPurple" xml:space="preserve">
-    <value>Violett</value>
+    <value>Paars</value>
   </data>
   <data name="ColorRed" xml:space="preserve">
-    <value>Rot</value>
+    <value>Rood</value>
   </data>
   <data name="ColorWhite" xml:space="preserve">
-    <value>Weiß</value>
+    <value>Wit</value>
   </data>
   <data name="ColorYellow" xml:space="preserve">
-    <value>Gelb</value>
+    <value>Geel</value>
   </data>
   <data name="ColSize" xml:space="preserve">
-    <value>Größe</value>
+    <value>Grootte</value>
   </data>
   <data name="ColType" xml:space="preserve">
-    <value>Typ</value>
+    <value>Type</value>
   </data>
   <data name="ConfirmDeleteTitle" xml:space="preserve">
-    <value>Löschen bestätigen</value>
+    <value>Verwijderen bevestigen</value>
   </data>
   <data name="CustomizeTitle" xml:space="preserve">
-    <value>Rahmen anpassen</value>
+    <value>Frame aanpassen</value>
   </data>
   <data name="DeleteFrameHeading" xml:space="preserve">
-    <value>Rahmen löschen</value>
+    <value>Frame verwijderen</value>
   </data>
   <data name="DeleteFrameQuestion" xml:space="preserve">
-    <value>Diesen Rahmen wirklich löschen?</value>
+    <value>Weet u zeker dat u dit Frame wilt verwijderen?</value>
   </data>
   <data name="DeleteTabTitle" xml:space="preserve">
-    <value>Registerkarte löschen</value>
+    <value>Tabblad verwijderen</value>
   </data>
   <data name="DiagCpuQueue" xml:space="preserve">
-    <value>CPU-WARTESCHLANGE</value>
+    <value>CPU QUEUE</value>
   </data>
   <data name="DiagCpuUtilization" xml:space="preserve">
-    <value>CPU-AUSLASTUNG</value>
+    <value>CPU UTILIZATION</value>
   </data>
   <data name="DiagDiskIo" xml:space="preserve">
-    <value>DATENTRÄGER-E/A</value>
+    <value>DISK I/O</value>
   </data>
   <data name="DiagRamUtilization" xml:space="preserve">
-    <value>RAM-AUSLASTUNG</value>
+    <value>RAM UTILIZATION</value>
   </data>
   <data name="DlgApplyError" xml:space="preserve">
-    <value>Fehler beim Anwenden</value>
+    <value>Fout bij toepassen</value>
   </data>
   <data name="DlgBackup" xml:space="preserve">
-    <value>Sicherung</value>
+    <value>Back-up</value>
   </data>
   <data name="DlgBrowseError" xml:space="preserve">
-    <value>Fehler beim Durchsuchen</value>
+    <value>Fout bij bladeren</value>
   </data>
   <data name="DlgConfirmImport" xml:space="preserve">
-    <value>Import bestätigen</value>
+    <value>Import bevestigen</value>
   </data>
   <data name="DlgCopyError" xml:space="preserve">
-    <value>Fehler beim Kopieren</value>
+    <value>Fout bij kopiëren</value>
   </data>
   <data name="DlgCopyItem" xml:space="preserve">
-    <value>Element kopieren</value>
+    <value>Item kopiëren</value>
   </data>
   <data name="DlgCriticalError" xml:space="preserve">
-    <value>Schwerer Fehler</value>
+    <value>Kritieke fout</value>
   </data>
   <data name="DlgDefaultError" xml:space="preserve">
-    <value>Fehler beim Zurücksetzen</value>
+    <value>Standaardfout</value>
   </data>
   <data name="DlgDeleteProfile" xml:space="preserve">
-    <value>Profil löschen</value>
+    <value>Profiel verwijderen</value>
   </data>
   <data name="DlgDeleteTab" xml:space="preserve">
-    <value>Registerkarte löschen</value>
+    <value>Tabblad verwijderen</value>
   </data>
   <data name="DlgError" xml:space="preserve">
-    <value>Fehler</value>
+    <value>Fout</value>
   </data>
   <data name="DlgExportError" xml:space="preserve">
-    <value>Fehler beim Export</value>
+    <value>Fout bij exporteren</value>
   </data>
   <data name="DlgExportSuccessful" xml:space="preserve">
-    <value>Export erfolgreich</value>
+    <value>Export geslaagd</value>
   </data>
   <data name="DlgFactoryReset" xml:space="preserve">
-    <value>Auf Werkseinstellungen zurücksetzen</value>
+    <value>Fabrieksinstellingen herstellen</value>
   </data>
   <data name="DlgFormError" xml:space="preserve">
-    <value>Fehler im Fenster</value>
+    <value>Formulierfout</value>
   </data>
   <data name="DlgImportComplete" xml:space="preserve">
-    <value>Import abgeschlossen</value>
+    <value>Import voltooid</value>
   </data>
   <data name="DlgImportError" xml:space="preserve">
-    <value>Fehler beim Import</value>
+    <value>Fout bij importeren</value>
   </data>
   <data name="DlgInfo" xml:space="preserve">
-    <value>Hinweis</value>
+    <value>Info</value>
   </data>
   <data name="DlgInformation" xml:space="preserve">
-    <value>Information</value>
+    <value>Informatie</value>
   </data>
   <data name="DlgKeyboardCheck" xml:space="preserve">
-    <value>Optional: Tastaturprüfung</value>
+    <value>Optioneel: compatibiliteitscontrole toetsenbord</value>
   </data>
   <data name="DlgLaunchError" xml:space="preserve">
-    <value>Fehler beim Starten</value>
+    <value>Fout bij starten</value>
   </data>
   <data name="DlgLoadError" xml:space="preserve">
-    <value>Fehler beim Laden</value>
+    <value>Fout bij laden</value>
   </data>
   <data name="DlgPasteError" xml:space="preserve">
-    <value>Fehler beim Einfügen</value>
+    <value>Fout bij plakken</value>
   </data>
   <data name="DlgPasteItem" xml:space="preserve">
-    <value>Element einfügen</value>
+    <value>Item plakken</value>
   </data>
   <data name="DlgRenameError" xml:space="preserve">
-    <value>Fehler beim Umbenennen</value>
+    <value>Fout bij hernoemen</value>
   </data>
   <data name="DlgResetComplete" xml:space="preserve">
-    <value>Zurücksetzen abgeschlossen</value>
+    <value>Reset voltooid</value>
   </data>
   <data name="DlgResetSuccessful" xml:space="preserve">
-    <value>Zurücksetzen erfolgreich</value>
+    <value>Reset geslaagd</value>
   </data>
   <data name="DlgRestartRequired" xml:space="preserve">
-    <value>Neustart erforderlich</value>
+    <value>Herstart vereist</value>
   </data>
   <data name="DlgRestore" xml:space="preserve">
-    <value>Wiederherstellen</value>
+    <value>Herstellen</value>
   </data>
   <data name="DlgRestoreError" xml:space="preserve">
-    <value>Fehler beim Wiederherstellen</value>
+    <value>Fout bij herstellen</value>
   </data>
   <data name="DlgRestoreSettings" xml:space="preserve">
-    <value>Einstellungen wiederherstellen</value>
+    <value>Instellingen herstellen</value>
   </data>
   <data name="DlgSaveError" xml:space="preserve">
-    <value>Fehler beim Speichern</value>
+    <value>Fout bij opslaan</value>
   </data>
   <data name="DlgSaved" xml:space="preserve">
-    <value>Gespeichert</value>
+    <value>Opgeslagen</value>
   </data>
   <data name="DlgSuccess" xml:space="preserve">
-    <value>Erfolgreich</value>
+    <value>Gelukt</value>
   </data>
   <data name="DlgSweepDesktop" xml:space="preserve">
-    <value>Desktop aufräumen</value>
+    <value>Bureaublad opruimen</value>
   </data>
   <data name="DlgUpdatePortalFrame" xml:space="preserve">
-    <value>Portal-Rahmen aktualisieren</value>
+    <value>Portal Frame bijwerken</value>
   </data>
   <data name="DlgValidationError" xml:space="preserve">
-    <value>Ungültige Eingabe</value>
+    <value>Validatiefout</value>
   </data>
   <data name="EditSelectIcon" xml:space="preserve">
-    <value>Symbol wählen</value>
+    <value>Selecteer een pictogram</value>
   </data>
   <data name="EditSelectTarget" xml:space="preserve">
-    <value>Zieldatei wählen</value>
+    <value>Selecteer doelbestand</value>
   </data>
   <data name="EditShortcutTitle" xml:space="preserve">
-    <value>Verknüpfung bearbeiten</value>
+    <value>Snelkoppeling bewerken</value>
   </data>
   <data name="FocusFrameTitle" xml:space="preserve">
-    <value>Zum Rahmen springen</value>
+    <value>Focus Frame</value>
   </data>
   <data name="FocusSearchActive" xml:space="preserve">
-    <value>Unter den aktiven Rahmen suchen:</value>
+    <value>Zoeken in actieve Frames:</value>
   </data>
   <data name="FxAgitate" xml:space="preserve">
-    <value>Rütteln</value>
+    <value>Schudden</value>
   </data>
   <data name="FxBounce" xml:space="preserve">
-    <value>Sprung</value>
+    <value>Stuiteren</value>
   </data>
   <data name="FxElastic" xml:space="preserve">
     <value>Elastisch</value>
   </data>
   <data name="FxFadeOut" xml:space="preserve">
-    <value>Ausblenden</value>
+    <value>Vervagen</value>
   </data>
   <data name="FxFlip3D" xml:space="preserve">
-    <value>3D-Drehung</value>
+    <value>3D-flip</value>
   </data>
   <data name="FxGrowAndFly" xml:space="preserve">
-    <value>Wachsen und fliegen</value>
+    <value>Groeien en wegvliegen</value>
   </data>
   <data name="FxMatrix" xml:space="preserve">
     <value>Matrix</value>
   </data>
   <data name="FxPulse" xml:space="preserve">
-    <value>Pulsieren</value>
+    <value>Puls</value>
   </data>
   <data name="FxRotate" xml:space="preserve">
-    <value>Drehung</value>
+    <value>Roteren</value>
   </data>
   <data name="FxShockwave" xml:space="preserve">
-    <value>Schockwelle</value>
+    <value>Schokgolf</value>
   </data>
   <data name="FxSlideUp" xml:space="preserve">
-    <value>Nach oben gleiten</value>
+    <value>Omhoog schuiven</value>
   </data>
   <data name="FxSpiral" xml:space="preserve">
-    <value>Spirale</value>
+    <value>Spiraal</value>
   </data>
   <data name="FxSupernova" xml:space="preserve">
     <value>Supernova</value>
   </data>
   <data name="FxTeleport" xml:space="preserve">
-    <value>Teleport</value>
+    <value>Teleporteren</value>
   </data>
   <data name="FxZoom" xml:space="preserve">
-    <value>Zoom</value>
+    <value>Zoomen</value>
   </data>
   <data name="GaugeCpu" xml:space="preserve">
     <value>CPU %</value>
@@ -630,10 +630,10 @@ Heute wird es von Nikos Georgousis gepflegt, der es erweitert und stabiler sowie
     <value>LINKS (L)</value>
   </data>
   <data name="GaugeLeftVu" xml:space="preserve">
-    <value>VU LINKS</value>
+    <value>LEFT VU</value>
   </data>
   <data name="GaugeMasterVu" xml:space="preserve">
-    <value>HAUPT-VU</value>
+    <value>MASTER VU</value>
   </data>
   <data name="GaugeRam" xml:space="preserve">
     <value>RAM %</value>
@@ -642,40 +642,40 @@ Heute wird es von Nikos Georgousis gepflegt, der es erweitert und stabiler sowie
     <value>RECHTS (R)</value>
   </data>
   <data name="GaugeRightVu" xml:space="preserve">
-    <value>VU RECHTS</value>
+    <value>RIGHT VU</value>
   </data>
   <data name="HkDirectProfile" xml:space="preserve">
-    <value>Direktes Profil [0-9]</value>
+    <value>Direct profiel [0-9]</value>
   </data>
   <data name="HkFocusFrame" xml:space="preserve">
-    <value>Zum Rahmen springen</value>
+    <value>Focus Frame</value>
   </data>
   <data name="HkNextProfile" xml:space="preserve">
-    <value>Nächstes Profil</value>
+    <value>Volgend profiel</value>
   </data>
   <data name="HkPreviousProfile" xml:space="preserve">
-    <value>Vorheriges Profil</value>
+    <value>Vorig profiel</value>
   </data>
   <data name="HkSpotSearch" xml:space="preserve">
-    <value>Schnellsuche</value>
+    <value>Spot Search</value>
   </data>
   <data name="IconPickerHint" xml:space="preserve">
-    <value>Wähle ein Symbol aus den verfügbaren und klicke auf OK</value>
+    <value>Selecteer een beschikbaar pictogram en klik op OK</value>
   </data>
   <data name="IconPickerTitle" xml:space="preserve">
-    <value>Symbol wählen</value>
+    <value>Pictogram selecteren</value>
   </data>
   <data name="ImportTabNoFrames" xml:space="preserve">
-    <value>Keine weiteren Daten-Rahmen zum Importieren gefunden.</value>
+    <value>Er zijn geen andere data-Frames gevonden om te importeren.</value>
   </data>
   <data name="ImportTabPrompt" xml:space="preserve">
-    <value>Wähle den Rahmen oder die Registerkarte zum Importieren:</value>
+    <value>Selecteer een bron-Frame of tabblad om te importeren:</value>
   </data>
   <data name="ImportTabTitle" xml:space="preserve">
-    <value>Registerkarte importieren</value>
+    <value>Tabblad importeren</value>
   </data>
   <data name="ItemAgitate" xml:space="preserve">
-    <value>Rütteln</value>
+    <value>Schudden</value>
   </data>
   <data name="ItemBeige" xml:space="preserve">
     <value>Beige</value>
@@ -684,118 +684,118 @@ Heute wird es von Nikos Georgousis gepflegt, der es erweitert und stabiler sowie
     <value>Bismark</value>
   </data>
   <data name="ItemBlack" xml:space="preserve">
-    <value>Schwarz</value>
+    <value>Zwart</value>
   </data>
   <data name="ItemBlue" xml:space="preserve">
-    <value>Blau</value>
+    <value>Blauw</value>
   </data>
   <data name="ItemBounce" xml:space="preserve">
-    <value>Sprung</value>
+    <value>Stuiteren</value>
   </data>
   <data name="ItemDefault" xml:space="preserve">
-    <value>Standard</value>
+    <value>Standaard</value>
   </data>
   <data name="ItemDetails" xml:space="preserve">
-    <value>Liste</value>
+    <value>Details</value>
   </data>
   <data name="ItemElastic" xml:space="preserve">
     <value>Elastisch</value>
   </data>
   <data name="ItemFadeOut" xml:space="preserve">
-    <value>Ausblenden</value>
+    <value>Vervagen</value>
   </data>
   <data name="ItemFlip3D" xml:space="preserve">
-    <value>3D-Drehung</value>
+    <value>3D-flip</value>
   </data>
   <data name="ItemFuchsia" xml:space="preserve">
     <value>Fuchsia</value>
   </data>
   <data name="ItemGray" xml:space="preserve">
-    <value>Grau</value>
+    <value>Grijs</value>
   </data>
   <data name="ItemGreen" xml:space="preserve">
-    <value>Grün</value>
+    <value>Groen</value>
   </data>
   <data name="ItemGrowAndFly" xml:space="preserve">
-    <value>Wachsen und fliegen</value>
+    <value>Groeien en wegvliegen</value>
   </data>
   <data name="ItemHuge" xml:space="preserve">
-    <value>Riesig</value>
+    <value>Enorm</value>
   </data>
   <data name="ItemIcons" xml:space="preserve">
-    <value>Symbole</value>
+    <value>Pictogrammen</value>
   </data>
   <data name="ItemLarge" xml:space="preserve">
-    <value>Groß</value>
+    <value>Groot</value>
   </data>
   <data name="ItemMatrix" xml:space="preserve">
     <value>Matrix</value>
   </data>
   <data name="ItemMedium" xml:space="preserve">
-    <value>Mittel</value>
+    <value>Gemiddeld</value>
   </data>
   <data name="ItemOrange" xml:space="preserve">
-    <value>Orange</value>
+    <value>Oranje</value>
   </data>
   <data name="ItemPulse" xml:space="preserve">
-    <value>Pulsieren</value>
+    <value>Puls</value>
   </data>
   <data name="ItemPurple" xml:space="preserve">
-    <value>Violett</value>
+    <value>Paars</value>
   </data>
   <data name="ItemRed" xml:space="preserve">
-    <value>Rot</value>
+    <value>Rood</value>
   </data>
   <data name="ItemRotate" xml:space="preserve">
-    <value>Drehung</value>
+    <value>Roteren</value>
   </data>
   <data name="ItemShockwave" xml:space="preserve">
-    <value>Schockwelle</value>
+    <value>Schokgolf</value>
   </data>
   <data name="ItemSlideUp" xml:space="preserve">
-    <value>Nach oben gleiten</value>
+    <value>Omhoog schuiven</value>
   </data>
   <data name="ItemSmall" xml:space="preserve">
     <value>Klein</value>
   </data>
   <data name="ItemSpiral" xml:space="preserve">
-    <value>Spirale</value>
+    <value>Spiraal</value>
   </data>
   <data name="ItemSupernova" xml:space="preserve">
     <value>Supernova</value>
   </data>
   <data name="ItemTeal" xml:space="preserve">
-    <value>Blaugrün</value>
+    <value>Teal</value>
   </data>
   <data name="ItemTeleport" xml:space="preserve">
-    <value>Teleport</value>
+    <value>Teleporteren</value>
   </data>
   <data name="ItemTiny" xml:space="preserve">
-    <value>Winzig</value>
+    <value>Piepklein</value>
   </data>
   <data name="ItemWhite" xml:space="preserve">
-    <value>Weiß</value>
+    <value>Wit</value>
   </data>
   <data name="ItemYellow" xml:space="preserve">
-    <value>Gelb</value>
+    <value>Geel</value>
   </data>
   <data name="ItemZoom" xml:space="preserve">
-    <value>Zoom</value>
+    <value>Zoomen</value>
   </data>
   <data name="KeyComma" xml:space="preserve">
     <value>Komma (,)</value>
   </data>
   <data name="KeyEnter" xml:space="preserve">
-    <value>Eingabe</value>
+    <value>Enter</value>
   </data>
   <data name="KeyEscape" xml:space="preserve">
-    <value>Esc</value>
+    <value>Escape</value>
   </data>
   <data name="KeyPeriod" xml:space="preserve">
-    <value>Punkt (.)</value>
+    <value>Punt (.)</value>
   </data>
   <data name="KeySpace" xml:space="preserve">
-    <value>Leertaste</value>
+    <value>Spatie</value>
   </data>
   <data name="KeyTab" xml:space="preserve">
     <value>Tab</value>
@@ -804,1127 +804,1127 @@ Heute wird es von Nikos Georgousis gepflegt, der es erweitert und stabiler sowie
     <value>Tilde (~)</value>
   </data>
   <data name="LblActivationDelay" xml:space="preserve">
-    <value>Verzögerung bis zur Aktivierung:</value>
+    <value>Activeringsvertraging:</value>
   </data>
   <data name="LblArguments" xml:space="preserve">
-    <value>Argumente:</value>
+    <value>Argumenten:</value>
   </data>
   <data name="LblBoldTitleText" xml:space="preserve">
-    <value>Titel fett</value>
+    <value>Vette titeltekst</value>
   </data>
   <data name="LblColor" xml:space="preserve">
-    <value>Farbe</value>
+    <value>Kleur</value>
   </data>
   <data name="LblCustomColor" xml:space="preserve">
-    <value>Eigene Farbe:</value>
+    <value>Aangepaste kleur:</value>
   </data>
   <data name="LblCustomLaunchEffect" xml:space="preserve">
-    <value>Eigener Starteffekt:</value>
+    <value>Aangepast opstarteffect:</value>
   </data>
   <data name="LblDefaultPortalView" xml:space="preserve">
-    <value>Standardansicht für Portale:</value>
+    <value>Standaard Portal-weergave:</value>
   </data>
   <data name="LblDisableTextShadow" xml:space="preserve">
-    <value>Textschatten abschalten</value>
+    <value>Tekstschaduw uitschakelen</value>
   </data>
   <data name="LblDisplayName" xml:space="preserve">
-    <value>Anzeigename:</value>
+    <value>Weergavenaam:</value>
   </data>
   <data name="LblDonate" xml:space="preserve">
-    <value>Unterstütze die Pflege und Weiterentwicklung dieses Projekts mit einer Spende</value>
+    <value>Steun het onderhoud en de verbetering van dit project met een donatie</value>
   </data>
   <data name="LblEffect" xml:space="preserve">
-    <value>Effekt</value>
+    <value>Effect</value>
   </data>
   <data name="LblEnabledRules" xml:space="preserve">
-    <value>Aktiv: {0}</value>
+    <value>Ingeschakeld: {0}</value>
   </data>
   <data name="LblEnableProfileAutomation" xml:space="preserve">
-    <value>Profilautomatisierung aktivieren</value>
+    <value>Profielautomatisering inschakelen</value>
   </data>
   <data name="LblFontFamily" xml:space="preserve">
-    <value>Schriftart:</value>
+    <value>Lettertype:</value>
   </data>
   <data name="LblFontSize" xml:space="preserve">
-    <value>Schriftgröße:</value>
+    <value>Lettergrootte:</value>
   </data>
   <data name="LblFrameBorderColor" xml:space="preserve">
-    <value>Rahmenfarbe:</value>
+    <value>Randkleur Frame:</value>
   </data>
   <data name="LblFrameBorderThickness" xml:space="preserve">
-    <value>Rahmenstärke:</value>
+    <value>Randdikte Frame:</value>
   </data>
   <data name="LblGrayscaleIcons" xml:space="preserve">
-    <value>Symbole in Graustufen</value>
+    <value>Grijstintpictogrammen</value>
   </data>
   <data name="LblIcon" xml:space="preserve">
-    <value>Symbol:</value>
+    <value>Pictogram:</value>
   </data>
   <data name="LblIconSize" xml:space="preserve">
-    <value>Symbolgröße:</value>
+    <value>Pictogramgrootte:</value>
   </data>
   <data name="LblIconSpacing" xml:space="preserve">
-    <value>Symbolabstand:</value>
+    <value>Pictogramafstand:</value>
   </data>
   <data name="LblLockIcon" xml:space="preserve">
-    <value>Schlosssymbol</value>
+    <value>Pictogram vergrendelen</value>
   </data>
   <data name="LblMenuIcon" xml:space="preserve">
-    <value>Menüsymbol</value>
+    <value>Menupictogram</value>
   </data>
   <data name="LblMinimumLogLevel" xml:space="preserve">
-    <value>Mindest-Protokollstufe</value>
+    <value>Minimaal logniveau</value>
   </data>
   <data name="LblNotificationSound" xml:space="preserve">
-    <value>Benachrichtigungston:</value>
+    <value>Meldingsgeluid:</value>
   </data>
   <data name="LblPortalView" xml:space="preserve">
-    <value>Portal-Ansicht:</value>
+    <value>Portal-weergave:</value>
   </data>
   <data name="LblProcessName" xml:space="preserve">
-    <value>Prozessname (wählen oder eingeben):</value>
+    <value>Procesnaam (kiezen of typen):</value>
   </data>
   <data name="LblSpellCheck" xml:space="preserve">
-    <value>Rechtschreibprüfung</value>
+    <value>Spellingcontrole</value>
   </data>
   <data name="LblTargetPath" xml:space="preserve">
-    <value>Zielpfad:</value>
+    <value>Doelpad:</value>
   </data>
   <data name="LblTargetProfile" xml:space="preserve">
-    <value>Zu aktivierendes Profil:</value>
+    <value>Doelprofiel:</value>
   </data>
   <data name="LblTextColor" xml:space="preserve">
-    <value>Textfarbe:</value>
+    <value>Tekstkleur:</value>
   </data>
   <data name="LblTitleTextColor" xml:space="preserve">
-    <value>Titelfarbe:</value>
+    <value>Kleur titeltekst:</value>
   </data>
   <data name="LblTitleTextSize" xml:space="preserve">
-    <value>Titelgröße:</value>
+    <value>Grootte titeltekst:</value>
   </data>
   <data name="LblTotalRules" xml:space="preserve">
-    <value>Regeln insgesamt: {0}</value>
+    <value>Totaal aantal regels: {0}</value>
   </data>
   <data name="LblWordWrap" xml:space="preserve">
-    <value>Zeilenumbruch</value>
+    <value>Woordomloop</value>
   </data>
   <data name="MenuAbout" xml:space="preserve">
-    <value>Über…</value>
+    <value>Over...</value>
   </data>
   <data name="MenuAddPlugin" xml:space="preserve">
-    <value>Widget | Plugin hinzufügen</value>
+    <value>Widget | Plugin toevoegen</value>
   </data>
   <data name="MenuAddSpacer" xml:space="preserve">
-    <value>Abstandhalter hinzufügen</value>
+    <value>Spacer toevoegen</value>
   </data>
   <data name="MenuAlwaysOnTop" xml:space="preserve">
-    <value>Immer im Vordergrund</value>
+    <value>Altijd op de voorgrond</value>
   </data>
   <data name="MenuAlwaysRunAsAdmin" xml:space="preserve">
-    <value>Immer als Administrator ausführen</value>
+    <value>Altijd als administrator uitvoeren</value>
   </data>
   <data name="MenuAlwaysRunAsDifferentUser" xml:space="preserve">
-    <value>Immer als anderer Benutzer ausführen</value>
+    <value>Altijd als andere gebruiker uitvoeren</value>
   </data>
   <data name="MenuAutoRoll" xml:space="preserve">
-    <value>Automatisch einrollen</value>
+    <value>Automatisch oprollen</value>
   </data>
   <data name="MenuClearDeadShortcuts" xml:space="preserve">
-    <value>Tote Verknüpfungen entfernen</value>
+    <value>Dode snelkoppelingen verwijderen</value>
   </data>
   <data name="MenuCopyFolderPath" xml:space="preserve">
-    <value>Ordnerpfad kopieren</value>
+    <value>Mappad kopiëren</value>
   </data>
   <data name="MenuCopyItem" xml:space="preserve">
-    <value>Element kopieren</value>
+    <value>Item kopiëren</value>
   </data>
   <data name="MenuCopyItemPath" xml:space="preserve">
-    <value>Pfad des Elements kopieren</value>
+    <value>Itempad kopiëren</value>
   </data>
   <data name="MenuCopyPath" xml:space="preserve">
-    <value>Pfad kopieren</value>
+    <value>Pad kopiëren</value>
   </data>
   <data name="MenuCustomize" xml:space="preserve">
-    <value>Anpassen…</value>
+    <value>Aanpassen...</value>
   </data>
   <data name="MenuCutItem" xml:space="preserve">
-    <value>Element ausschneiden</value>
+    <value>Item knippen</value>
   </data>
   <data name="MenuDeleteItem" xml:space="preserve">
-    <value>Element löschen</value>
+    <value>Item verwijderen</value>
   </data>
   <data name="MenuDeleteThisFrame" xml:space="preserve">
-    <value>Diesen Rahmen löschen</value>
+    <value>Dit Frame verwijderen</value>
   </data>
   <data name="MenuEdit" xml:space="preserve">
-    <value>Bearbeiten…</value>
+    <value>Bewerken...</value>
   </data>
   <data name="MenuEnableTabs" xml:space="preserve">
-    <value>Registerkarten in diesem Rahmen aktivieren</value>
+    <value>Tabbladen inschakelen voor dit Frame</value>
   </data>
   <data name="MenuExit" xml:space="preserve">
-    <value>Beenden</value>
+    <value>Afsluiten</value>
   </data>
   <data name="MenuExportAllIcons" xml:space="preserve">
-    <value>Alle Symbole auf den Desktop exportieren</value>
+    <value>Alle pictogrammen exporteren naar bureaublad</value>
   </data>
   <data name="MenuExportThisFrame" xml:space="preserve">
-    <value>Diesen Rahmen exportieren</value>
+    <value>Dit Frame exporteren</value>
   </data>
   <data name="MenuFolderPath" xml:space="preserve">
-    <value>Ordnerpfad</value>
+    <value>Mappad</value>
   </data>
   <data name="MenuFullPath" xml:space="preserve">
-    <value>Vollständiger Pfad</value>
+    <value>Volledig pad</value>
   </data>
   <data name="MenuHideFrame" xml:space="preserve">
-    <value>Rahmen ausblenden</value>
+    <value>Frame verbergen</value>
   </data>
   <data name="MenuImportFrame" xml:space="preserve">
-    <value>Rahmen importieren…</value>
+    <value>Een Frame importeren...</value>
   </data>
   <data name="MenuMove" xml:space="preserve">
-    <value>Verschieben…</value>
+    <value>Verplaatsen...</value>
   </data>
   <data name="MenuNameAfterPath" xml:space="preserve">
-    <value>Rahmen nach Zielpfad benennen</value>
+    <value>Frame benoemen naar doelpad</value>
   </data>
   <data name="MenuNewFrame" xml:space="preserve">
-    <value>Neuer Rahmen</value>
+    <value>Nieuw Frame</value>
   </data>
   <data name="MenuNewNoteFrame" xml:space="preserve">
-    <value>Neuer Notiz-Rahmen</value>
+    <value>Nieuw Note Frame</value>
   </data>
   <data name="MenuNewPortalFrame" xml:space="preserve">
-    <value>Neuer Portal-Rahmen</value>
+    <value>Nieuw Portal Frame</value>
   </data>
   <data name="MenuNoPluginsAvailable" xml:space="preserve">
-    <value>(Auf dieser Stufe sind keine Plugins verfügbar)</value>
+    <value>(Geen plugins beschikbaar op uw huidige niveau)</value>
   </data>
   <data name="MenuOpenFrameFolder" xml:space="preserve">
-    <value>Rahmenordner öffnen</value>
+    <value>Framemap openen</value>
   </data>
   <data name="MenuOpenTargetFolder" xml:space="preserve">
-    <value>Zielordner öffnen…</value>
+    <value>Doelmap openen...</value>
   </data>
   <data name="MenuOpenWith" xml:space="preserve">
-    <value>Öffnen mit…</value>
+    <value>Openen met...</value>
   </data>
   <data name="MenuOptions" xml:space="preserve">
-    <value>Optionen…</value>
+    <value>Opties...</value>
   </data>
   <data name="MenuPasteItem" xml:space="preserve">
-    <value>Element einfügen</value>
+    <value>Item plakken</value>
   </data>
   <data name="MenuPeekBehind" xml:space="preserve">
-    <value>Dahinter schauen</value>
+    <value>Blik erachter</value>
   </data>
   <data name="MenuPluginSettings" xml:space="preserve">
-    <value>Plugin-Einstellungen…</value>
+    <value>Plugininstellingen...</value>
   </data>
   <data name="MenuRemove" xml:space="preserve">
-    <value>Entfernen</value>
+    <value>Verwijderen</value>
   </data>
   <data name="MenuRenameItem" xml:space="preserve">
-    <value>Element umbenennen</value>
+    <value>Item hernoemen</value>
   </data>
   <data name="MenuResetColumns" xml:space="preserve">
-    <value>Spalten zurücksetzen</value>
+    <value>Kolomindeling resetten</value>
   </data>
   <data name="MenuResetSorting" xml:space="preserve">
-    <value>Sortierung zurücksetzen</value>
+    <value>Sortering resetten</value>
   </data>
   <data name="MenuRestoreLastDeleted" xml:space="preserve">
-    <value>Zuletzt gelöschten Rahmen wiederherstellen</value>
+    <value>Laatst verwijderde Frame herstellen</value>
   </data>
   <data name="MenuRunAsAdmin" xml:space="preserve">
-    <value>Als Administrator ausführen</value>
+    <value>Als administrator uitvoeren</value>
   </data>
   <data name="MenuRunAsDifferentUser" xml:space="preserve">
-    <value>Als anderer Benutzer ausführen…</value>
+    <value>Als andere gebruiker uitvoeren...</value>
   </data>
   <data name="MenuSendToDesktop" xml:space="preserve">
-    <value>An Desktop senden</value>
+    <value>Verzenden naar bureaublad</value>
   </data>
   <data name="MenuSpacerBlank" xml:space="preserve">
-    <value>Leer</value>
+    <value>Leeg</value>
   </data>
   <data name="MenuSpacerDot" xml:space="preserve">
-    <value>Punkt</value>
+    <value>Punt</value>
   </data>
   <data name="MenuViewAsDetails" xml:space="preserve">
-    <value>Als Liste anzeigen</value>
+    <value>Weergeven als details</value>
   </data>
   <data name="MoveItemPrompt" xml:space="preserve">
-    <value>Wähle den Ziel-Rahmen oder die Ziel-Registerkarte:</value>
+    <value>Selecteer een bestemmings-Frame of tabblad:</value>
   </data>
   <data name="MoveItemTitle" xml:space="preserve">
-    <value>Element verschieben nach…</value>
+    <value>Item verplaatsen naar...</value>
   </data>
   <data name="MoveMainItems" xml:space="preserve">
-    <value>📋 Hauptelemente</value>
+    <value>📋 Hoofditems</value>
   </data>
   <data name="MsgAddItemFailed" xml:space="preserve">
-    <value>{0} konnte nicht hinzugefügt werden: {1}</value>
+    <value>Toevoegen van {0} mislukt: {1}</value>
   </data>
   <data name="MsgApplyChangesFailed" xml:space="preserve">
-    <value>Fehler beim Anwenden der Änderungen: {0}</value>
+    <value>Fout bij toepassen van wijzigingen: {0}</value>
   </data>
   <data name="MsgApplySettingsFailed" xml:space="preserve">
-    <value>Fehler beim Anwenden der Einstellungen: {0}</value>
+    <value>Fout bij toepassen van instellingen: {0}</value>
   </data>
   <data name="MsgBackupDone" xml:space="preserve">
-    <value>Sicherung abgeschlossen.</value>
+    <value>Back-up succesvol voltooid.</value>
   </data>
   <data name="MsgBackupFailed" xml:space="preserve">
-    <value>Bei der Sicherung ist ein Fehler aufgetreten: {0}</value>
+    <value>Er is een fout opgetreden tijdens de back-up: {0}</value>
   </data>
   <data name="MsgCannotDeleteLastTab" xml:space="preserve">
-    <value>Die letzte verbleibende Registerkarte kann nicht gelöscht werden.</value>
+    <value>Het laatste overgebleven tabblad kan niet worden verwijderd.</value>
   </data>
   <data name="MsgConfirmDeleteProfile" xml:space="preserve">
-    <value>Soll das Profil '{0}' wirklich gelöscht werden?
-Das lässt sich nicht rückgängig machen.</value>
+    <value>Weet u zeker dat u het profiel '{0}' wilt verwijderen?
+Dit kan niet ongedaan worden gemaakt.</value>
   </data>
   <data name="MsgConfirmDisableCtrlAltHotkeys" xml:space="preserve">
-    <value>Die Profil-Tastenkürzel stehen auf Strg+Alt.
+    <value>Uw profielsneltoetsen zijn momenteel ingesteld op Ctrl+Alt.
 
-Auf vielen internationalen Tastaturen belegt Windows damit auch die Taste 'AltGr'. Das kann dich daran hindern, Zeichen wie @, €, [ oder { zu tippen.
+Windows deelt deze sneltoets met de 'AltGr'-toets op veel internationale toetsenborden. Hierdoor kunt u mogelijk geen speciale tekens zoals @, €, [ of { meer typen.
 
-• 'Ja' deaktiviert sie (behebt Tippprobleme)
-• 'Nein' behält sie bei (wenn alles funktioniert)</value>
+- Klik op 'Ja' om ze uit te schakelen (lost typeproblemen op)
+- Klik op 'Nee' om ze te behouden (als alles goed werkt)</value>
   </data>
   <data name="MsgConfirmFactoryReset" xml:space="preserve">
-    <value>ACHTUNG: Alle Rahmen, Verknüpfungen und Einstellungen des AKTUELLEN PROFILS werden gelöscht!
+    <value>WAARSCHUWING: Dit verwijdert ALLE Frames, snelkoppelingen en instellingen van het HUIDIGE PROFIEL!
 
-Möchtest du fortfahren?</value>
+Weet u zeker dat u wilt doorgaan?</value>
   </data>
   <data name="MsgConfirmImportIntoTab" xml:space="preserve">
-    <value>Inhalt von '{0}' in eine neue Registerkarte importieren?</value>
+    <value>Inhoud van '{0}' importeren in een nieuw tabblad?</value>
   </data>
   <data name="MsgConfirmResetCustomizations" xml:space="preserve">
-    <value>Alle optischen Anpassungen zurücksetzen?</value>
+    <value>Alle visuele aanpassingen resetten?</value>
   </data>
   <data name="MsgConfirmRestoreSettings" xml:space="preserve">
-    <value>Diese Sicherung enthält auch die Einstellungen (options.json).
+    <value>Deze back-up bevat configuratie-instellingen (options.json).
 
-Sollen die globalen Einstellungen ebenfalls wiederhergestellt werden?</value>
+Wilt u ook uw algemene instellingen herstellen?</value>
   </data>
   <data name="MsgConfirmSetPortalHome" xml:space="preserve">
-    <value>Diesen Ordner als neue Quelle verwenden?
+    <value>Deze map instellen als nieuwe startmap?
 
 {0}</value>
   </data>
   <data name="MsgConfirmSweepDesktop" xml:space="preserve">
-    <value>Die Dateien, die bereits auf dem Desktop liegen, werden nach deinen Regeln in die Zielordner verschoben.
+    <value>Hiermee worden bestaande bestanden op uw bureaublad verplaatst naar de doelmappen op basis van uw regels.
 
-Fortfahren?</value>
+Doorgaan?</value>
   </data>
   <data name="MsgCopyItemFailed" xml:space="preserve">
-    <value>Fehler beim Kopieren des Elements: {0}</value>
+    <value>Fout bij kopiëren van item: {0}</value>
   </data>
   <data name="MsgCopyPathFailed" xml:space="preserve">
-    <value>Der Pfad konnte nicht kopiert werden.</value>
+    <value>Pad kan niet worden gekopieerd.</value>
   </data>
   <data name="MsgCreateProfileFailed" xml:space="preserve">
-    <value>Das Profil konnte nicht angelegt werden. Der Name ist ungültig oder schon vergeben.</value>
+    <value>Profiel maken mislukt. Naam is ongeldig of bestaat al.</value>
   </data>
   <data name="MsgCustomizationsReset" xml:space="preserve">
-    <value>Alle optischen Anpassungen wurden zurückgesetzt.
-Deine Symbole und die Position der Rahmen sind erhalten geblieben.</value>
+    <value>Alle visuele aanpassingen zijn gereset.
+Uw pictogrammen en Frame-posities zijn behouden.</value>
   </data>
   <data name="MsgDeleteItemFailed" xml:space="preserve">
-    <value>Das Element konnte nicht gelöscht werden.</value>
+    <value>Item kan niet worden verwijderd.</value>
   </data>
   <data name="MsgDesktopOrganized" xml:space="preserve">
-    <value>Desktop aufgeräumt.</value>
+    <value>Organiseren van bureaublad voltooid!</value>
   </data>
   <data name="MsgDestinationFolderGone" xml:space="preserve">
-    <value>Der Zielordner '{0}' ist nicht mehr vorhanden.</value>
+    <value>De doelmap '{0}' bestaat niet meer.</value>
   </data>
   <data name="MsgEditNotAvailable" xml:space="preserve">
-    <value>Dieser Elementtyp lässt sich nicht bearbeiten.</value>
+    <value>Bewerken is niet beschikbaar voor dit itemtype.</value>
   </data>
   <data name="MsgExportFailed" xml:space="preserve">
-    <value>Export fehlgeschlagen: {0}</value>
+    <value>Export mislukt: {0}</value>
   </data>
   <data name="MsgExportIconsFailed" xml:space="preserve">
-    <value>Fehler beim Export der Symbole: {0}</value>
+    <value>Fout bij exporteren van pictogrammen: {0}</value>
   </data>
   <data name="MsgFactoryResetDone" xml:space="preserve">
-    <value>Zurücksetzen abgeschlossen.
-Die Anwendung wird neu gestartet.</value>
+    <value>Fabrieksinstellingen hersteld.
+De toepassing wordt nu opnieuw gestart.</value>
   </data>
   <data name="MsgFileNotFoundInProfile" xml:space="preserve">
-    <value>Datei im aktiven Profil nicht gefunden:
+    <value>Bestand niet gevonden in actief profiel:
 {0}</value>
   </data>
   <data name="MsgFormInitFailed" xml:space="preserve">
-    <value>Fehler beim Öffnen des Fensters: {0}</value>
+    <value>Fout bij initialiseren van formulier: {0}</value>
   </data>
   <data name="MsgFrameExportedTo" xml:space="preserve">
-    <value>Rahmen exportiert nach:
+    <value>Frame geëxporteerd naar:
 {0}</value>
   </data>
   <data name="MsgFrameImported" xml:space="preserve">
-    <value>Rahmen erfolgreich importiert.</value>
+    <value>Frame succesvol geïmporteerd!</value>
   </data>
   <data name="MsgFramesMovedIntoBounds" xml:space="preserve">
-    <value>Alle Rahmen wurden geprüft und in den sichtbaren Bildschirmbereich verschoben.</value>
+    <value>Alle Frames zijn gecontroleerd en binnen de geldige schermgrenzen geplaatst.</value>
   </data>
   <data name="MsgGenericError" xml:space="preserve">
-    <value>Fehler: {0}</value>
+    <value>Fout: {0}</value>
   </data>
   <data name="MsgGlobalSettingsRestored" xml:space="preserve">
-    <value>Die globalen Einstellungen wurden wiederhergestellt.
-Die Anwendung startet neu, um sie anzuwenden.</value>
+    <value>De algemene instellingen zijn hersteld.
+De toepassing wordt nu opnieuw gestart om de wijzigingen toe te passen.</value>
   </data>
   <data name="MsgHotkeysSavedRestartNeeded" xml:space="preserve">
-    <value>Die globalen Tastenkürzel wurden gespeichert und auf alle Profile angewendet.
+    <value>Wijzigingen aan de algemene sneltoetsen zijn opgeslagen en toegepast op alle profielen.
 
-Starte Desktop Frames neu, um sie zu aktivieren.</value>
+Herstart Desktop Frames om de nieuwe sneltoetsen te activeren.</value>
   </data>
   <data name="MsgImportFailed" xml:space="preserve">
-    <value>Import fehlgeschlagen: {0}</value>
+    <value>Import mislukt: {0}</value>
   </data>
   <data name="MsgImportFrameFailed" xml:space="preserve">
-    <value>Der Rahmen konnte nicht importiert werden: {0}</value>
+    <value>Importeren van Frame mislukt: {0}</value>
   </data>
   <data name="MsgInitFailed" xml:space="preserve">
-    <value>Fehler bei der Initialisierung: {0}</value>
+    <value>Fout bij initialiseren: {0}</value>
   </data>
   <data name="MsgInvalidFileOrFolder" xml:space="preserve">
-    <value>Ungültige Datei oder ungültiger Ordner: {0}</value>
+    <value>Ongeldig bestand of map: {0}</value>
   </data>
   <data name="MsgInvalidUrlFile" xml:space="preserve">
-    <value>Ungültige .url-Datei: {0}</value>
+    <value>Ongeldig .url-bestand: {0}</value>
   </data>
   <data name="MsgItemCopiedReady" xml:space="preserve">
-    <value>Element '{0}' kopiert und bereit zum Einfügen.</value>
+    <value>Item '{0}' gekopieerd en klaar om te plakken.</value>
   </data>
   <data name="MsgLaunchFailed" xml:space="preserve">
-    <value>Fehler beim Starten: {0}</value>
+    <value>Fout bij starten: {0}</value>
   </data>
   <data name="MsgLoadFramePropertiesFailed" xml:space="preserve">
-    <value>Fehler beim Laden der Rahmeneigenschaften: {0}</value>
+    <value>Fout bij laden van Frame-eigenschappen: {0}</value>
   </data>
   <data name="MsgLogFileNotFound" xml:space="preserve">
-    <value>Protokolldatei nicht gefunden.</value>
+    <value>Logbestand niet gevonden.</value>
   </data>
   <data name="MsgMoveFailed" xml:space="preserve">
-    <value>Verschieben fehlgeschlagen: {0}</value>
+    <value>Verplaatsen mislukt: {0}</value>
   </data>
   <data name="MsgNameAlreadyExists" xml:space="preserve">
-    <value>Eine Datei oder ein Ordner mit diesem Namen ist bereits vorhanden.</value>
+    <value>Er bestaat al een bestand of map met die naam.</value>
   </data>
   <data name="MsgNameAndTargetRequired" xml:space="preserve">
-    <value>Anzeigename und Zielpfad dürfen nicht leer sein.</value>
+    <value>Weergavenaam en doelpad mogen niet leeg zijn.</value>
   </data>
   <data name="MsgNoFrameToRestore" xml:space="preserve">
-    <value>Kein Rahmen zum Wiederherstellen</value>
+    <value>Geen Frame om te herstellen</value>
   </data>
   <data name="MsgNoItemToPaste" xml:space="preserve">
-    <value>Kein Element zum Einfügen</value>
+    <value>Geen item om te plakken</value>
   </data>
   <data name="MsgNoPortalDestination" xml:space="preserve">
-    <value>Für diesen Portal-Rahmen ist kein Zielordner festgelegt.</value>
+    <value>Er is geen doelmap ingesteld voor dit Portal Frame.</value>
   </data>
   <data name="MsgOpenCustomizeFailed" xml:space="preserve">
-    <value>Fehler beim Öffnen des Anpassungsfensters: {0}</value>
+    <value>Fout bij openen van aanpassingsformulier: {0}</value>
   </data>
   <data name="MsgOpenFileBrowserFailed" xml:space="preserve">
-    <value>Fehler beim Öffnen der Dateiauswahl: {0}</value>
+    <value>Fout bij openen van bestandsverkenner: {0}</value>
   </data>
   <data name="MsgOpenTextFormatFailed" xml:space="preserve">
-    <value>Fehler beim Öffnen des Textformat-Fensters: {0}</value>
+    <value>Fout bij openen van formulier Tekstopmaak: {0}</value>
   </data>
   <data name="MsgPasteItemFailed" xml:space="preserve">
-    <value>Fehler beim Einfügen des Elements: {0}</value>
+    <value>Fout bij plakken van item: {0}</value>
   </data>
   <data name="MsgPortalInitFailed" xml:space="preserve">
-    <value>Der Portal-Rahmen konnte nicht initialisiert werden: {0}</value>
+    <value>Initialiseren van Portal Frame mislukt: {0}</value>
   </data>
   <data name="MsgProfileCreated" xml:space="preserve">
-    <value>Profil '{0}' wurde angelegt.</value>
+    <value>Profiel '{0}' succesvol gemaakt.</value>
   </data>
   <data name="MsgProfileNameInvalid" xml:space="preserve">
-    <value>Ungültiger Name, oder das Profil ist bereits vorhanden.</value>
+    <value>Ongeldige naam of profiel bestaat al.</value>
   </data>
   <data name="MsgProfileSystemError" xml:space="preserve">
-    <value>Fehler im Profilsystem: {0}</value>
+    <value>Fout in profielsysteem: {0}</value>
   </data>
   <data name="MsgRecycleBinFailed" xml:space="preserve">
-    <value>Das Element konnte nicht in den Papierkorb verschoben werden.</value>
+    <value>Item kan niet naar de prullenbak worden verplaatst.</value>
   </data>
   <data name="MsgReloadFramesFailed" xml:space="preserve">
-    <value>Beim Neuladen der Rahmen ist ein Fehler aufgetreten: {0}</value>
+    <value>Er is een fout opgetreden bij het herladen van Frames: {0}</value>
   </data>
   <data name="MsgReloadingFramesFailed" xml:space="preserve">
-    <value>Fehler beim Neuladen der Rahmen: {0}</value>
+    <value>Fout bij herladen van Frames: {0}</value>
   </data>
   <data name="MsgRenameItemFailed" xml:space="preserve">
-    <value>Das Element konnte nicht umbenannt werden: {0}</value>
+    <value>Hernoemen van item mislukt: {0}</value>
   </data>
   <data name="MsgRenameProfileFailed" xml:space="preserve">
-    <value>Umbenennen fehlgeschlagen. Der Name ist möglicherweise vergeben oder ungültig.</value>
+    <value>Hernoemen mislukt. Naam is mogelijk al in gebruik of ongeldig.</value>
   </data>
   <data name="MsgResetCustomizationsFailed" xml:space="preserve">
-    <value>Fehler beim Zurücksetzen der Anpassungen: {0}</value>
+    <value>Fout bij resetten van aanpassingen: {0}</value>
   </data>
   <data name="MsgResetDefaultsFailed" xml:space="preserve">
-    <value>Fehler beim Zurücksetzen auf die Standardwerte: {0}</value>
+    <value>Fout bij herstellen van standaardwaarden: {0}</value>
   </data>
   <data name="MsgResetFailed" xml:space="preserve">
-    <value>Zurücksetzen fehlgeschlagen: {0}</value>
+    <value>Reset mislukt: {0}</value>
   </data>
   <data name="MsgRestartForLanguage" xml:space="preserve">
-    <value>Die Sprache wurde gespeichert.
+    <value>De taal is opgeslagen.
 
-Jedes Fenster liest seine Texte beim Aufbau, die Änderung erscheint also nach einem Neustart des Programms.
+Elk venster leest zijn tekst tijdens het opbouwen ervan, dus de wijziging wordt zichtbaar zodra het programma opnieuw wordt gestart.
 
-Jetzt neu starten?</value>
+Nu opnieuw starten?</value>
   </data>
   <data name="MsgRestoreDefaultsFailed" xml:space="preserve">
-    <value>Fehler beim Wiederherstellen der Standardwerte: {0}</value>
+    <value>Fout bij herstellen van standaardwaarden: {0}</value>
   </data>
   <data name="MsgRestoreDone" xml:space="preserve">
-    <value>Wiederherstellung abgeschlossen.</value>
+    <value>Herstel succesvol voltooid.</value>
   </data>
   <data name="MsgRestoreFailed" xml:space="preserve">
-    <value>Wiederherstellung fehlgeschlagen: {0}</value>
+    <value>Herstellen mislukt: {0}</value>
   </data>
   <data name="MsgRestoreFrameFailed" xml:space="preserve">
-    <value>Fehler beim Wiederherstellen des Rahmens: {0}</value>
+    <value>Fout bij herstellen van Frame: {0}</value>
   </data>
   <data name="MsgRulesSaved" xml:space="preserve">
-    <value>Deine Regeln wurden gespeichert und angewendet.</value>
+    <value>Uw regels zijn opgeslagen en succesvol toegepast.</value>
   </data>
   <data name="MsgRunAsAdminFailed" xml:space="preserve">
-    <value>Fehler beim Ausführen als Administrator: {0}</value>
+    <value>Fout bij uitvoeren als administrator: {0}</value>
   </data>
   <data name="MsgSaveChangesFailed" xml:space="preserve">
-    <value>Fehler beim Speichern der Änderungen: {0}</value>
+    <value>Fout bij opslaan van wijzigingen: {0}</value>
   </data>
   <data name="MsgSaveSettingsFailed" xml:space="preserve">
-    <value>Fehler beim Speichern der Einstellungen: {0}</value>
+    <value>Fout bij opslaan van instellingen: {0}</value>
   </data>
   <data name="MsgSaveShortcutFailed" xml:space="preserve">
-    <value>Die Verknüpfung konnte nicht gespeichert werden: {0}</value>
+    <value>Opslaan van snelkoppeling mislukt: {0}</value>
   </data>
   <data name="MsgTargetNotFound" xml:space="preserve">
-    <value>Ziel nicht gefunden:
+    <value>Doel niet gevonden:
 {0}</value>
   </data>
   <data name="NetChecking" xml:space="preserve">
-    <value>Prüfung…</value>
+    <value>Controleren...</value>
   </data>
   <data name="NetExternal" xml:space="preserve">
-    <value>Externes Netzwerk</value>
+    <value>Extern netwerk</value>
   </data>
   <data name="NetIpLabel" xml:space="preserve">
     <value>IP:</value>
   </data>
   <data name="NetLocalAdapters" xml:space="preserve">
-    <value>Lokale Adapter</value>
+    <value>Lokale adapters</value>
   </data>
   <data name="NetNoInterfaces" xml:space="preserve">
-    <value>Keine aktiven Schnittstellen.</value>
+    <value>Geen actieve interfaces gevonden.</value>
   </data>
   <data name="NetOffline" xml:space="preserve">
     <value>Offline</value>
   </data>
   <data name="NetPublicWan" xml:space="preserve">
-    <value>Öffentliche WAN-Adresse</value>
+    <value>Openbaar WAN-adres</value>
   </data>
   <data name="NetSelectInterfaces" xml:space="preserve">
-    <value>Anzuzeigende Schnittstellen wählen:</value>
+    <value>Selecteer weer te geven interfaces:</value>
   </data>
   <data name="NetSettings" xml:space="preserve">
-    <value>Einstellungen der Netzwerkanzeige</value>
+    <value>Instellingen netwerk-IP-monitor</value>
   </data>
   <data name="NetShowDisconnected" xml:space="preserve">
-    <value>Getrennte Schnittstellen anzeigen</value>
+    <value>Losgekoppelde interfaces tonen</value>
   </data>
   <data name="NetShowPublicWan" xml:space="preserve">
-    <value>Öffentliche WAN-IP anzeigen</value>
+    <value>Openbaar WAN-IP weergeven</value>
   </data>
   <data name="NetStatusDown" xml:space="preserve">
-    <value>inaktiv</value>
+    <value>Inactief</value>
   </data>
   <data name="NetStatusUp" xml:space="preserve">
-    <value>aktiv</value>
+    <value>Actief</value>
   </data>
   <data name="NetUnreachable" xml:space="preserve">
-    <value>Nicht erreichbar</value>
+    <value>Niet bereikbaar</value>
   </data>
   <data name="NoteAutoOrganize" xml:space="preserve">
-    <value>Hinweis: Das automatische Aufräumen beobachtet den Desktop auf neue Dateien. Erfüllt eine Datei die Bedingungen einer aktiven Regel, wird sie tatsächlich in den angegebenen Portal-Rahmen oder Ordner verschoben. So bleibt der Desktop dauerhaft aufgeräumt und Downloads landen von selbst am richtigen Ort.</value>
+    <value>Opmerking: Auto-Organize houdt voortdurend uw bureaublad in de gaten op nieuwe bestanden. Wanneer een bestand voldoet aan de voorwaarden van een ingeschakelde regel, wordt het automatisch en fysiek verplaatst naar het opgegeven Portal Frame of de opgegeven map. Gebruik dit om uw bureaublad permanent opgeruimd te houden en downloads automatisch naar de juiste locatie te sturen.</value>
   </data>
   <data name="NoteAutoRoll" xml:space="preserve">
-    <value>Hinweis: Das automatische Einrollen wird je Rahmen über das Kontextmenü aktiviert.</value>
+    <value>Opmerking: Schakel automatisch oprollen per Frame afzonderlijk in via het rechtsklikmenu van het Frame.</value>
   </data>
   <data name="NoteClearAll" xml:space="preserve">
-    <value>Gesamten Text löschen</value>
+    <value>Alle tekst wissen</value>
   </data>
   <data name="NoteClickEdit" xml:space="preserve">
-    <value>Klicken, um die Notiz zu bearbeiten</value>
+    <value>Klik om de inhoud van de notitie te bewerken</value>
   </data>
   <data name="NoteClickFinish" xml:space="preserve">
-    <value>Klicken, um die Bearbeitung zu beenden</value>
+    <value>Klik om de bewerking te voltooien</value>
   </data>
   <data name="NoteCopyAll" xml:space="preserve">
-    <value>Gesamten Text kopieren</value>
+    <value>Alle tekst kopiëren</value>
   </data>
   <data name="NoteHotkeysRestart" xml:space="preserve">
-    <value>Hinweis: Änderungen an globalen Tastenkürzeln wirken erst nach einem Neustart des Programms.</value>
+    <value>Opmerking: Wijzigingen aan de algemene sneltoetsen worden pas van kracht na een herstart van de toepassing.</value>
   </data>
   <data name="NoteTextFormat" xml:space="preserve">
-    <value>Textformat…</value>
+    <value>Tekstopmaak...</value>
   </data>
   <data name="NotificationDontShowAgain" xml:space="preserve">
-    <value>Diese Meldung nicht mehr anzeigen</value>
+    <value>Dit niet meer tonen</value>
   </data>
   <data name="NotificationTitle" xml:space="preserve">
-    <value>Desktop Frames + - Benachrichtigung</value>
+    <value>Melding van Desktop Frames +</value>
   </data>
   <data name="OptAutoHideFrames" xml:space="preserve">
-    <value>Rahmen automatisch ausblenden</value>
+    <value>Frames automatisch verbergen</value>
   </data>
   <data name="OptAutomaticBackup" xml:space="preserve">
-    <value>Automatische Sicherung (täglich)</value>
+    <value>Automatische back-up (dagelijks)</value>
   </data>
   <data name="OptAutoOrganize" xml:space="preserve">
-    <value>Automatisches Aufräumen aktivieren</value>
+    <value>Auto-Organize inschakelen</value>
   </data>
   <data name="OptChameleon" xml:space="preserve">
-    <value>Chamäleon-Modus (übernimmt die Farbe des Hintergrunds)</value>
+    <value>Chameleon Mode inschakelen (kleur automatisch aanpassen aan bureaubladachtergrond)</value>
   </data>
   <data name="OptDimensionSnap" xml:space="preserve">
-    <value>Auch Größen einrasten</value>
+    <value>Dimension Snap inschakelen</value>
   </data>
   <data name="OptDisableScrollbars" xml:space="preserve">
-    <value>Bildlaufleisten ausblenden</value>
+    <value>Schuifbalken van Frame uitschakelen</value>
   </data>
   <data name="OptEnableLogging" xml:space="preserve">
-    <value>Protokoll aufzeichnen</value>
+    <value>Logboekregistratie inschakelen</value>
   </data>
   <data name="OptEnableSounds" xml:space="preserve">
-    <value>Töne aktivieren</value>
+    <value>Geluiden inschakelen</value>
   </data>
   <data name="OptExecutionToasts" xml:space="preserve">
-    <value>Ausführungsbenachrichtigungen anzeigen</value>
+    <value>Meldingen tonen bij uitvoering</value>
   </data>
   <data name="OptFocusFrameHotkey" xml:space="preserve">
-    <value>Tastenkürzel zum Anspringen eines Rahmens</value>
+    <value>Sneltoets voor Focus Frame inschakelen</value>
   </data>
   <data name="OptFrameTint" xml:space="preserve">
-    <value>Rahmenfärbung auch auf Symbole und Text anwenden</value>
+    <value>Frame-tint (transparantie) toepassen op pictogrammen en tekst</value>
   </data>
   <data name="OptHideIconsRunning" xml:space="preserve">
-    <value>Windows-Symbole ausblenden, solange das Programm läuft</value>
+    <value>Oorspronkelijke bureaubladpictogrammen verbergen terwijl het programma actief is</value>
   </data>
   <data name="OptHideIconsWhenHidden" xml:space="preserve">
-    <value>Windows-Symbole ausblenden, wenn die Rahmen ausgeblendet sind</value>
+    <value>Oorspronkelijke bureaubladpictogrammen verbergen wanneer Frames verborgen zijn</value>
   </data>
   <data name="OptIdleFadeOut" xml:space="preserve">
-    <value>Untätige Rahmen ausblenden</value>
+    <value>Vervagen bij inactiviteit inschakelen</value>
   </data>
   <data name="OptionsHeading" xml:space="preserve">
-    <value>Optionen</value>
+    <value>Opties</value>
   </data>
   <data name="OptionsTitle" xml:space="preserve">
-    <value>Desktop Frames + - Optionen</value>
+    <value>Opties voor Desktop Frames +</value>
   </data>
   <data name="OptNewFrameContextMenu" xml:space="preserve">
-    <value>„Neuer Rahmen“ im Desktop-Kontextmenü anzeigen</value>
+    <value>'Nieuw Frame' tonen in het contextmenu van het bureaublad</value>
   </data>
   <data name="OptNoteWatermark" xml:space="preserve">
-    <value>Wasserzeichen auf Notiz-Rahmen (in Kürze)</value>
+    <value>Watermerk voor Note Frames inschakelen (binnenkort beschikbaar)</value>
   </data>
   <data name="OptPortalWatermark" xml:space="preserve">
-    <value>Wasserzeichen auf Portal-Rahmen</value>
+    <value>Watermerk voor Portal Frames inschakelen</value>
   </data>
   <data name="OptProfileHotkeys" xml:space="preserve">
-    <value>Tastenkürzel zum Profilwechsel</value>
+    <value>Sneltoetsen voor profiel wisselen inschakelen</value>
   </data>
   <data name="OptRecycleBin" xml:space="preserve">
-    <value>Papierkorb bei „Element löschen“ in Portal-Rahmen verwenden</value>
+    <value>Prullenbak gebruiken bij de opdracht 'Item verwijderen' van Portal Frames</value>
   </data>
   <data name="OptSingleClick" xml:space="preserve">
-    <value>Mit einem Klick öffnen</value>
+    <value>Enkele klik om te starten</value>
   </data>
   <data name="OptSnapNearFrames" xml:space="preserve">
-    <value>An benachbarten Rahmen einrasten</value>
+    <value>Uitlijnen nabij Frames inschakelen</value>
   </data>
   <data name="OptSpotSearchHotkey" xml:space="preserve">
-    <value>Tastenkürzel für die Schnellsuche</value>
+    <value>Sneltoets voor Spot Search inschakelen</value>
   </data>
   <data name="OptStartWithWindows" xml:space="preserve">
-    <value>Mit Windows starten</value>
+    <value>Starten met Windows</value>
   </data>
   <data name="OptTrayIcon" xml:space="preserve">
-    <value>Symbol im Infobereich anzeigen</value>
+    <value>Systeemvakpictogram inschakelen</value>
   </data>
   <data name="PerfDynamicColors" xml:space="preserve">
-    <value>Balken nach Wert einfärben</value>
+    <value>Dynamische kleuren gebruiken voor balken</value>
   </data>
   <data name="PerfRefreshRate" xml:space="preserve">
-    <value>Aktualisierungsrate (ms):</value>
+    <value>Vernieuwingsfrequentie sensor (ms):</value>
   </data>
   <data name="PerfSensors" xml:space="preserve">
-    <value>Anzuzeigende Sensoren:</value>
+    <value>Weer te geven sensoren:</value>
   </data>
   <data name="PerfSettings" xml:space="preserve">
-    <value>Leistungseinstellungen</value>
+    <value>Instellingen systeemprestaties</value>
   </data>
   <data name="PerfStaticBarColor" xml:space="preserve">
-    <value>Feste Balkenfarbe:</value>
+    <value>Statische balkkleur:</value>
   </data>
   <data name="PerfThemeLayout" xml:space="preserve">
-    <value>Thema und Anordnung</value>
+    <value>Visueel thema &amp; indeling</value>
   </data>
   <data name="PerfVisualStyle" xml:space="preserve">
-    <value>Darstellung:</value>
+    <value>Visuele stijl:</value>
   </data>
   <data name="PhotoBlurCrossfade" xml:space="preserve">
-    <value>Weiche Überblendung</value>
+    <value>Vervaagde overvloeiing</value>
   </data>
   <data name="PhotoCropToFill" xml:space="preserve">
-    <value>Zuschneiden und füllen</value>
+    <value>Bijsnijden om Frame te vullen</value>
   </data>
   <data name="PhotoCrossfade" xml:space="preserve">
-    <value>Klassische Überblendung</value>
+    <value>Klassieke overvloeiing</value>
   </data>
   <data name="PhotoFitInside" xml:space="preserve">
-    <value>Einpassen (alles zeigen)</value>
+    <value>Passend maken (alles tonen)</value>
   </data>
   <data name="PhotoFitMode" xml:space="preserve">
-    <value>Bildanpassung:</value>
+    <value>Afbeeldingsweergave:</value>
   </data>
   <data name="PhotoLiveRescan" xml:space="preserve">
-    <value>Ordner laufend neu einlesen (erkennt neue und gelöschte Bilder)</value>
+    <value>Live map opnieuw scannen (nieuwe/verwijderde afbeeldingen detecteren)</value>
   </data>
   <data name="PhotoNoTransition" xml:space="preserve">
-    <value>Keiner (sofortiger Wechsel)</value>
+    <value>Geen (direct wisselen)</value>
   </data>
   <data name="PhotoOriginalSize" xml:space="preserve">
-    <value>Originalgröße (ohne Skalierung)</value>
+    <value>Originele grootte (niet schalen)</value>
   </data>
   <data name="PhotoSettings" xml:space="preserve">
-    <value>Einstellungen des Bilderrahmens</value>
+    <value>Instellingen Photo Frame</value>
   </data>
   <data name="PhotoStretch" xml:space="preserve">
-    <value>Dehnen und füllen (verzerrt)</value>
+    <value>Uitrekken om te vullen (vervormen)</value>
   </data>
   <data name="PhotoSubtleTwist" xml:space="preserve">
-    <value>Leichte Drehung</value>
+    <value>Subtiele draai</value>
   </data>
   <data name="PhotoTransition" xml:space="preserve">
-    <value>Übergangseffekt:</value>
+    <value>Overgangseffect:</value>
   </data>
   <data name="PhotoVerticalWipe" xml:space="preserve">
-    <value>Sanfter vertikaler Wisch</value>
+    <value>Zachte verticale veeg</value>
   </data>
   <data name="PluginCalculator" xml:space="preserve">
-    <value>Taschenrechner</value>
+    <value>Rekenmachine</value>
   </data>
   <data name="PluginIpInfo" xml:space="preserve">
-    <value>IP-Informationen</value>
+    <value>IP-info</value>
   </data>
   <data name="PluginPerformance" xml:space="preserve">
-    <value>Leistungsanzeigen</value>
+    <value>Systeemprestatiemeters</value>
   </data>
   <data name="PluginPhotoFrame" xml:space="preserve">
-    <value>Bilderrahmen</value>
+    <value>Photo Frame</value>
   </data>
   <data name="PluginQueueSaturation" xml:space="preserve">
-    <value>Warteschlangen-Auslastung</value>
+    <value>Systeemwachtrijverzadiging</value>
   </data>
   <data name="PluginTerminal" xml:space="preserve">
     <value>Terminal</value>
   </data>
   <data name="PluginVuMeter" xml:space="preserve">
-    <value>VU-Meter</value>
+    <value>VU-meter</value>
   </data>
   <data name="ProfileActive" xml:space="preserve">
-    <value>Aktiv</value>
+    <value>Actief</value>
   </data>
   <data name="ProfileManagerTitle" xml:space="preserve">
-    <value>Profilverwaltung</value>
+    <value>Profielbeheer</value>
   </data>
   <data name="QueueConfig" xml:space="preserve">
-    <value>Konfiguration der System-Warteschlangen</value>
+    <value>Systeemwachtrijconfiguratie</value>
   </data>
   <data name="QueueDiagnosticSettings" xml:space="preserve">
-    <value>Einstellungen des Diagnosefensters</value>
+    <value>Instellingen diagnostisch paneel</value>
   </data>
   <data name="QueueDynamicColors" xml:space="preserve">
-    <value>Dynamische Farben (grün/gelb/rot)</value>
+    <value>Dynamische kleuren gebruiken (groen/geel/rood)</value>
   </data>
   <data name="QueueInitializing" xml:space="preserve">
-    <value>[Wird gestartet…]</value>
+    <value>[Initialiseren...]</value>
   </data>
   <data name="QueueRefreshRate" xml:space="preserve">
-    <value>Aktualisierungsrate:</value>
+    <value>Vernieuwingsfrequentie sensor:</value>
   </data>
   <data name="QueueShowCores" xml:space="preserve">
-    <value>Erkannte logische Kerne anzeigen</value>
+    <value>Detectietekst logische cores tonen</value>
   </data>
   <data name="QueueShowTitle" xml:space="preserve">
-    <value>Titel anzeigen (AUSLASTUNG DER SYSTEM-WARTESCHLANGEN)</value>
+    <value>Titellabel tonen (SYSTEM QUEUE SATURATION)</value>
   </data>
   <data name="QueueShowValues" xml:space="preserve">
-    <value>Zahlenwerte anzeigen (Threads pro Kern und ausstehende E/A)</value>
+    <value>Numerieke waarden tonen (Threads/Core &amp; wachtende I/O)</value>
   </data>
   <data name="QueueTitle" xml:space="preserve">
-    <value>AUSLASTUNG DER SYSTEM-WARTESCHLANGEN</value>
+    <value>SYSTEM QUEUE SATURATION</value>
   </data>
   <data name="QueueWmiError" xml:space="preserve">
-    <value>[WMI-Fehler]</value>
+    <value>[WMI-fout]</value>
   </data>
   <data name="RandomNameAdjectives" xml:space="preserve">
-    <value>Hoch,Tief,Klein,Weit,Breit,Schmal,Flach,Kühn,Kalt,Warm,Sanft,Hart,Dunkel,Blass,Schnell,Langsam,Tief,Schlank,Kurz,Krumm,Fein,Hell,Licht,Scharf,Stumpf,Laut,Stumm,Grimm,Mild,Nett,Rau,Glatt,Tapfer,Wild,Schlicht,Alt,Trocken,Feucht,Stark,Schwach</value>
+    <value>Hoog,Laag,Nietig,Uitgestrekt,Breed,Slank,Plat,Gedurfd,Koud,Warm,Zacht,Hard,Donker,Bleek,Snel,Traag,Diep,Lang,Kort,Gebogen,Dun,Helder,Licht,Scherp,Dof,Luid,Stil,Somber,Vriendelijk,Net,Ruw,Glad,Dapper,Fel,Eenvoudig,Versleten,Droog,Vochtig,Sterk,Zwak</value>
   </data>
   <data name="RandomNameFormat" xml:space="preserve">
-    <value>{0}{1}</value>
+    <value>{0} {1}</value>
   </data>
   <data name="RandomNamePlaces" xml:space="preserve">
-    <value>bucht,hügel,see,bucht,gipfel,riff,düne,tal,moor,grund,fels,ufer,hang,furt,kap,klippe,marsch,teich,wand,wald,senke,pass,höhle,grat,fall,hain,bach,sporn,pfad,spitze</value>
+    <value>Baai,Heuvel,Meer,Inham,Piek,Rif,Duin,Kloof,Heide,Dal,Rots,Kust,Oever,Voorde,Kaap,Rotspunt,Moeras,Vijver,Klif,Bos,Kom,Pas,Grot,Bergkam,Waterval,Bosje,Beek,Steilrand,Pad,Punt</value>
   </data>
   <data name="SearchPlaceholder" xml:space="preserve">
-    <value>Tippen zum Suchen…</value>
+    <value>Typ om te zoeken...</value>
   </data>
   <data name="SearchTitle" xml:space="preserve">
-    <value>Desktop Frames Suche</value>
+    <value>Desktop Frames zoeken</value>
   </data>
   <data name="SecAppearance" xml:space="preserve">
-    <value>Aussehen</value>
+    <value>Weergave</value>
   </data>
   <data name="SecAutoHideFrames" xml:space="preserve">
-    <value>Rahmen automatisch ausblenden</value>
+    <value>Frames automatisch verbergen</value>
   </data>
   <data name="SecDesktopIconVisibility" xml:space="preserve">
-    <value>Sichtbarkeit der Desktopsymbole</value>
+    <value>Zichtbaarheid bureaubladpictogrammen</value>
   </data>
   <data name="SecIcons" xml:space="preserve">
-    <value>Symbole</value>
+    <value>Pictogrammen</value>
   </data>
   <data name="SecIdleAutoRoll" xml:space="preserve">
-    <value>Automatisches Einrollen bei Untätigkeit</value>
+    <value>Automatisch oprollen bij inactiviteit</value>
   </data>
   <data name="SecIdleFadeOut" xml:space="preserve">
-    <value>Ausblenden bei Untätigkeit</value>
+    <value>Vervagen bij inactiviteit</value>
   </data>
   <data name="SecLog" xml:space="preserve">
-    <value>Protokoll</value>
+    <value>Log</value>
   </data>
   <data name="SecLogCategories" xml:space="preserve">
-    <value>Protokollkategorien</value>
+    <value>Logboekcategorieën</value>
   </data>
   <data name="SecLogConfiguration" xml:space="preserve">
-    <value>Protokolleinstellungen</value>
+    <value>Logboekconfiguratie</value>
   </data>
   <data name="SecMaintenance" xml:space="preserve">
-    <value>Wartung</value>
+    <value>Onderhoud</value>
   </data>
   <data name="SecProfileManagement" xml:space="preserve">
-    <value>Profilverwaltung</value>
+    <value>Profielbeheer</value>
   </data>
   <data name="SecProfileSwitching" xml:space="preserve">
-    <value>Profilwechsel</value>
+    <value>Profiel wisselen</value>
   </data>
   <data name="SecSelections" xml:space="preserve">
-    <value>Optionen</value>
+    <value>Selecties</value>
   </data>
   <data name="SecSmartDesktopAuto" xml:space="preserve">
-    <value>Intelligenter Desktop (automatisches Aufräumen)</value>
+    <value>Smart Desktop (Auto-Organize)</value>
   </data>
   <data name="SecStartup" xml:space="preserve">
-    <value>Start</value>
+    <value>Opstarten</value>
   </data>
   <data name="SecUtilities" xml:space="preserve">
-    <value>Hilfsmittel</value>
+    <value>Hulpprogramma's</value>
   </data>
   <data name="SldAutoHideTime" xml:space="preserve">
-    <value>Zeit bis zum Ausblenden (s)</value>
+    <value>Tijd voor automatisch verbergen (sec)</value>
   </data>
   <data name="SldFadeTargetOpacity" xml:space="preserve">
-    <value>Deckkraft beim Ausblenden (%)</value>
+    <value>Streefdekking bij vervagen (%)</value>
   </data>
   <data name="SldFrameTint" xml:space="preserve">
-    <value>Rahmenfärbung</value>
+    <value>Frame-tint</value>
   </data>
   <data name="SldIdleTime" xml:space="preserve">
-    <value>Untätigkeitsdauer (s)</value>
+    <value>Inactiviteitstijd (sec)</value>
   </data>
   <data name="SldMenuTint" xml:space="preserve">
-    <value>Menüfärbung</value>
+    <value>Menutint</value>
   </data>
   <data name="SndDefault" xml:space="preserve">
-    <value>Standardton</value>
+    <value>Standaardgeluid</value>
   </data>
   <data name="SndDoubleDing" xml:space="preserve">
-    <value>Doppel-Ding</value>
+    <value>Dubbele ding</value>
   </data>
   <data name="SndGentleDing" xml:space="preserve">
-    <value>Zartes Ding</value>
+    <value>Milde ding</value>
   </data>
   <data name="SndMessageDing" xml:space="preserve">
-    <value>Nachrichten-Ding</value>
+    <value>Berichtding</value>
   </data>
   <data name="SndSmoothTickle" xml:space="preserve">
-    <value>Sanfter Anstoß</value>
+    <value>Vloeiende kriebel</value>
   </data>
   <data name="SndSoftDing" xml:space="preserve">
-    <value>Weiches Ding</value>
+    <value>Zachte ding</value>
   </data>
   <data name="TabAddNew" xml:space="preserve">
-    <value>Registerkarte hinzufügen</value>
+    <value>Nieuw tabblad toevoegen</value>
   </data>
   <data name="TabAddNewHint" xml:space="preserve">
-    <value>Registerkarte hinzufügen (Strg+Klick zum Importieren)</value>
+    <value>Nieuw tabblad toevoegen (Ctrl+klik om te importeren)</value>
   </data>
   <data name="TabFrame" xml:space="preserve">
-    <value>Rahmen</value>
+    <value>Frame</value>
   </data>
   <data name="TabGeneral" xml:space="preserve">
-    <value>Allgemein</value>
+    <value>Algemeen</value>
   </data>
   <data name="TabHotkeys" xml:space="preserve">
-    <value>Tastenkürzel</value>
+    <value>Sneltoetsen</value>
   </data>
   <data name="TabIcons" xml:space="preserve">
-    <value>Symbole</value>
+    <value>Pictogrammen</value>
   </data>
   <data name="TabLookDeeper" xml:space="preserve">
-    <value>Details</value>
+    <value>Look Deeper</value>
   </data>
   <data name="TabMoveLeft" xml:space="preserve">
-    <value>Nach links verschieben</value>
+    <value>Naar links verplaatsen</value>
   </data>
   <data name="TabMoveRight" xml:space="preserve">
-    <value>Nach rechts verschieben</value>
+    <value>Naar rechts verplaatsen</value>
   </data>
   <data name="TabProfiles" xml:space="preserve">
-    <value>Profile</value>
+    <value>Profielen</value>
   </data>
   <data name="TabRename" xml:space="preserve">
-    <value>Registerkarte umbenennen</value>
+    <value>Tabblad hernoemen</value>
   </data>
   <data name="TabSmartDesktop" xml:space="preserve">
-    <value>Intelligenter Desktop</value>
+    <value>Smart Desktop</value>
   </data>
   <data name="TabStyleFx" xml:space="preserve">
-    <value>Stil und Effekte</value>
+    <value>Stijl &amp; FX</value>
   </data>
   <data name="TabTitle" xml:space="preserve">
     <value>Titel</value>
   </data>
   <data name="TabTools" xml:space="preserve">
-    <value>Werkzeuge</value>
+    <value>Hulpmiddelen</value>
   </data>
   <data name="TermClearHistory" xml:space="preserve">
-    <value>Befehlsverlauf löschen</value>
+    <value>Opdrachtgeschiedenis wissen</value>
   </data>
   <data name="TermConsoleOptions" xml:space="preserve">
-    <value>Konsolenoptionen</value>
+    <value>Console-opties</value>
   </data>
   <data name="TermHistoryCleared" xml:space="preserve">
-    <value>Verlauf gelöscht.</value>
+    <value>Geschiedenis gewist!</value>
   </data>
   <data name="TermProcessExited" xml:space="preserve">
-    <value>[Prozess beendet. Neustart…]</value>
+    <value>[Proces afgesloten. Opnieuw starten wordt geprobeerd...]</value>
   </data>
   <data name="TermRestarting" xml:space="preserve">
-    <value>[Sitzung wird neu gestartet…]</value>
+    <value>[Shell-sessie wordt opnieuw gestart...]</value>
   </data>
   <data name="TermSelectStartupDir" xml:space="preserve">
-    <value>Startordner des Terminals wählen</value>
+    <value>Selecteer opstartmap voor terminal</value>
   </data>
   <data name="TermSettings" xml:space="preserve">
-    <value>Terminal-Einstellungen</value>
+    <value>Terminalinstellingen</value>
   </data>
   <data name="TermStartupDirectory" xml:space="preserve">
-    <value>Startordner:</value>
+    <value>Opstartmap:</value>
   </data>
   <data name="TermTargetShell" xml:space="preserve">
-    <value>Befehlsinterpreter:</value>
+    <value>Doel-shell:</value>
   </data>
   <data name="TextAppearance" xml:space="preserve">
-    <value>Textaussehen</value>
+    <value>Tekstweergave</value>
   </data>
   <data name="TextBehavior" xml:space="preserve">
-    <value>Textverhalten</value>
+    <value>Tekstgedrag</value>
   </data>
   <data name="TextFormatTitle" xml:space="preserve">
-    <value>Textformat</value>
+    <value>Tekstopmaak</value>
   </data>
   <data name="TooltipAutoReposition" xml:space="preserve">
-    <value>Automatische Neuanordnung ist aktiv (verborgene Einstellung): die Rahmen werden bereits selbst verwaltet.</value>
+    <value>Automatisch herpositioneren is actief (verborgen instelling). Frames worden al automatisch beheerd.</value>
   </data>
   <data name="TooltipBlankSpacer" xml:space="preserve">
-    <value>Leerer Abstandhalter (STRG halten zum Verschieben)</value>
+    <value>Lege spacer (houd CTRL ingedrukt om te verplaatsen)</value>
   </data>
   <data name="TooltipChameleon" xml:space="preserve">
-    <value>Die Rahmen passen ihre Farbe selbst an den Hintergrund an.</value>
+    <value>Frames veranderen automatisch van kleur om perfect te versmelten met uw bureaubladachtergrond.</value>
   </data>
   <data name="TooltipClearFilter" xml:space="preserve">
-    <value>Filter löschen und schließen</value>
+    <value>Filter wissen en sluiten</value>
   </data>
   <data name="TooltipFilterFiles" xml:space="preserve">
-    <value>Dateien filtern (z. B. „*.jpg“, oder „&gt;*.tmp“ zum Ausschließen)</value>
+    <value>Bestanden filteren (bijv. '*.jpg' of '&gt;*.tmp' om uit te sluiten)</value>
   </data>
   <data name="TooltipGoUp" xml:space="preserve">
-    <value>Übergeordneter Ordner</value>
+    <value>Omhoog</value>
   </data>
   <data name="TooltipSetHome" xml:space="preserve">
-    <value>Aktuelle Ansicht als Startordner dieses Rahmens festlegen</value>
+    <value>Stel de huidige weergave in als nieuwe startmap voor dit Frame</value>
   </data>
   <data name="TrayCreateNewProfile" xml:space="preserve">
-    <value>Neues Profil erstellen…</value>
+    <value>Nieuw profiel maken...</value>
   </data>
   <data name="TrayExportDoneText" xml:space="preserve">
-    <value>Registrierungswerte in den Programmordner exportiert.</value>
+    <value>Registerwaarden zijn succesvol geëxporteerd naar de programmamap.</value>
   </data>
   <data name="TrayExportDoneTitle" xml:space="preserve">
     <value>Desktop Frames Plus</value>
   </data>
   <data name="TrayExportFailedText" xml:space="preserve">
-    <value>Export der Registrierungswerte fehlgeschlagen. Siehe Protokoll.</value>
+    <value>Exporteren van registerwaarden mislukt. Raadpleeg het logboek voor details.</value>
   </data>
   <data name="TrayExportFailedTitle" xml:space="preserve">
-    <value>Desktop Frames Plus - Fehler</value>
+    <value>Desktop Frames Plus - Fout</value>
   </data>
   <data name="TrayFocusFrame" xml:space="preserve">
-    <value>Zum Rahmen wechseln... ({0})</value>
+    <value>Focus Frame... ({0})</value>
   </data>
   <data name="TrayManageProfiles" xml:space="preserve">
-    <value>Profile verwalten…</value>
+    <value>Profielen beheren...</value>
   </data>
   <data name="TrayProfiles" xml:space="preserve">
-    <value>Profile</value>
+    <value>Profielen</value>
   </data>
   <data name="TrayReloadAllFrames" xml:space="preserve">
-    <value>Alle Rahmen neu laden</value>
+    <value>Alle Frames herladen</value>
   </data>
   <data name="TrayReloadingFrames" xml:space="preserve">
-    <value>Rahmen werden neu geladen…</value>
+    <value>Alle Frames worden herladen, even geduld...</value>
   </data>
   <data name="TrayShowHiddenFrames" xml:space="preserve">
-    <value>Ausgeblendete Rahmen anzeigen</value>
+    <value>Verborgen Frames tonen</value>
   </data>
   <data name="UpdateAvailable" xml:space="preserve">
-    <value>Aktualisierung verfügbar</value>
+    <value>Update beschikbaar</value>
   </data>
   <data name="ViewDetails" xml:space="preserve">
-    <value>Liste</value>
+    <value>Details</value>
   </data>
   <data name="ViewIcons" xml:space="preserve">
-    <value>Symbole</value>
+    <value>Pictogrammen</value>
   </data>
   <data name="VuAttack" xml:space="preserve">
-    <value>Ansprechzeit (Attack in ms):</value>
+    <value>Reactiesnelheid (Attack ms):</value>
   </data>
   <data name="VuAttackHint" xml:space="preserve">
-    <value>Standard: 25 | niedriger = schnellerer Ausschlag | Grenzen: 1 - 1000</value>
+    <value>Standaard: 25 | Lager = Snellere sprong | Limiet: 1 - 1000</value>
   </data>
   <data name="VuBallistics" xml:space="preserve">
-    <value>Ansprechverhalten und Abstimmung</value>
+    <value>Meter Ballistics &amp; Tuning</value>
   </data>
   <data name="VuDecay" xml:space="preserve">
-    <value>Weichheit (Decay in ms):</value>
+    <value>Vloeiendheid (Decay ms):</value>
   </data>
   <data name="VuDecayHint" xml:space="preserve">
-    <value>Standard: 200 | höher = sanfteres Abfallen | Grenzen: 10 - 3000</value>
+    <value>Standaard: 200 | Hoger = Vloeiendere val | Limiet: 10 - 3000</value>
   </data>
   <data name="VuDisplayOptions" xml:space="preserve">
-    <value>Anzeigeoptionen</value>
+    <value>Weergaveopties</value>
   </data>
   <data name="VuGainHint" xml:space="preserve">
-    <value>Standard: 1,2 | höher = empfindlicher | Grenzen: 0,1 - 10,0</value>
+    <value>Standaard: 1.2 | Hoger = Gevoeliger | Limiet: 0.1 - 10.0</value>
   </data>
   <data name="VuLayoutMode" xml:space="preserve">
-    <value>Anordnung:</value>
+    <value>Indelingsmodus:</value>
   </data>
   <data name="VuSettings" xml:space="preserve">
-    <value>VU-Meter-Einstellungen</value>
+    <value>Instellingen VU-meter</value>
   </data>
   <data name="VuSignalGain" xml:space="preserve">
-    <value>Signalverstärkung (Faktor):</value>
+    <value>Signaalversterking (vermenigvuldigingsfactor):</value>
   </data>
   <data name="SecLanguage" xml:space="preserve">
-    <value>Sprache</value>
+    <value>Taal</value>
   </data>
   <data name="LblLanguage" xml:space="preserve">
-    <value>Sprache der Oberfläche:</value>
+    <value>Interfacetaal:</value>
   </data>
   <data name="LangAutomatic" xml:space="preserve">
-    <value>Automatisch (Windows folgen)</value>
+    <value>Automatisch (Windows volgen)</value>
   </data>
   <data name="BtnImportLanguagePack" xml:space="preserve">
-    <value>Sprachpaket importieren…</value>
+    <value>Taalpakket importeren…</value>
   </data>
   <data name="BtnOpenLanguagesFolder" xml:space="preserve">
-    <value>Sprachordner öffnen</value>
+    <value>Taalmap openen</value>
   </data>
   <data name="LanguagePackFilter" xml:space="preserve">
-    <value>Sprachpakete (*.resx)|*.resx</value>
+    <value>Taalpakketten (*.resx)|*.resx</value>
   </data>
   <data name="LanguagePackImported" xml:space="preserve">
-    <value>Sprachpaket installiert: {0}. Nach einem Neustart erscheint es in der Liste.</value>
+    <value>Taalpakket geïnstalleerd: {0}. Start opnieuw om het in de lijst te zien.</value>
   </data>
   <data name="LanguagePackBadName" xml:space="preserve">
-    <value>Der Dateiname muss ein Kulturcode sein, etwa de.resx oder pt-BR.resx.</value>
+    <value>De bestandsnaam moet een cultuurcode zijn, zoals nl.resx of nl-NL.resx.</value>
   </data>
   <data name="NoteLanguageRestart" xml:space="preserve">
-    <value>Hinweis: Die Sprache wechselt nach dem Neustart des Programms. Pakete im Ordner Languages werden beim nächsten Start gelesen.</value>
+    <value>Opmerking: de taal wordt pas gewijzigd na het herstarten van het programma. Pakketten die in de map 'Languages' worden geplaatst, worden bij de volgende opstart herkend.</value>
   </data>
   <data name="CatImages" xml:space="preserve">
-    <value>Bilder</value>
+    <value>Afbeeldingen</value>
   </data>
   <data name="CatDocuments" xml:space="preserve">
-    <value>Dokumente</value>
+    <value>Documenten</value>
   </data>
   <data name="CatExecutables" xml:space="preserve">
-    <value>Programme</value>
+    <value>Uitvoerbare bestanden</value>
   </data>
   <data name="CatArchives" xml:space="preserve">
-    <value>Archive</value>
+    <value>Archieven</value>
   </data>
   <data name="CatCustomExtensions" xml:space="preserve">
-    <value>Eigene Erweiterungen...</value>
+    <value>Aangepaste extensies...</value>
   </data>
   <data name="ConflictAutoRename" xml:space="preserve">
-    <value>Automatisch umbenennen (z. B. Datei (1).jpg)</value>
+    <value>Automatisch hernoemen (bijv. Bestand (1).jpg)</value>
   </data>
   <data name="ConflictOverwrite" xml:space="preserve">
-    <value>Überschreiben (alte Datei in den Papierkorb)</value>
+    <value>Overschrijven (oud bestand naar prullenbak verplaatsen)</value>
   </data>
   <data name="ConflictSkip" xml:space="preserve">
-    <value>Überspringen (auf dem Desktop lassen)</value>
+    <value>Overslaan (op bureaublad laten staan)</value>
   </data>
   <data name="TargetPortalFrame" xml:space="preserve">
-    <value>Portal-Rahmen: {0}</value>
+    <value>Portal Frame: {0}</value>
   </data>
   <data name="LastRunNever" xml:space="preserve">
-    <value>Letzte erfolgreiche Ausführung: nie</value>
+    <value>Laatst geslaagde uitvoering: nooit</value>
   </data>
   <data name="LastRunAt" xml:space="preserve">
-    <value>Letzte erfolgreiche Ausführung: {0}</value>
+    <value>Laatst geslaagde uitvoering: {0}</value>
   </data>
   <data name="TabInterface" xml:space="preserve">
-    <value>Benutzeroberfläche</value>
+    <value>Interface</value>
   </data>
   <data name="TabAppearance" xml:space="preserve">
-    <value>Erscheinungsbild</value>
+    <value>Uiterlijk</value>
   </data>
   <data name="TabIdleBehaviors" xml:space="preserve">
-    <value>Ruhezustände</value>
+    <value>Inactiviteit</value>
   </data>
   <data name="BtnExportTemplate" xml:space="preserve">
-    <value>Sprachvorlage exportieren...</value>
+    <value>Taaltemplate exporteren...</value>
   </data>
   <data name="MsgTemplateExported" xml:space="preserve">
-    <value>Sprachvorlage erfolgreich exportiert!</value>
+    <value>Taaltemplate succesvol geëxporteerd!</value>
   </data>
 </root>
