@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- Seed translation produced with AI assistance and not yet reviewed by a native speaker. Any key that is ever removed falls back to English at runtime. -->
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
@@ -214,9 +272,6 @@
   <data name="BtnDonate" xml:space="preserve">
     <value>♥ Поддержать через PayPal</value>
   </data>
-  <data name="BtnImportLanguagePack" xml:space="preserve">
-    <value>Импортировать языковой пакет…</value>
-  </data>
   <data name="BtnManageAutomation" xml:space="preserve">
     <value>Управление автоматизацией</value>
   </data>
@@ -232,14 +287,14 @@
   <data name="BtnOpenBackupsFolder" xml:space="preserve">
     <value>Открыть папку резервных копий</value>
   </data>
-  <data name="BtnOpenLanguagesFolder" xml:space="preserve">
-    <value>Открыть папку языков</value>
-  </data>
   <data name="BtnOpenLog" xml:space="preserve">
     <value>Открыть журнал</value>
   </data>
   <data name="BtnOrganizeNow" xml:space="preserve">
     <value>Разобрать сейчас</value>
+  </data>
+  <data name="BtnReadMore" xml:space="preserve">
+    <value>Подробнее...</value>
   </data>
   <data name="BtnReset" xml:space="preserve">
     <value>Сбросить</value>
@@ -261,6 +316,9 @@
   </data>
   <data name="BtnSmartDesktopRules" xml:space="preserve">
     <value>Правила умного рабочего стола…</value>
+  </data>
+  <data name="BtnUpdateNow" xml:space="preserve">
+    <value>Обновить</value>
   </data>
   <data name="ButtonNo" xml:space="preserve">
     <value>Нет</value>
@@ -325,21 +383,6 @@
   <data name="CalcShowTape" xml:space="preserve">
     <value>Показывать ленту вычислений</value>
   </data>
-  <data name="CatArchives" xml:space="preserve">
-    <value>Архивы</value>
-  </data>
-  <data name="CatCustomExtensions" xml:space="preserve">
-    <value>Свои расширения...</value>
-  </data>
-  <data name="CatDocuments" xml:space="preserve">
-    <value>Документы</value>
-  </data>
-  <data name="CatExecutables" xml:space="preserve">
-    <value>Программы</value>
-  </data>
-  <data name="CatImages" xml:space="preserve">
-    <value>Изображения</value>
-  </data>
   <data name="ColDateModified" xml:space="preserve">
     <value>Дата изменения</value>
   </data>
@@ -391,15 +434,6 @@
   <data name="ConfirmDeleteTitle" xml:space="preserve">
     <value>Подтвердите удаление</value>
   </data>
-  <data name="ConflictAutoRename" xml:space="preserve">
-    <value>Переименовать автоматически (например, Файл (1).jpg)</value>
-  </data>
-  <data name="ConflictOverwrite" xml:space="preserve">
-    <value>Заменить (старый файл — в корзину)</value>
-  </data>
-  <data name="ConflictSkip" xml:space="preserve">
-    <value>Пропустить (оставить на рабочем столе)</value>
-  </data>
   <data name="CustomizeTitle" xml:space="preserve">
     <value>Настройка рамки</value>
   </data>
@@ -432,6 +466,9 @@
   </data>
   <data name="DlgBrowseError" xml:space="preserve">
     <value>Ошибка обзора</value>
+  </data>
+  <data name="DlgClearNote" xml:space="preserve">
+    <value>Очистить заметку</value>
   </data>
   <data name="DlgConfirmImport" xml:space="preserve">
     <value>Подтверждение импорта</value>
@@ -775,24 +812,6 @@
   <data name="KeyTilde" xml:space="preserve">
     <value>Тильда (~)</value>
   </data>
-  <data name="LangAutomatic" xml:space="preserve">
-    <value>Автоматически (как в Windows)</value>
-  </data>
-  <data name="LanguagePackBadName" xml:space="preserve">
-    <value>Имя файла должно быть кодом языка, например ru.resx или pt-BR.resx.</value>
-  </data>
-  <data name="LanguagePackFilter" xml:space="preserve">
-    <value>Языковые пакеты (*.resx)|*.resx</value>
-  </data>
-  <data name="LanguagePackImported" xml:space="preserve">
-    <value>Языковой пакет установлен: {0}. Перезапустите, чтобы увидеть его в списке.</value>
-  </data>
-  <data name="LastRunAt" xml:space="preserve">
-    <value>Последний удачный запуск: {0}</value>
-  </data>
-  <data name="LastRunNever" xml:space="preserve">
-    <value>Последний удачный запуск: никогда</value>
-  </data>
   <data name="LblActivationDelay" xml:space="preserve">
     <value>Задержка активации:</value>
   </data>
@@ -855,9 +874,6 @@
   </data>
   <data name="LblIconSpacing" xml:space="preserve">
     <value>Расстояние между значками:</value>
-  </data>
-  <data name="LblLanguage" xml:space="preserve">
-    <value>Язык интерфейса:</value>
   </data>
   <data name="LblLockIcon" xml:space="preserve">
     <value>Значок замка</value>
@@ -1074,6 +1090,9 @@
   </data>
   <data name="MsgCannotDeleteLastTab" xml:space="preserve">
     <value>Нельзя удалить последнюю оставшуюся вкладку.</value>
+  </data>
+  <data name="MsgClearNoteConfirm" xml:space="preserve">
+    <value>Действительно очистить весь текст этой заметки?</value>
   </data>
   <data name="MsgConfirmDeleteProfile" xml:space="preserve">
     <value>Удалить профиль «{0}»?
@@ -1350,6 +1369,9 @@
   <data name="NetUnreachable" xml:space="preserve">
     <value>Недоступно</value>
   </data>
+  <data name="NewFrameDefaultTitle" xml:space="preserve">
+    <value>Новая рамка - перетащите сюда ярлыки</value>
+  </data>
   <data name="NoteAutoOrganize" xml:space="preserve">
     <value>Примечание: автоматическая разборка следит за появлением новых файлов на рабочем столе. Когда файл подходит под условия включённого правила, он действительно переносится в указанную рамку-портал или папку. Так рабочий стол остаётся чистым, а загрузки сами попадают куда нужно.</value>
   </data>
@@ -1370,9 +1392,6 @@
   </data>
   <data name="NoteHotkeysRestart" xml:space="preserve">
     <value>Примечание: изменения глобальных горячих клавиш вступают в силу после перезапуска программы.</value>
-  </data>
-  <data name="NoteLanguageRestart" xml:space="preserve">
-    <value>Примечание: язык меняется после перезапуска программы. Пакеты, помещённые в папку Languages, читаются при следующем запуске.</value>
   </data>
   <data name="NoteTextFormat" xml:space="preserve">
     <value>Формат текста…</value>
@@ -1611,9 +1630,6 @@
   <data name="SecIdleFadeOut" xml:space="preserve">
     <value>Затухание при простое</value>
   </data>
-  <data name="SecLanguage" xml:space="preserve">
-    <value>Язык</value>
-  </data>
   <data name="SecLog" xml:space="preserve">
     <value>Журнал</value>
   </data>
@@ -1721,9 +1737,6 @@
   </data>
   <data name="TabTools" xml:space="preserve">
     <value>Инструменты</value>
-  </data>
-  <data name="TargetPortalFrame" xml:space="preserve">
-    <value>Рамка-портал: {0}</value>
   </data>
   <data name="TermClearHistory" xml:space="preserve">
     <value>Очистить историю команд</value>
@@ -2095,5 +2108,81 @@
   </data>
   <data name="LayoutFrame" xml:space="preserve">
     <value>Рамка</value>
+  </data>
+</root>
+  <data name="SecLanguage" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="LblLanguage" xml:space="preserve">
+    <value>Язык интерфейса:</value>
+  </data>
+  <data name="LangAutomatic" xml:space="preserve">
+    <value>Автоматически (как в Windows)</value>
+  </data>
+  <data name="BtnImportLanguagePack" xml:space="preserve">
+    <value>Импортировать языковой пакет…</value>
+  </data>
+  <data name="BtnOpenLanguagesFolder" xml:space="preserve">
+    <value>Открыть папку языков</value>
+  </data>
+  <data name="LanguagePackFilter" xml:space="preserve">
+    <value>Языковые пакеты (*.resx)|*.resx</value>
+  </data>
+  <data name="LanguagePackImported" xml:space="preserve">
+    <value>Языковой пакет установлен: {0}. Перезапустите, чтобы увидеть его в списке.</value>
+  </data>
+  <data name="LanguagePackBadName" xml:space="preserve">
+    <value>Имя файла должно быть кодом языка, например ru.resx или pt-BR.resx.</value>
+  </data>
+  <data name="NoteLanguageRestart" xml:space="preserve">
+    <value>Примечание: язык меняется после перезапуска программы. Пакеты, помещённые в папку Languages, читаются при следующем запуске.</value>
+  </data>
+  <data name="CatImages" xml:space="preserve">
+    <value>Изображения</value>
+  </data>
+  <data name="CatDocuments" xml:space="preserve">
+    <value>Документы</value>
+  </data>
+  <data name="CatExecutables" xml:space="preserve">
+    <value>Программы</value>
+  </data>
+  <data name="CatArchives" xml:space="preserve">
+    <value>Архивы</value>
+  </data>
+  <data name="CatCustomExtensions" xml:space="preserve">
+    <value>Свои расширения...</value>
+  </data>
+  <data name="ConflictAutoRename" xml:space="preserve">
+    <value>Переименовать автоматически (например, Файл (1).jpg)</value>
+  </data>
+  <data name="ConflictOverwrite" xml:space="preserve">
+    <value>Заменить (старый файл — в корзину)</value>
+  </data>
+  <data name="ConflictSkip" xml:space="preserve">
+    <value>Пропустить (оставить на рабочем столе)</value>
+  </data>
+  <data name="TargetPortalFrame" xml:space="preserve">
+    <value>Рамка-портал: {0}</value>
+  </data>
+  <data name="LastRunNever" xml:space="preserve">
+    <value>Последний удачный запуск: никогда</value>
+  </data>
+  <data name="LastRunAt" xml:space="preserve">
+    <value>Последний удачный запуск: {0}</value>
+  </data>
+  <data name="TabInterface" xml:space="preserve">
+    <value>Интерфейс</value>
+  </data>
+  <data name="TabAppearance" xml:space="preserve">
+    <value>Внешний вид</value>
+  </data>
+  <data name="TabIdleBehaviors" xml:space="preserve">
+    <value>Бездействие</value>
+  </data>
+  <data name="BtnExportTemplate" xml:space="preserve">
+    <value>Экспортировать языковой шаблон...</value>
+  </data>
+  <data name="MsgTemplateExported" xml:space="preserve">
+    <value>Языковой шаблон успешно экспортирован!</value>
   </data>
 </root>

@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
@@ -234,6 +293,9 @@ Oggi lo cura Nikos Georgousis, che lo ha ampliato e reso più stabile e piacevol
   <data name="BtnOrganizeNow" xml:space="preserve">
     <value>Organizza adesso</value>
   </data>
+  <data name="BtnReadMore" xml:space="preserve">
+    <value>Leggi di più...</value>
+  </data>
   <data name="BtnReset" xml:space="preserve">
     <value>Reimposta</value>
   </data>
@@ -254,6 +316,9 @@ Oggi lo cura Nikos Georgousis, che lo ha ampliato e reso più stabile e piacevol
   </data>
   <data name="BtnSmartDesktopRules" xml:space="preserve">
     <value>Regole del desktop intelligente...</value>
+  </data>
+  <data name="BtnUpdateNow" xml:space="preserve">
+    <value>Aggiorna ora</value>
   </data>
   <data name="ButtonNo" xml:space="preserve">
     <value>No</value>
@@ -401,6 +466,9 @@ Oggi lo cura Nikos Georgousis, che lo ha ampliato e reso più stabile e piacevol
   </data>
   <data name="DlgBrowseError" xml:space="preserve">
     <value>Errore di sfoglia</value>
+  </data>
+  <data name="DlgClearNote" xml:space="preserve">
+    <value>Cancella nota</value>
   </data>
   <data name="DlgConfirmImport" xml:space="preserve">
     <value>Conferma importazione</value>
@@ -1023,6 +1091,9 @@ Oggi lo cura Nikos Georgousis, che lo ha ampliato e reso più stabile e piacevol
   <data name="MsgCannotDeleteLastTab" xml:space="preserve">
     <value>Non puoi eliminare l'ultima scheda rimasta.</value>
   </data>
+  <data name="MsgClearNoteConfirm" xml:space="preserve">
+    <value>Vuoi davvero cancellare tutto il testo di questa nota?</value>
+  </data>
   <data name="MsgConfirmDeleteProfile" xml:space="preserve">
     <value>Vuoi davvero eliminare il profilo '{0}'?
 L'operazione non si può annullare.</value>
@@ -1297,6 +1368,9 @@ Vuoi riavviare adesso?</value>
   </data>
   <data name="NetUnreachable" xml:space="preserve">
     <value>Irraggiungibile</value>
+  </data>
+  <data name="NewFrameDefaultTitle" xml:space="preserve">
+    <value>Nuova frame - Trascina qui i tuoi collegamenti</value>
   </data>
   <data name="NoteAutoOrganize" xml:space="preserve">
     <value>Nota: l'organizzazione automatica sorveglia il desktop in cerca di file nuovi. Quando un file soddisfa le condizioni di una regola attiva, viene spostato davvero nella frame Portal o nella cartella indicata. Serve a tenere il desktop sempre pulito e a smistare i download da soli.</value>
@@ -2094,5 +2168,21 @@ Verranno conservate le istantanee manuali e fissate e la più recente tra quelle
   </data>
   <data name="LayoutFrame" xml:space="preserve">
     <value>Riquadro</value>
+  </data>
+</root>
+  <data name="TabInterface" xml:space="preserve">
+    <value>Interfaccia</value>
+  </data>
+  <data name="TabAppearance" xml:space="preserve">
+    <value>Aspetto</value>
+  </data>
+  <data name="TabIdleBehaviors" xml:space="preserve">
+    <value>Inattività</value>
+  </data>
+  <data name="BtnExportTemplate" xml:space="preserve">
+    <value>Esporta modello di lingua...</value>
+  </data>
+  <data name="MsgTemplateExported" xml:space="preserve">
+    <value>Modello di lingua esportato con successo!</value>
   </data>
 </root>

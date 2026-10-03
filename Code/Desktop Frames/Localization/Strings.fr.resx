@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- Seed translation produced with AI assistance and not yet reviewed by a native speaker. Any key that is ever removed falls back to English at runtime. -->
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
@@ -214,9 +272,6 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   <data name="BtnDonate" xml:space="preserve">
     <value>♥ Faire un don via PayPal</value>
   </data>
-  <data name="BtnImportLanguagePack" xml:space="preserve">
-    <value>Importer un pack de langue…</value>
-  </data>
   <data name="BtnManageAutomation" xml:space="preserve">
     <value>Gérer l'automatisation</value>
   </data>
@@ -232,14 +287,14 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   <data name="BtnOpenBackupsFolder" xml:space="preserve">
     <value>Ouvrir le dossier des sauvegardes</value>
   </data>
-  <data name="BtnOpenLanguagesFolder" xml:space="preserve">
-    <value>Ouvrir le dossier des langues</value>
-  </data>
   <data name="BtnOpenLog" xml:space="preserve">
     <value>Ouvrir le journal</value>
   </data>
   <data name="BtnOrganizeNow" xml:space="preserve">
     <value>Organiser maintenant</value>
+  </data>
+  <data name="BtnReadMore" xml:space="preserve">
+    <value>En savoir plus...</value>
   </data>
   <data name="BtnReset" xml:space="preserve">
     <value>Réinitialiser</value>
@@ -261,6 +316,9 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   </data>
   <data name="BtnSmartDesktopRules" xml:space="preserve">
     <value>Règles du bureau intelligent…</value>
+  </data>
+  <data name="BtnUpdateNow" xml:space="preserve">
+    <value>Mettre à jour</value>
   </data>
   <data name="ButtonNo" xml:space="preserve">
     <value>Non</value>
@@ -325,21 +383,6 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   <data name="CalcShowTape" xml:space="preserve">
     <value>Afficher le ruban des calculs</value>
   </data>
-  <data name="CatArchives" xml:space="preserve">
-    <value>Archives</value>
-  </data>
-  <data name="CatCustomExtensions" xml:space="preserve">
-    <value>Extensions personnalisées...</value>
-  </data>
-  <data name="CatDocuments" xml:space="preserve">
-    <value>Documents</value>
-  </data>
-  <data name="CatExecutables" xml:space="preserve">
-    <value>Exécutables</value>
-  </data>
-  <data name="CatImages" xml:space="preserve">
-    <value>Images</value>
-  </data>
   <data name="ColDateModified" xml:space="preserve">
     <value>Date de modification</value>
   </data>
@@ -391,15 +434,6 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   <data name="ConfirmDeleteTitle" xml:space="preserve">
     <value>Confirmer la suppression</value>
   </data>
-  <data name="ConflictAutoRename" xml:space="preserve">
-    <value>Renommer automatiquement (ex. Fichier (1).jpg)</value>
-  </data>
-  <data name="ConflictOverwrite" xml:space="preserve">
-    <value>Remplacer (l'ancien fichier va à la corbeille)</value>
-  </data>
-  <data name="ConflictSkip" xml:space="preserve">
-    <value>Ignorer (laisser sur le bureau)</value>
-  </data>
   <data name="CustomizeTitle" xml:space="preserve">
     <value>Personnaliser le cadre</value>
   </data>
@@ -432,6 +466,9 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   </data>
   <data name="DlgBrowseError" xml:space="preserve">
     <value>Erreur de parcours</value>
+  </data>
+  <data name="DlgClearNote" xml:space="preserve">
+    <value>Effacer la note</value>
   </data>
   <data name="DlgConfirmImport" xml:space="preserve">
     <value>Confirmer l'importation</value>
@@ -775,24 +812,6 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   <data name="KeyTilde" xml:space="preserve">
     <value>Tilde (~)</value>
   </data>
-  <data name="LangAutomatic" xml:space="preserve">
-    <value>Automatique (suivre Windows)</value>
-  </data>
-  <data name="LanguagePackBadName" xml:space="preserve">
-    <value>Le nom du fichier doit être un code de culture, comme fr.resx ou pt-BR.resx.</value>
-  </data>
-  <data name="LanguagePackFilter" xml:space="preserve">
-    <value>Packs de langue (*.resx)|*.resx</value>
-  </data>
-  <data name="LanguagePackImported" xml:space="preserve">
-    <value>Pack de langue installé : {0}. Redémarrez pour le voir dans la liste.</value>
-  </data>
-  <data name="LastRunAt" xml:space="preserve">
-    <value>Dernière exécution réussie : {0}</value>
-  </data>
-  <data name="LastRunNever" xml:space="preserve">
-    <value>Dernière exécution réussie : jamais</value>
-  </data>
   <data name="LblActivationDelay" xml:space="preserve">
     <value>Délai d'activation :</value>
   </data>
@@ -855,9 +874,6 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   </data>
   <data name="LblIconSpacing" xml:space="preserve">
     <value>Espacement des icônes :</value>
-  </data>
-  <data name="LblLanguage" xml:space="preserve">
-    <value>Langue de l'interface :</value>
   </data>
   <data name="LblLockIcon" xml:space="preserve">
     <value>Icône du cadenas</value>
@@ -1074,6 +1090,9 @@ Il est aujourd'hui maintenu par Nikos Georgousis, qui l'a enrichi et rendu plus 
   </data>
   <data name="MsgCannotDeleteLastTab" xml:space="preserve">
     <value>Impossible de supprimer le dernier onglet.</value>
+  </data>
+  <data name="MsgClearNoteConfirm" xml:space="preserve">
+    <value>Voulez-vous vraiment effacer tout le texte de cette note ?</value>
   </data>
   <data name="MsgConfirmDeleteProfile" xml:space="preserve">
     <value>Voulez-vous vraiment supprimer le profil '{0}' ?
@@ -1350,6 +1369,9 @@ Redémarrer maintenant ?</value>
   <data name="NetUnreachable" xml:space="preserve">
     <value>Injoignable</value>
   </data>
+  <data name="NewFrameDefaultTitle" xml:space="preserve">
+    <value>Nouveau cadre - Déposez vos raccourcis ici</value>
+  </data>
   <data name="NoteAutoOrganize" xml:space="preserve">
     <value>Remarque : l'organisation automatique surveille le bureau à la recherche de nouveaux fichiers. Quand un fichier remplit les conditions d'une règle active, il est réellement déplacé vers le cadre Portail ou le dossier indiqué. De quoi garder le bureau propre et router les téléchargements tout seuls.</value>
   </data>
@@ -1370,9 +1392,6 @@ Redémarrer maintenant ?</value>
   </data>
   <data name="NoteHotkeysRestart" xml:space="preserve">
     <value>Remarque : les modifications des raccourcis globaux prennent effet après redémarrage du programme.</value>
-  </data>
-  <data name="NoteLanguageRestart" xml:space="preserve">
-    <value>Remarque : la langue change après le redémarrage du programme. Les packs déposés dans le dossier Languages sont pris en compte au démarrage suivant.</value>
   </data>
   <data name="NoteTextFormat" xml:space="preserve">
     <value>Format du texte…</value>
@@ -1611,9 +1630,6 @@ Redémarrer maintenant ?</value>
   <data name="SecIdleFadeOut" xml:space="preserve">
     <value>Fondu à l'inactivité</value>
   </data>
-  <data name="SecLanguage" xml:space="preserve">
-    <value>Langue</value>
-  </data>
   <data name="SecLog" xml:space="preserve">
     <value>Journal</value>
   </data>
@@ -1721,9 +1737,6 @@ Redémarrer maintenant ?</value>
   </data>
   <data name="TabTools" xml:space="preserve">
     <value>Outils</value>
-  </data>
-  <data name="TargetPortalFrame" xml:space="preserve">
-    <value>Cadre Portail : {0}</value>
   </data>
   <data name="TermClearHistory" xml:space="preserve">
     <value>Effacer l'historique des commandes</value>
@@ -2095,5 +2108,81 @@ Les instantanés manuels et épinglés ainsi que le plus récent des instantané
   </data>
   <data name="LayoutFrame" xml:space="preserve">
     <value>Cadre</value>
+  </data>
+</root>
+  <data name="SecLanguage" xml:space="preserve">
+    <value>Langue</value>
+  </data>
+  <data name="LblLanguage" xml:space="preserve">
+    <value>Langue de l'interface :</value>
+  </data>
+  <data name="LangAutomatic" xml:space="preserve">
+    <value>Automatique (suivre Windows)</value>
+  </data>
+  <data name="BtnImportLanguagePack" xml:space="preserve">
+    <value>Importer un pack de langue…</value>
+  </data>
+  <data name="BtnOpenLanguagesFolder" xml:space="preserve">
+    <value>Ouvrir le dossier des langues</value>
+  </data>
+  <data name="LanguagePackFilter" xml:space="preserve">
+    <value>Packs de langue (*.resx)|*.resx</value>
+  </data>
+  <data name="LanguagePackImported" xml:space="preserve">
+    <value>Pack de langue installé : {0}. Redémarrez pour le voir dans la liste.</value>
+  </data>
+  <data name="LanguagePackBadName" xml:space="preserve">
+    <value>Le nom du fichier doit être un code de culture, comme fr.resx ou pt-BR.resx.</value>
+  </data>
+  <data name="NoteLanguageRestart" xml:space="preserve">
+    <value>Remarque : la langue change après le redémarrage du programme. Les packs déposés dans le dossier Languages sont pris en compte au démarrage suivant.</value>
+  </data>
+  <data name="CatImages" xml:space="preserve">
+    <value>Images</value>
+  </data>
+  <data name="CatDocuments" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="CatExecutables" xml:space="preserve">
+    <value>Exécutables</value>
+  </data>
+  <data name="CatArchives" xml:space="preserve">
+    <value>Archives</value>
+  </data>
+  <data name="CatCustomExtensions" xml:space="preserve">
+    <value>Extensions personnalisées...</value>
+  </data>
+  <data name="ConflictAutoRename" xml:space="preserve">
+    <value>Renommer automatiquement (ex. Fichier (1).jpg)</value>
+  </data>
+  <data name="ConflictOverwrite" xml:space="preserve">
+    <value>Remplacer (l'ancien fichier va à la corbeille)</value>
+  </data>
+  <data name="ConflictSkip" xml:space="preserve">
+    <value>Ignorer (laisser sur le bureau)</value>
+  </data>
+  <data name="TargetPortalFrame" xml:space="preserve">
+    <value>Cadre Portail : {0}</value>
+  </data>
+  <data name="LastRunNever" xml:space="preserve">
+    <value>Dernière exécution réussie : jamais</value>
+  </data>
+  <data name="LastRunAt" xml:space="preserve">
+    <value>Dernière exécution réussie : {0}</value>
+  </data>
+  <data name="TabInterface" xml:space="preserve">
+    <value>Interface</value>
+  </data>
+  <data name="TabAppearance" xml:space="preserve">
+    <value>Apparence</value>
+  </data>
+  <data name="TabIdleBehaviors" xml:space="preserve">
+    <value>Veille</value>
+  </data>
+  <data name="BtnExportTemplate" xml:space="preserve">
+    <value>Exporter le modèle de langue...</value>
+  </data>
+  <data name="MsgTemplateExported" xml:space="preserve">
+    <value>Modèle de langue exporté avec succès !</value>
   </data>
 </root>
